@@ -1,0 +1,6 @@
+{
+    "title": "Gulper.io",
+    "description": "You are on a standard arcade board filled with neon bits of food to eat: think about it like Snake meets Tron. The gameplay is straightforward: mouse movements guide the only moves you can make, and clicking will give you a boost. There is no way to pause or stop in your tracks. The game aims to help you eat as much as possible, so you become longer, stronger, and thicker. Why? If other snakes bump into you, they will die. Oh yeah, multiple other snakes are fighting for the same food and territory!\nThe game never ends. Or rather, it ends when you die. Avoid other snakes on the board at all costs if you want to make it to the infinite end.",
+    "cover_image": "https://imgs.crazygames.com/games/gulper-io/cover_16x9-1722864711255.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "link": "https://www.crazygames.com/embed/gulper-io"
+}
