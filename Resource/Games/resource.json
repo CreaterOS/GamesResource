@@ -80,9 +80,15 @@
             },
             {
                 "title": "Archer Clash",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/archer-clash-ftj_16x9/20250613030347/archer-clash-ftj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/archer-clash-ftj"
+            },
+            {
+                "title": "BattleDudes.io",
+                "description": "You can use over 20 different weapons to take down your opponents. You will have multiple weapons in each loadout, and you can easily switch these weapons using the number keys.",
+                "cover_image": "https://imgs.crazygames.com/battledudes-io_16x9/20241216121046/battledudes-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/battledudes-io"
             },
             {
                 "title": "Big Battle Mini",
@@ -92,7 +98,7 @@
             },
             {
                 "title": "BlockTanks.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/blocktanks-io_16x9/20240108063944/blocktanks-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/blocktanks-io"
             },
@@ -115,16 +121,40 @@
                 "link": "https://www.crazygames.com/embed/buildroyale-io"
             },
             {
+                "title": "Chompers.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/games/chompers-io/cover-1584553166691.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/chompers-io"
+            },
+            {
+                "title": "ClashBall.io",
+                "description": "Clashball is a fast-paced multiplayer arena where a homing ball relentlessly hunts players, and it only gets faster with each deflection. When the ball turns red, it's locked onto you. Click or press C at just the right moment to slash it with your blade and send it flying toward someone else. Mistime it, and you're eliminated.\nYou’ll start in the lobby, where you can watch matches. Head to the training zone in the top corner to practice—here, the ball bounces between you and the central pole, perfect for sharpening your reflexes.\nOnce the game begins, you're teleported into the arena. Fight to survive by dodging, deflecting, and aiming the ball at others. The longer the game goes, the faster and more chaotic it gets. Eliminate opponents and be the last one standing to win!\nAs you play, you’ll level up and earn coins. Use them to upgrade your movement speed, jump height, ball speed, and the number of times you can jump in a row. You can also unlock customization options like new outfits, hats, hairstyles, and swords.",
+                "cover_image": "https://imgs.crazygames.com/clashball-io_16x9/20250401163708/clashball-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/clashball-io"
+            },
+            {
+                "title": "Copter.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/games/copter-io/cover-1585071180766.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/copter-io"
+            },
+            {
                 "title": "CubeRealm.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/cuberealm-io_16x9/20240823093148/cuberealm-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/cuberealm-io"
             },
             {
                 "title": "Cubes 2048.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/cubes-2048-io"
+            },
+            {
+                "title": "Cubox.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/cubox-io-fgt_16x9/20250411042104/cubox-io-fgt_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/cubox-io-fgt"
             },
             {
                 "title": "DEADSHOT.io",
@@ -134,19 +164,31 @@
             },
             {
                 "title": "Diep.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/diepio/20230629173952/diepio-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/diepio"
             },
             {
                 "title": "digdig.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/digdig-io/cover-1626772723952.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/digdig-io"
             },
             {
-                "title": "Ducklings",
+                "title": "Digworm.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/digworm-io_16x9/20250716083941/digworm-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/digworm-io"
+            },
+            {
+                "title": "Dragon.io",
                 "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/dragon-io_16x9/20231025064843/dragon-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/dragon-io"
+            },
+            {
+                "title": "Ducklings",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/ducklings/20210304172146/ducklings-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/ducklings"
             },
@@ -158,7 +200,7 @@
             },
             {
                 "title": "Egg Folks Multiplayer",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/egg-folks-multiplayer/cover_16x9-1739368883725.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/egg-folks-multiplayer"
             },
@@ -170,13 +212,13 @@
             },
             {
                 "title": "Escape From Pizzeria",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/escape-from-pizzeria_16x9/20250709080343/escape-from-pizzeria_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/escape-from-pizzeria"
             },
             {
                 "title": "Eternal Siege",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/eternal-siege_16x9/20250625105616/eternal-siege_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/eternal-siege"
             },
@@ -242,13 +284,19 @@
             },
             {
                 "title": "Holey.io Battle Royale",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/holey-io-battle-royale_16x9/20231023094206/holey-io-battle-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/holey-io-battle-royale"
             },
             {
+                "title": "Industry Idle",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/industry-idle/20220428104600/industry-idle-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/industry-idle"
+            },
+            {
                 "title": "Brainrots.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/italianbrainrotquiz-io_16x9/20250604082234/italianbrainrotquiz-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/italianbrainrotquiz-io"
             },
@@ -278,9 +326,15 @@
             },
             {
                 "title": "Kirka.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/kirka-io/cover_16x9-1736260059015.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/kirka-io"
+            },
+            {
+                "title": "Knife.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/knife-io_16x9/20250418110423/knife-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/knife-io"
             },
             {
                 "title": "Kour.io",
@@ -302,13 +356,13 @@
             },
             {
                 "title": "LOLBeans io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/lolbeans-io/cover-1603275114093.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/lolbeans-io"
             },
             {
                 "title": "Lurkers.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/lurkers-io_16x9/20250218095033/lurkers-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/lurkers-io"
             },
@@ -320,7 +374,7 @@
             },
             {
                 "title": "Miniblox",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/miniblox_16x9/20240617083401/miniblox_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/miniblox"
             },
@@ -337,8 +391,20 @@
                 "link": "https://www.crazygames.com/embed/mk48-io"
             },
             {
+                "title": "MooMoo.io Sandbox",
+                "description": "The sandbox is where you go for unlimited resources, to try out new ideas and push them to the limit. Place as many items as you want and build the most epic base.\nOther than that, it's the same as MooMoo.io, and you can still be killed by other players, who also have unlimited resources. If you want a more peaceful game to test your creativity, it's wise to find less populated servers.",
+                "cover_image": "https://imgs.crazygames.com/games/moomoo-io-sandbox/thumb-1556105548041.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/moomoo-io-sandbox"
+            },
+            {
+                "title": "MooMoo.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/games/moomooio/cover-1616832340489.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/moomooio"
+            },
+            {
                 "title": "Mope.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/mopeio/cover-1587301148839.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/mopeio"
             },
@@ -350,7 +416,7 @@
             },
             {
                 "title": "Netquel",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/netquel-com_16x9/20231102034936/netquel-com_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/netquel-com"
             },
@@ -361,10 +427,22 @@
                 "link": "https://www.crazygames.com/embed/noob-snake-2048"
             },
             {
+                "title": "NuggetRoyale.io (Nugget Royale)",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/games/nuggetroyale-io/thumb-1571999175942.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/nuggetroyale-io"
+            },
+            {
                 "title": "Overtide.io",
                 "description": "Overtide.io is a high-speed FPS where sharp aim and strategic moves decide who survives. You’ll choose from a range of weapons tailored to different combat styles, from high-damage rifles to close-range shotguns. Master the unique feel of each loadout and fine-tune your approach to suit the fast-moving action. Whether you’re hunting enemies or watching your own back, positioning and timing are everything.\nChoose from a variety of weapons, each with its own strengths and weaknesses:\nExplore the gamescape while dodging bullets and hunting down opponents. The arena is a sprawling, labyrinth-like battleground, demanding quick reflexes and constant awareness. Use the mouse for precision aiming, and trust no one—survival depends on staying alert and striking first.\nWant to play with friends? Create private rooms and sharpen your aim by blasting practice chickens before diving into full-scale combat. Tackle competitive modes like Free-For-All and Kill Confirmed, unlock powerful gear, and upgrade your arsenal. The more you play, the more you climb: prove you’ve got the skills to dominate the leaderboard.",
                 "cover_image": "https://imgs.crazygames.com/overtide-io_16x9/20250501062749/overtide-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/overtide-io"
+            },
+            {
+                "title": "Paint War",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/paint-war_16x9/20250711070104/paint-war_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/paint-war"
             },
             {
                 "title": "Paper.io 2",
@@ -386,7 +464,7 @@
             },
             {
                 "title": "Rocket Bot Royale",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/games/rocket-bot-royale/cover_16x9-1732723484943.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/rocket-bot-royale"
             },
@@ -410,25 +488,25 @@
             },
             {
                 "title": "Simply Prop Hunt",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/simply-prop-hunt_16x9/20250826074007/simply-prop-hunt_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/simply-prop-hunt"
             },
             {
                 "title": "SimplyUp.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/simplyup-io_16x9/20250710064001/simplyup-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/simplyup-io"
             },
             {
                 "title": "SlitherCraft.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/slithercraft-io/20220419141908/slithercraft-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/slithercraft-io"
             },
             {
                 "title": "Smash Karts",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/smash-karts_16x9/20250820055325/smash-karts_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/smash-karts"
             },
@@ -440,9 +518,15 @@
             },
             {
                 "title": "Snake.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/snake-io"
+            },
+            {
+                "title": "Snake Lite",
+                "description": "Slither through the worm zone, eat, and grow to dominate the worm.io battle. The game keeps things simple and retains the core gameplay of classic snake games with unique graphics.\nThis 3D multiplayer worm slink game offers offline and online play, allowing you to enjoy it solo or challenge snake rivals and friends. Snake Lite Worm is designed for smooth controls and fast performance. You can engage in multiplayer Battle Royale, survive the classic hunt of snakes and zone worms, and compete for high scores online.\nKey Features:\nIf you enjoy .io games like this, don't hesitate to play Snake Lite and join the slithering action in this crazy arcade game. Hunt for the largest worm in the worm arena and become the ultimate worm. Join the community of Snake Lite fans in this free casual game!",
+                "cover_image": "https://imgs.crazygames.com/snake-lite-worm-snake-game_16x9/20231030060228/snake-lite-worm-snake-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/snake-lite-worm-snake-game"
             },
             {
                 "title": "Space.io",
@@ -469,14 +553,20 @@
                 "link": "https://www.crazygames.com/embed/starblastio"
             },
             {
+                "title": "Sugar Rush",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/sugar-rush/20230309173408/sugar-rush-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/sugar-rush"
+            },
+            {
                 "title": "Survev.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/survev_16x9/20250121025040/survev_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/survev"
             },
             {
                 "title": "Taming.io",
-                "description": "(未找到描述)",
+                "description": "",
                 "cover_image": "https://imgs.crazygames.com/taming-io_16x9/20231110124553/taming-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/taming-io"
             },
@@ -491,6 +581,12 @@
                 "description": "TileMan.io gameplay is relatively simple, but the strategy is not as straightforward. You are in the center of a grid board, and your objective is to expand your territory by claiming more and more tiles. To do this, move your mousepad or use the WASD keys to move left, right, up, and down. Easy enough? The catch is that you need to expand your territory without getting cut off by one of the many other players in the game. You can get cut off if your line of path is cut. Be careful because you can actually cut within your own path and lose the game by accidentally killing yourself. The only way to protect yourself is by remaining on your territory, but doing so won't get your expansion strategy very far.\nTerritory is \"claimed\" when you convert blocks by creating a complete square—the enclosed blocks will turn to your color once you close the gap. If you go too far and attempt to expand too fast, you will find yourself too far from safety and will likely be killed by an opponent player.\nYou must avoid your opponents or try to trap them within your squares and make them crash into you. Use a careful approach, and don't go in all guns blazing! Can you conquer the TileMan arena?",
                 "cover_image": "https://imgs.crazygames.com/tileman-io_16x9/20241129083352/tileman-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/tileman-io"
+            },
+            {
+                "title": "UpRunner",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/uprunner_16x9/20241210033853/uprunner_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/uprunner"
             },
             {
                 "title": "War Brokers",
@@ -521,6 +617,12 @@
                 "description": "WormsZone.io is survival of the fittest. You're a worm, and you must eat and grow to be big and strong. Who knew being a worm could be so much fun? Try to trap your opponents so you can get all of their delicious food.\nPressing the left or right mouse button allows you to turbo-speed your worm. Use it sparingly and tactically to sprint ahead of the other players and secure big rewards, but be advised: the more you use your turbo, the faster your worm shrinks.\nAs you get larger, you get slower. Turbo also becomes more costly for your score, so use it sparingly when you are big and plentifully when you are small.\nBe aware that upgrades you can buy in the menu don't make your worm perform better in the arena, but improve the effectiveness and/or duration of the power-ups found while playing, so don't be tricked by those.",
                 "cover_image": "https://imgs.crazygames.com/worms-zone_16x9/20241128100948/worms-zone_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
                 "link": "https://www.crazygames.com/embed/worms-zone"
+            },
+            {
+                "title": "Yohoho.io",
+                "description": "",
+                "cover_image": "https://imgs.crazygames.com/games/yohoho-io/cover-1585071171896.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/yohoho-io"
             }
         ]
     },
