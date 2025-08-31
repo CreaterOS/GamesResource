@@ -1,1 +1,567 @@
-[{"Action": []},{"Adventure": []},{"Basketball": []},{"Beauty": []},{"Bike": []},{"Car": []},{"Card": []},{"Casual": []},{"Clicker": []},{"Controller": []},{"DressUp": []},{"Driving": []},{"Escape": []},{"FPS": []},{"Flash": []},{"Horror": []},{"IO": ["1v1-lol","agario","archer-clash-ftj","big-battle-mini","blocktanks-io","bloxdhop-io","brutalmania-io","buildroyale-io","cuberealm-io","cubes-2048-io","deadshot-io","diepio","digdig-io","ducklings","duckpark-io","egg-folks-multiplayer","epicballz-io","escape-from-pizzeria","eternal-siege","ev-io","evowarsio","ferals-io","fish-io-be-the-king","flyordieio","goober-dash","goober-shot","gulper-io","hand-spinner-io-3d","hexanaut-io","holey-io-battle-royale","italianbrainrotquiz-io","junon-io","katan-io","king-io-world-war","kiomet-com","kirka-io","kour-io","krunker-io","little-big-snake-io","lolbeans-io","lurkers-io","mine-craft-io","miniblox","minigiants-io","mk48-io","mopeio","narrow-one","netquel-com","noob-snake-2048","overtide-io","paper-io-2","pixel-warfare","poxel-io","rocket-bot-royale","sandstrike-io","seadragons-io","ships-3d","simply-prop-hunt","simplyup-io","slithercraft-io","smash-karts","snake-clash-io","snake-io","space-io-vft","stabfish-io","stabfish2-io-multiplayer","starblastio","survev","taming-io","tanks-3d","tileman-io","war-brokers-io","warcall-io","worm-hunt","wormateio","worms-zone"]},{"Mahjong": []},{"Minecraft": []},{"Pool": []},{"Puzzle": []},{"Shooting": []},{"Soccer": []},{"Sports": []},{"Stickman": []},{"Thinky": []},{"TowerDefense": []}]
+[
+    {
+        "name": "Action",
+        "items": []
+    },
+    {
+        "name": "Adventure",
+        "items": []
+    },
+    {
+        "name": "Basketball",
+        "items": []
+    },
+    {
+        "name": "Beauty",
+        "items": []
+    },
+    {
+        "name": "Bike",
+        "items": []
+    },
+    {
+        "name": "Car",
+        "items": []
+    },
+    {
+        "name": "Card",
+        "items": []
+    },
+    {
+        "name": "Casual",
+        "items": []
+    },
+    {
+        "name": "Clicker",
+        "items": []
+    },
+    {
+        "name": "Controller",
+        "items": []
+    },
+    {
+        "name": "DressUp",
+        "items": []
+    },
+    {
+        "name": "Driving",
+        "items": []
+    },
+    {
+        "name": "Escape",
+        "items": []
+    },
+    {
+        "name": "FPS",
+        "items": []
+    },
+    {
+        "name": "Flash",
+        "items": []
+    },
+    {
+        "name": "Horror",
+        "items": []
+    },
+    {
+        "name": "IO",
+        "items": [
+            {
+                "title": "1v1.LOL",
+                "description": "How you play 1v1.lol depends on the game mode. In most cases, you’ll be playing battle royale, so your objective is to eliminate opponents and become the last remaining survivor.",
+                "cover_image": "https://imgs.crazygames.com/games/1v1-lol/cover-1585728351086.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/1v1-lol"
+            },
+            {
+                "title": "Agar.io",
+                "description": "The game has 2 simple rules to follow:\nSlide around the Agario battleground, trying to exist as a single cell looking to evolve. Think like a survivor - don’t just avoid bigger agar, go in for the kill and eat as much as you can!\nPick up all the smaller blobs and eat the other players to grow larger in size. Avoid blobs bigger than you as they will consume you, which means game over! But you can always start the game over and go for your next best record.",
+                "cover_image": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/agario"
+            },
+            {
+                "title": "Archer Clash",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/archer-clash-ftj_16x9/20250613030347/archer-clash-ftj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/archer-clash-ftj"
+            },
+            {
+                "title": "Big Battle Mini",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/big-battle-mini_16x9/20250715033353/big-battle-mini_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/big-battle-mini"
+            },
+            {
+                "title": "BlockTanks.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/blocktanks-io_16x9/20240108063944/blocktanks-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/blocktanks-io"
+            },
+            {
+                "title": "Bloxd.io",
+                "description": "Bloxd.io is a sandbox game in which you navigate challenging obstacle courses by timing your jumps and movements accurately. In survival mode, you gather resources, craft tools, and fend off enemies to stay alive. There are several game modes to choose from to start the game, each with a variety of challenges.",
+                "cover_image": "https://imgs.crazygames.com/bloxdhop-io_16x9/20250829023851/bloxdhop-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/bloxdhop-io"
+            },
+            {
+                "title": "BrutalMania.io (Brutal Mania)",
+                "description": "The aim of the game is to destroy your enemies in the arena—kill or be killed. You are in an arena together with other players from around the world. Destroy your way through the competition with your massive mallet, unleashing chaos and destruction in every swing! Is the game gory? Only if you want it to be. You get to choose your gore level, choosing from blood effects that are not at all standard or brutal, not for the faint of heart.\nThe game is fast-paced, and you will need to hold your own out there in the arena. Your score is determined by kills and time spent. Pay attention to your opponent's weapon. You won't be able to kill easily without an upgraded weapon, so you will want to move from a club to a weapon of choice to be a bit more competitive on the battlefield.\nThere are plenty of ways you can level up, but the easiest way is to collect orbs. You can also collect coins by slaying enemies. Currency is key. The more you destroy, the more coins you get, which helps you level up and unlock powerful upgrades, turning you into an unstoppable force on the battlefield. Crush your enemies, dominate the arena, and when you’ve laid waste to everything in sight, dive into a new lobby to wreak havoc all over again!",
+                "cover_image": "https://imgs.crazygames.com/games/brutalmania-io/cover-1584553430060.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/brutalmania-io"
+            },
+            {
+                "title": "Build Royale",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/buildroyale-io/20230424161238/buildroyale-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/buildroyale-io"
+            },
+            {
+                "title": "CubeRealm.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/cuberealm-io_16x9/20240823093148/cuberealm-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/cuberealm-io"
+            },
+            {
+                "title": "Cubes 2048.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/cubes-2048-io"
+            },
+            {
+                "title": "DEADSHOT.io",
+                "description": "DEADSHOT is a skill-based FPS that follows in the footsteps of great competitive FPS games like CS:GO. Click 'play' to instantly hop into an online game on several maps and game modes. You can invite a party of friends to join in with you! If you want to play a specific mode or map, you can join a custom game or create your own.",
+                "cover_image": "https://imgs.crazygames.com/games/deadshot-io/cover_16x9-1694770506842.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/deadshot-io"
+            },
+            {
+                "title": "Diep.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/diepio/20230629173952/diepio-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/diepio"
+            },
+            {
+                "title": "digdig.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/digdig-io/cover-1626772723952.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/digdig-io"
+            },
+            {
+                "title": "Ducklings",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/ducklings/20210304172146/ducklings-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/ducklings"
+            },
+            {
+                "title": "DuckPark.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/duckpark-io/cover-1585853392521.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/duckpark-io"
+            },
+            {
+                "title": "Egg Folks Multiplayer",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/egg-folks-multiplayer/cover_16x9-1739368883725.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/egg-folks-multiplayer"
+            },
+            {
+                "title": "EpicBallz.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/epicballz-io_16x9/20240226081258/epicballz-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/epicballz-io"
+            },
+            {
+                "title": "Escape From Pizzeria",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/escape-from-pizzeria_16x9/20250709080343/escape-from-pizzeria_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/escape-from-pizzeria"
+            },
+            {
+                "title": "Eternal Siege",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/eternal-siege_16x9/20250625105616/eternal-siege_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/eternal-siege"
+            },
+            {
+                "title": "Ev.io",
+                "description": "To play Ev.io, simply click to be randomly added to a game. You can play free-for-all and team deathmatch games.\nLevels\nEv.io has various science-fiction-inspired levels. Use the futuristic architecture tactically to your advantage. Double and triple jump to reach high places and surprise your opponents with an attack from above.\nWeapons\nThere’s a range of arms in Ev.io, and you can choose the weapon you’ll spawn with and set it as your default loadout:\nWhen you’re in the game, guns are scattered around the map at specific points. These include:\nAbilities\nEv.io features a simple abilities tree covering jump height, ammo, teleport, stamina, and reload speed. From the abilities page, you can also change your default weapon.",
+                "cover_image": "https://imgs.crazygames.com/games/ev-io/cover_16x9-1702303918732.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/ev-io"
+            },
+            {
+                "title": "EvoWars.io",
+                "description": "Embark on an epic quest across the digital battlefield, where you’ll collect powerful orbs to evolve your warrior into unstoppable forms. As you slash through enemies with swords, axes, and a brutal arsenal of weapons, each battle pushes you closer to becoming the ultimate warrior. With more than 15 unique character models to unlock, your journey is one of constant evolution and power.\nYou control a constantly advancing warrior with your mouse, swinging your weapon to defeat enemies and collect XP to evolve into stronger forms with bigger weapons and greater attack range. As you play, you'll unlock more evolutions and customize your warrior with different weapons and gear to eliminate all other fighters on the field while growing stronger.\nAs you accumulate points, you will be able to upgrade gameplay dynamics. It will take some time to reach your desired destination. It's not the easiest game to master.\nThe key to this 2D top-down game is winning battles. Each victory allows you to grow stronger, but the battlefield isn’t just about brute strength; you’ll need to define your play style and use every opportunity to outmaneuver your enemies. Whether you’re charging headfirst into combat or taking a more tactical approach, dominance is at your fingertips.\nThere is a very large online community around EvoWars.io and when playing it you'll face opponents from every part of the world: it is particularly popular in Vietnam, where it is one of the most popular browser games.",
+                "cover_image": "https://imgs.crazygames.com/games/evowarsio/cover_16x9-1736776369217.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/evowarsio"
+            },
+            {
+                "title": "Ferals.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/ferals-io_16x9/20230914024003/ferals-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/ferals-io"
+            },
+            {
+                "title": "Fish IO",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/fish-io-be-the-king_16x9/20250220093055/fish-io-be-the-king_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/fish-io-be-the-king"
+            },
+            {
+                "title": "EvoWorld.io (FlyOrDie.io)",
+                "description": "Eat items and animals outlined in green, earn XP and progress on the evolution ladder. Avoid animals with a red outline, because they will eat you! You’ll be fighting for survival against hundreds of other players, so make sure you keep moving and keep eating. Keep an eye on your water level, as you’ll need plenty of water to survive.\nThere is just one playing mode: free-for-all.",
+                "cover_image": "https://imgs.crazygames.com/flyordieio/20210614144226/flyordieio-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/flyordieio"
+            },
+            {
+                "title": "Goober Dash",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/goober-dash_16x9/20231002025033/goober-dash_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/goober-dash"
+            },
+            {
+                "title": "Goober Shot",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/goober-shot_16x9/20240708060013/goober-shot_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/goober-shot"
+            },
+            {
+                "title": "Gulper.io",
+                "description": "You are on a standard arcade board filled with neon bits of food to eat: think about it like Snake meets Tron. The gameplay is straightforward: mouse movements guide the only moves you can make, and clicking will give you a boost. There is no way to pause or stop in your tracks. The game aims to help you eat as much as possible, so you become longer, stronger, and thicker. Why? If other snakes bump into you, they will die. Oh yeah, multiple other snakes are fighting for the same food and territory!\nThe game never ends. Or rather, it ends when you die. Avoid other snakes on the board at all costs if you want to make it to the infinite end.",
+                "cover_image": "https://imgs.crazygames.com/games/gulper-io/cover_16x9-1722864711255.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/gulper-io"
+            },
+            {
+                "title": "Hand Spinner IO 3D",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/hand-spinner-io-3d/thumb-1554408111830.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/hand-spinner-io-3d"
+            },
+            {
+                "title": "Hexanaut.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/hexanaut-io/cover-1647616033546.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/hexanaut-io"
+            },
+            {
+                "title": "Holey.io Battle Royale",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/holey-io-battle-royale_16x9/20231023094206/holey-io-battle-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/holey-io-battle-royale"
+            },
+            {
+                "title": "Brainrots.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/italianbrainrotquiz-io_16x9/20250604082234/italianbrainrotquiz-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/italianbrainrotquiz-io"
+            },
+            {
+                "title": "Junon.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/junon-io/20200622095838/junon-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/junon-io"
+            },
+            {
+                "title": "Colonist.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/katan-io/cover-1631200178618.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/katan-io"
+            },
+            {
+                "title": "King.io World War",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/king-io-world-war/20230629050348/king-io-world-war-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/king-io-world-war"
+            },
+            {
+                "title": "Kiomet",
+                "description": "The goal of Kiomet is to expand your territory and master tactical moves in a dynamic real-time strategy setting. Take control by dragging units to towers to capture them, then fortify your strongholds by selecting and upgrading towers with enhancements. With 27 unique towers and ten diverse unit types marked by distinct symbols, every decision matters as you build your path to ultimate domination.\nVictory hinges on capturing and holding as many towers as possible, but defending your king is critical—losing it will cost you the game. Develop a strategy that balances offense and defense: build supply lines for resources, strengthen your buildings to boost capabilities, and consider alliances with other players to maximize your success. Working with allies can be a game-changer, as it may prevent being overrun by enemy forces while expanding your territory and resources.\nTo gain ground, drag and drop your forces to unclaimed areas, but be strategic, as occupying new territory takes time, leaving you vulnerable to counterattacks. Follow the directional arrows to see where to expand next, but think carefully about each choice, as capturing the right buildings can amplify your strength. Make tactical decisions to avoid being surrounded, and position yourself to attack your enemies to claim more land and resources.\nIn this multiplayer experience, teaming up with other players can add a crucial layer of strategy. Use the chat messaging function to request or accept alliances, which prevent attacks between allies. Keep communication open to coordinate defenses and time attacks, and build a formidable coalition. You can dominate the battlefield and expand your empire—one tower at a time.",
+                "cover_image": "https://imgs.crazygames.com/kiomet-com/20220901172517/kiomet-com-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/kiomet-com"
+            },
+            {
+                "title": "Kirka.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/kirka-io/cover_16x9-1736260059015.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/kirka-io"
+            },
+            {
+                "title": "Kour.io",
+                "description": "In Kour.io, your main goal is to earn KP (Kour Points) by racking up kills and completing missions. The more KP you collect, the more you can unlock! Spend your KP on various customizations like skins, crates, hats, characters, and emotes. You'll level up as you gather points in games, gaining access to even more content and perks.\nWant to team up with friends? Create or join clans to form a powerful squad and take on challenges together. The competition is fierce, so aim for the top spots on the daily, monthly, and all-time leaderboards to prove your dominance in the Kour.io universe. Whether you’re playing solo or with your clan, every match is a chance to climb the ranks and earn bragging rights.\nFor a personal touch, dive into the map editor to create your own custom maps and challenge other players in your unique arenas. You can also explore the server finder to discover and join lobbies across Kour.io, offering endless opportunities for adventure and competition. Whether you’re customizing your experience or conquering leaderboards, Kour.io offers a dynamic and engaging world to master!\nKour.io Character\nYou can choose from nine unlocked players, each equipped with a different weapon. Players and weapons include:\nGet 10+ kills, and you will be able to unlock even more characters.\nHave a go at each player, as they all possess different qualities and various weapons. Once you've chosen your player, you can get down to business.\nChoose Your Map",
+                "cover_image": "https://imgs.crazygames.com/kour-io_16x9/20241107024955/kour-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/kour-io"
+            },
+            {
+                "title": "Krunker",
+                "description": "Join the hectic and fast-paced action of Krunker.io. Reminiscent of staple FPS games like Counter-Strike, reaction times and aiming proficiency are your greatest assets. Move quickly to evade fire and shoot sharply to take down your enemy with clean precision. You can jump into a game instantly for immediate action or choose custom game modes in the server menu.",
+                "cover_image": "https://imgs.crazygames.com/games/krunker-io/cover-1591336739727.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/krunker-io"
+            },
+            {
+                "title": "Little Big Snake (.io)",
+                "description": "The basic gameplay of Little Big Snake is to eat food and grow your snake. The glowing orbs and nectar are your sustenance. You’ll find these orbs scattered around the map, inside bugs, and left behind by snakes that have perished. Eating any of these food items will make your snake larger and provide energy for speed-boosting without affecting your snake's size.\nThe quickest way to evolve into the ultimate snake is by trapping other snakes and larger bugs. The larger bugs often drop upgrades that, in one way or another, allow you to progress quicker by providing a time-limited advantage.",
+                "cover_image": "https://imgs.crazygames.com/littlebigsnakeio.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/little-big-snake-io"
+            },
+            {
+                "title": "LOLBeans io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/lolbeans-io/cover-1603275114093.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/lolbeans-io"
+            },
+            {
+                "title": "Lurkers.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/lurkers-io_16x9/20250218095033/lurkers-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/lurkers-io"
+            },
+            {
+                "title": "Mine-Craft.io",
+                "description": "With the ability to create personalized servers and worlds, players can store resources, design homes, and engage in other exciting activities. This game also allows users to share their worlds and play with friends, as well as enjoy various mini-games akin to those on Hypixel. By participating in community events and giveaways, players can earn rewards every day. Additionally, they can establish their own virtual business, trade rare items with others, and become part of a thriving community.\nNOTE:The middle area is safe so no actions can be taken there.",
+                "cover_image": "https://imgs.crazygames.com/games/mine-craft-io/cover-1640249917649.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/mine-craft-io"
+            },
+            {
+                "title": "Miniblox",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/miniblox_16x9/20240617083401/miniblox_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/miniblox"
+            },
+            {
+                "title": "MiniGiants.io",
+                "description": "Grow your character\nCollect the colorful experience orbs around the map for energy to grow your character fast in MiniGiants.io. Defeat enemies in battle to level up quickly, and play smart by avoiding conflict with giants. The longer you dominate the game, the bigger and more unstoppable you become!\nChests\nAs you destroy opponents, you'll find they sometimes drop chests of different rarities. Chests include loot for your character and gold for upgrading items. You'll find character items like armor, rings, and helmets, which buff your base stats and make you stronger. The rarest chests feature the most precious gear, so keep your eyes open for them around the arena.\nThe types of chests available, in ascending order of rarity, are:\nClasses\nMiniGiants.io features several classes, each with a unique advantage. The default character is Barbarian, which comes with +50% stamina. Other classes are unlocked as you level up throughout the game. All the MiniGiants classes are:\nPlaying Arenas in Minigiants.io\nThere are three different arenas to play in, allowing players to be challenged by opponents of a similar level and keeping balanced games:",
+                "cover_image": "https://imgs.crazygames.com/games/minigiants-io/cover_16x9-1732723093116.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/minigiants-io"
+            },
+            {
+                "title": "Mk48.io",
+                "description": "Your goal in Mk48.io is to keep your confidence and win in intense, strategic battles on the open seas. The game offers a truly immersive experience created for naval warfare enthusiasts who appreciate attention to detail. From meticulously modeled ships to carefully balanced weapons and stats, Mk48.io provides a comprehensive and realistic combat system that brings the high stakes of naval combat to life. Whether you’re navigating treacherous waters or taking on formidable opponents, the game captures the thrill and strategy of modern naval warfare.\nStart your journey from humble beginnings as a small ship, gradually rising through the ranks by battling against other ships and collecting valuable crates. With ten levels to conquer, you’ll have access to a wide selection of ships, each with its own distinct attributes and capabilities. Choose wisely, as the ship you select will define your approach to combat. From motor torpedo boats equipped with devastating torpedoes to mighty battleships and dreadnoughts with powerful main cannons, there’s a vessel to match every play style. As you progress, the challenge intensifies, and you’ll need to adapt your strategy to stay ahead of the competition.\nUtilize a diverse array of weapons to your advantage in the heat of battle. From torpedoes that track enemy vessels using sonar to missiles that zip across the skies with unmatched speed, each weapon offers a unique edge. The game's sensor systems—ranging from visual tracking to radar and sonar—allow you to detect enemies above and below the water’s surface. As you gain experience, you’ll also have the opportunity to join a fleet of other players, strategically coordinating with your team to dominate the seas. And if you're feeling adventurous, take on the challenge of exploring the icy, uncharted territories of the Arctic.\nMk48.io offers even more excitemet with a variety of special vessels and weapons to spice up combat. Whether it’s the versatile hovercraft that can traverse both land and water, the deadly submarines that can vanish beneath the waves, or the mighty aircraft carriers commanding a squadron of planes, each ship adds a new layer of excitement to the game. Combine these unique ships with an arsenal of weapons like depth charges, mines, and SAMs to obliterate your enemies. Every match is a test of skill, strategy, and quick thinking.",
+                "cover_image": "https://imgs.crazygames.com/mk48-io/20210423152338/mk48-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/mk48-io"
+            },
+            {
+                "title": "Mope.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/mopeio/cover-1587301148839.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/mopeio"
+            },
+            {
+                "title": "Narrow One",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/narrow-one/20220412130721/narrow-one-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/narrow-one"
+            },
+            {
+                "title": "Netquel",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/netquel-com_16x9/20231102034936/netquel-com_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/netquel-com"
+            },
+            {
+                "title": "Noob Snake 2048",
+                "description": "You can start a game in one of three available modes: normal, survival, or arena.\nIn Normal Mode, your mission is to collect cubes and race to a maximum score of 262k. But beware—other players are out to steal your cubes and take you down! Reach the target first, or be left in the dust.\nIn Survival Mode, it’s all about scoring big before the clock runs out. Push your skills to the limit as you aim for the highest score possible within the set timeframe.\nFor the ultimate challenge, step into Arena Mode, a high-stakes battle royale where only the strongest survive. Fight to be the last player standing in this thrilling survival showdown!\nPower-up your player\nIn every game mode, there are power-ups, like faster movement, that help you collect more blocks in a shorter time. You can also buy power-ups from the marketplace and activate them anytime during the game.\nThe game is available in four languages: English, Turkish, German, and Russian.",
+                "cover_image": "https://imgs.crazygames.com/noob-snake-2048/20230724100442/noob-snake-2048-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/noob-snake-2048"
+            },
+            {
+                "title": "Overtide.io",
+                "description": "Overtide.io is a high-speed FPS where sharp aim and strategic moves decide who survives. You’ll choose from a range of weapons tailored to different combat styles, from high-damage rifles to close-range shotguns. Master the unique feel of each loadout and fine-tune your approach to suit the fast-moving action. Whether you’re hunting enemies or watching your own back, positioning and timing are everything.\nChoose from a variety of weapons, each with its own strengths and weaknesses:\nExplore the gamescape while dodging bullets and hunting down opponents. The arena is a sprawling, labyrinth-like battleground, demanding quick reflexes and constant awareness. Use the mouse for precision aiming, and trust no one—survival depends on staying alert and striking first.\nWant to play with friends? Create private rooms and sharpen your aim by blasting practice chickens before diving into full-scale combat. Tackle competitive modes like Free-For-All and Kill Confirmed, unlock powerful gear, and upgrade your arsenal. The more you play, the more you climb: prove you’ve got the skills to dominate the leaderboard.",
+                "cover_image": "https://imgs.crazygames.com/overtide-io_16x9/20250501062749/overtide-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/overtide-io"
+            },
+            {
+                "title": "Paper.io 2",
+                "description": "Use your mouse to move around and cover the floor with your color. Glide over white space and other players’ paint, then create a connection back to your color to claim that area. You can also destroy other players' territory completely by crashing into their tail when they are exposed.\nThat also means when you’re moving outside of your color, your tail is exposed to attack. Other players can crash into it to obliterate you.\nComplete objectives and eliminate other players to unlock new skins and make the map more colorful.\nYou’ll constantly be battling with other Paper.io 2 players to reclaim your territory and take theirs. Think strategically about how to claim the most land, and don't get too greedy!",
+                "cover_image": "https://imgs.crazygames.com/paper-io-2_16x9/20250214024143/paper-io-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/paper-io-2"
+            },
+            {
+                "title": "Pixel Warfare",
+                "description": "Start an online battle instantly\nPixel Warfare features active game rooms where you can join and instantly start fighting in online battles! Each game room has several maps and various settings so that you can find the perfect game.\nUse your arsenal of weaponry\nPixel Warfare features a variety of weapons you can scroll through when you’ve started a match. There’s a shotgun, sniper, rocket launcher, machinegun, and many other weapons. They all contain a set amount of ammunition. You have every weapon by default, so there is no need to unlock them.\nCreate a private room\nIf you want full control over the game, you can start a personalized game room with custom options. Here you can choose the game mode, map, round duration, max players, weapons to allow, and more.\nBuild up your stats\nPixel Warfare will remember your kills, deaths, and K/D ratio, displaying them to you in the menu screen, so you can see how well you’re doing over time.",
+                "cover_image": "https://imgs.crazygames.com/pixel-warfare_16x9/20250506070147/pixel-warfare_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/pixel-warfare"
+            },
+            {
+                "title": "Poxel.io",
+                "description": "Invite your friends to play with you by hosting a game with them and playing in real-time together. Play the game more to continue progressing and advancing your levels so you can earn PX coins and buy skins, characters, hats, back items, and more! Keep playing the game, and you can eventually reach the top of the leaderboard, so you can show the world that you are #1 in Poxel.io\nPoxel.io is fast-paced multiplayer chaos where sharp reflexes and smart movement are your keys to survival. You’ll need eyes in the back of your head to stay alive and to climb your way to the top of the leaderboard.\nYou’re dropped into a maze-like battleground armed and ready. Your goal? Take down enemies while dodging incoming fire. But don’t just shoot anything that moves, some players are your teammates. They’ll be clearly labeled, so watch your fire. What goes around definitely comes around.\nYou can host private games and invite friends to battle in real time. The more you play, the more you progress, the more you earn PX coins and gems, which you can use to unlock cool content.",
+                "cover_image": "https://imgs.crazygames.com/poxel-io_16x9/20250422021430/poxel-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/poxel-io"
+            },
+            {
+                "title": "Rocket Bot Royale",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/rocket-bot-royale/cover_16x9-1732723484943.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/rocket-bot-royale"
+            },
+            {
+                "title": "SandStrike.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/sandstrike-io_16x9/20240924172951/sandstrike-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/sandstrike-io"
+            },
+            {
+                "title": "SeaDragons.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/games/seadragons-io/cover-1584553152684.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/seadragons-io"
+            },
+            {
+                "title": "Ships 3D",
+                "description": "Ships 3D brings full-scale online ship battles to the .io games arena war format. Engage in explosive battles out in the open sea, watch as your cannonballs tear enemy ships to shreds, and steer your way tactically around the map to gain a positional advantage.",
+                "cover_image": "https://imgs.crazygames.com/games/ships-3d/cover-1656950535291.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/ships-3d"
+            },
+            {
+                "title": "Simply Prop Hunt",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/simply-prop-hunt_16x9/20250826074007/simply-prop-hunt_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/simply-prop-hunt"
+            },
+            {
+                "title": "SimplyUp.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/simplyup-io_16x9/20250710064001/simplyup-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/simplyup-io"
+            },
+            {
+                "title": "SlitherCraft.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/slithercraft-io/20220419141908/slithercraft-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/slithercraft-io"
+            },
+            {
+                "title": "Smash Karts",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/smash-karts_16x9/20250820055325/smash-karts_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/smash-karts"
+            },
+            {
+                "title": "Snake Clash.io",
+                "description": "Snake Clash.io brings a fresh take on the classic snake game with immersive 3D gameplay and modern mechanics. Players start as small snakes and work to grow as big and fast as possible by eating food scattered around the game board. The larger the food, the bigger the snake becomes, so aim for watermelons, tomatoes, and other snacks to bulk up.\nBe on the lookout for flashing arrows, which provide a speed boost to help you zip across the board. However, this power-up lasts only for a short time, so make the most of it while it lasts.\nThe key to winning is avoiding collisions with other players. Crashing into another snake’s head eliminates you from the game, so be cautious. If you collide head-on with another player, both snakes are taken out. As your snake grows, maneuvering becomes harder, so keep your movements sharp.\nStrategically use power-ups like magnets and speed boosts to gain an edge. You can activate a speed boost with Left Click or Spacebar, but it only lasts for 2 seconds and comes with a 5-second cooldown. These boosts are critical when trying to dodge or trap opponents.\nWith smooth controls, you can navigate the arena with precision and outplay rivals. As you rack up points, you’ll climb the leaderboard, aiming to become the top snake. The ultimate goal is to dominate the board: dodge, trap, and outsmart your opponents to claim victory.",
+                "cover_image": "https://imgs.crazygames.com/snake-clash-io_16x9/20250203091302/snake-clash-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/snake-clash-io"
+            },
+            {
+                "title": "Snake.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/snake-io"
+            },
+            {
+                "title": "Space.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/space-io-vft_16x9/20250418110418/space-io-vft_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/space-io-vft"
+            },
+            {
+                "title": "Stabfish.io",
+                "description": "Eat food to gain boosts and a higher score. Eliminate other fish by attacking from the side and behind. Each kill adds length to your tusk. Once your tusk is long enough, you can be bolder with your attacks.\nThe more fish you stab, the higher your score will become. Each fish body will decorate your skewer as a reminder of your fierce and deadly nature.",
+                "cover_image": "https://imgs.crazygames.com/stabfish-io_16x9/20250609043827/stabfish-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/stabfish-io"
+            },
+            {
+                "title": "Stabfish 2",
+                "description": "Your goal in Stabfish 2 is to kill or be killed, with each attack on your prey giving you another layer of strength and skill, along with an unlock of new and more spacious waters.\nBegin your underwater journey by choosing from a powerful lineup of shark evolutions. Each time you’re defeated in the arena, you’ll evolve, progressing from a Blue Shark to a mighty Great White and, ultimately, to the fearsome Megalodon. Each evolution is packed with upgrade potential, and as you advance, your shark gains new abilities that make it even deadlier in the water. Unlocking these upgrades is vital and requires milestone achievements, giving you a true sense of accomplishment as your shark’s power grows.\nStabfish 2 brings fierce, fast-paced action to the underwater battlefield. You’ll need razor-sharp reflexes and tactical smarts to avoid being impaled in seconds by rival sharks. Use your boost to dart across the arena, aiming to catch bigger foes off guard with your swift movements. When you successfully impale an enemy, they’ll be stuck to your tusk until you drive them into a wall, releasing food from their remains to replenish your strength and prepare for the next hunt.\nEnhance your shark with Stabfish 2's unique looting and crafting system. Every encounter offers valuable resources to add to your inventory, including materials, blueprints, and decorative items. Use your materials to bring blueprints to life, crafting new equipment with varying rarity and power. Collecting and crafting gear not only boosts your survival odds but also lets you customize your shark’s style and abilities.\nJoin forces with other players to form a powerful shark team and compete in the epic 'Armageddon' event that takes place every hour. Team up, strategize, and aim for the top of the event leaderboard to claim victory in the fierce, all-out battles. Whether you create your own team or join an existing one, diving into cooperative gameplay adds a thrilling layer to your Stabfish 2 experience.",
+                "cover_image": "https://imgs.crazygames.com/stabfish2-io-multiplayer_16x9/20250108041122/stabfish2-io-multiplayer_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/stabfish2-io-multiplayer"
+            },
+            {
+                "title": "StarBlast",
+                "description": "In the game, you shoot asteroids and enemies to collect crystals. With these crystals, you can upgrade your ship, buy new ships, and buy more lives for the ships you already have.\nTraining\nThere's an excellent tutorial level on StarBlast.io that will teach you all the basics, from fighting to mining rocks and upgrading your ship. Complete this training section, and you'll be ready to take the fight online!\nChoose your game\nThere are four game modes in StarBlast.\nThese modes are:\nTeam mode is a good starting point for a new player, as you'll have a crew to back you up. Choose from three primary teams:\nMine gems\nGems are the backbone of the StarBlast economy. You'll find them by mining asteroids and destroying the ships of opposition forces. Shoot rocks until they explode! Ensure you target rocks suitable for your ship's size and power.\nUpgrade your ship\nYou can buy upgrades with all of those precious gems you've earned. You can also use gems to buy upgrades, and you can convert them into credits to buy additional weapons at your team's base. There are seven ship tiers you can evolve to, as well as enhanced cargo capacities.\nYou'll notice an upgrade menu at the bottom. Gems can be instantly converted into upgrades for these items. From left to right, this is the order of upgrades you'll see there:\nYou also have 31 different ships you can choose from as you progress in the game.",
+                "cover_image": "https://imgs.crazygames.com/games/starblastio/cover_16x9-1732723943512.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/starblastio"
+            },
+            {
+                "title": "Survev.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/survev_16x9/20250121025040/survev_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/survev"
+            },
+            {
+                "title": "Taming.io",
+                "description": "(未找到描述)",
+                "cover_image": "https://imgs.crazygames.com/taming-io_16x9/20231110124553/taming-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/taming-io"
+            },
+            {
+                "title": "Tanks 3D",
+                "description": "Tanks 3D throws you into a tense, action-packed battlefield where it's every tank for itself. You're up against players from around the globe, and the goal is simple: survive and eliminate as many enemy tanks as possible.\nYour tank is built for rough terrain. It can climb steep hills and drop into deep valleys. These low areas might offer protection from enemy fire, but they can also be dangerous ambush zones if enemies are lurking nearby.\nWhile your tank can take a few hits, too much damage will destroy it. Once you're taken out, you'll have to restart, so choose your movements carefully and stay alert at all times.\nYou can communicate with other players in real time using the chat box located at the bottom of the screen. The leaderboard in the top right corner shows the scores of all players currently in the match, helping you track your progress.\nThe minimap on the screen gives you a sense of where enemy tanks are located and how close they are to your position. Use this to plan your attacks or your escape.\nYou’ll also see soldiers walking around the map. They’re easy to take out, but they can also act as warnings that an enemy tank might be nearby.\nStay alive, shoot fast, and take control before someone else does.",
+                "cover_image": "https://imgs.crazygames.com/tanks-3d_16x9/20250605035917/tanks-3d_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/tanks-3d"
+            },
+            {
+                "title": "TileMan.io",
+                "description": "TileMan.io gameplay is relatively simple, but the strategy is not as straightforward. You are in the center of a grid board, and your objective is to expand your territory by claiming more and more tiles. To do this, move your mousepad or use the WASD keys to move left, right, up, and down. Easy enough? The catch is that you need to expand your territory without getting cut off by one of the many other players in the game. You can get cut off if your line of path is cut. Be careful because you can actually cut within your own path and lose the game by accidentally killing yourself. The only way to protect yourself is by remaining on your territory, but doing so won't get your expansion strategy very far.\nTerritory is \"claimed\" when you convert blocks by creating a complete square—the enclosed blocks will turn to your color once you close the gap. If you go too far and attempt to expand too fast, you will find yourself too far from safety and will likely be killed by an opponent player.\nYou must avoid your opponents or try to trap them within your squares and make them crash into you. Use a careful approach, and don't go in all guns blazing! Can you conquer the TileMan arena?",
+                "cover_image": "https://imgs.crazygames.com/tileman-io_16x9/20241129083352/tileman-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/tileman-io"
+            },
+            {
+                "title": "War Brokers",
+                "description": "Fight as an equal\nIn War Brokers, every player starts on an equal footing with access to the same weapons and vehicles. Fight in battles with up to 15 players on nine large-scale maps in various thrilling game modes.\nChoose your weapon\nSelect from 17 finely-tuned weapons, each tailored to your unique play style. Drive an APC or tank for mobile armored warfare. Take to the skies in a helicopter or jet, delivering devastating airstrikes. Join as a gunner in air or ground vehicles. Victory hinges on player skill and strategic decisions.\nComplete missions\nSign in to complete missions, earn crates, and purchase coins. Coins can be used to buy various in-game items, such as costumes and weapon skins.\nPlay several game modes\nThere are four primary game modes in War Brokers. The main game mode is classic, which features several classic game modes like TDM and Capture the Flag.",
+                "cover_image": "https://imgs.crazygames.com/war-brokers-io_16x9/20241105062359/war-brokers-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/war-brokers-io"
+            },
+            {
+                "title": "WarCall.io",
+                "description": "Fight in a fiercely competitive arena\nFight against other players for gold and upgrades as the map decreases in size. Click the left mouse button to attack and hold it to dash and attack enemies from a distance.\nFind upgrades and level up your hero\nStay alert for loot chests throughout the arena. Find them to collect gold and other loot. Some contain gemstones and runes to upgrade your gear!\nBecome stronger and more powerful\nAs you level up, you’ll unlock new equipment enhancing your power. You’ll be able to increase your health, damage, resistance, speed, and more to ensure you’re the last champion standing on the battlefield!\nBuy new and unique champions\nDo you prefer to tank, use magic, or play aggressively? There are various champions you can purchase with their own advantages. These choices rotate over time, so you never know what you'll get.",
+                "cover_image": "https://imgs.crazygames.com/games/warcall-io/cover-1604914734657.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/warcall-io"
+            },
+            {
+                "title": "Worm Hunt",
+                "description": "Squirm your worm around the big arena. Pick up food to grow and boosts to give you a temporary advantage over your slithering opponents. Block the path of another worm to kill it and feast on all the food they have picked up.\nEarn coins and use them to buy various worms, each with its unique skill tree that can be improved on as you play more games. The skill tree grants you permanent buffs to the worm you are upgrading. Complete your daily tasks to earn gems and other rewards!\nA key to success in this game is to use the speed boost effectively. The speed boost can be activated by either of the two mouse buttons or by pressing the space bar if you are using a keyboard. Enabling the speed boost lets you be faster than your opponents, so you can try to trick them to bump into you, but, at the same time, it consumes your mass, so using it requires balance and attention.",
+                "cover_image": "https://imgs.crazygames.com/worm-hunt_16x9/20230913105128/worm-hunt_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/worm-hunt"
+            },
+            {
+                "title": "Wormate.io",
+                "description": "Wormate is a simple enough online game for anyone to learn. You eat, you grow, and you survive. Look out for other players, especially when you get bigger, as they'll want to eat all the food you drop. The advantage of being big is that you can trap smaller worms by circling them.",
+                "cover_image": "https://imgs.crazygames.com/games/wormateio/cover-1587299516834.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/wormateio"
+            },
+            {
+                "title": "Worms.Zone",
+                "description": "WormsZone.io is survival of the fittest. You're a worm, and you must eat and grow to be big and strong. Who knew being a worm could be so much fun? Try to trap your opponents so you can get all of their delicious food.\nPressing the left or right mouse button allows you to turbo-speed your worm. Use it sparingly and tactically to sprint ahead of the other players and secure big rewards, but be advised: the more you use your turbo, the faster your worm shrinks.\nAs you get larger, you get slower. Turbo also becomes more costly for your score, so use it sparingly when you are big and plentifully when you are small.\nBe aware that upgrades you can buy in the menu don't make your worm perform better in the arena, but improve the effectiveness and/or duration of the power-ups found while playing, so don't be tricked by those.",
+                "cover_image": "https://imgs.crazygames.com/worms-zone_16x9/20241128100948/worms-zone_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://www.crazygames.com/embed/worms-zone"
+            }
+        ]
+    },
+    {
+        "name": "Mahjong",
+        "items": []
+    },
+    {
+        "name": "Minecraft",
+        "items": []
+    },
+    {
+        "name": "Pool",
+        "items": []
+    },
+    {
+        "name": "Puzzle",
+        "items": []
+    },
+    {
+        "name": "Shooting",
+        "items": []
+    },
+    {
+        "name": "Soccer",
+        "items": []
+    },
+    {
+        "name": "Sports",
+        "items": []
+    },
+    {
+        "name": "Stickman",
+        "items": []
+    },
+    {
+        "name": "Thinky",
+        "items": []
+    },
+    {
+        "name": "TowerDefense",
+        "items": []
+    }
+]
