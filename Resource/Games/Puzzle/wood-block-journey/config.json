@@ -1,0 +1,6 @@
+{
+    "title": "Wood Block Journey",
+    "description": "Wood Block Journey is a Tetris-inspired puzzle game where the goal is to clear the board by forming lines using various wooden shapes made up of tiles in different configurations. To clear a row, you need to align shapes like a 4-tile row, T-shaped, L-shaped, or a single tile. When you fill a row completely, it disappears.\nFor extra points and momentum, you can clear larger blocks by aligning 3x3 tiles. When these blocks align, they vanish, giving you a significant boost!\nYou can either embark on a journey through vibrant levels with specific missions or play a single classic game. A helpful tutorial will guide you through common moves, like combining a 4-tile row with L-shaped pieces to create 3x3 blocks, the perfect combo to clear larger sections of the board.\nStay strategic, keep the board clear, and enjoy progressing through each level!",
+    "cover_image": "https://imgs.crazygames.com/wood-block-journey_16x9/20230907100852/wood-block-journey_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "link": "https://www.crazygames.com/embed/wood-block-journey"
+}

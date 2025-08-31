@@ -1,0 +1,6 @@
+{
+    "title": "War Mahjong",
+    "description": "There are two layers of tiles stacked on top of each other in War Mahjong. Your goal is to clear tiles that are the same and beside each other until all the tiles have disappeared. You clear them by clicking on groups of the same tile. When you clear tiles from the second layer it creates blank space that causes the tiles above to fall in their place. This can potentially create a combo effect.\nWhen you get combos, you'll earn bombs. A combo happens when you match tiles, and it creates a cascading effect that leads to more tiles being matched.\nThe bombs are vital for end-game play, as you can use them to clear any tile when you have no matches left.",
+    "cover_image": "https://imgs.crazygames.com/games/war-mahjong/cover-1627395994986.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "link": "https://www.crazygames.com/embed/war-mahjong"
+}

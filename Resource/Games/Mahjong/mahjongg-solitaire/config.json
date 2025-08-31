@@ -1,0 +1,6 @@
+{
+    "title": "Mahjongg Solitaire",
+    "description": "Spot the patterns\nMahjong is a tricky puzzle game. There are so many tiles, many of which look the same but feature slight differences. Along with the need to spot these patterns, you can’t move any pieces with both sides blocked. The left or right side needs to be accessible, at least.\nFinding a couple of “free” tiles is the challenge here, with a tile-free being when there are no tiles on top of it. In addition, either its left or right side needs to be open. In this version of Mahjong Solitaire, you can look at the top of your screen to understand how many pairs of tiles are “free” to be matched, plus you can match the special tiles, those with a colored background, anytime.\nUse hints when you’re stuck\nMahjongg Solitaire features hints if you get stuck, but unlike some other mahjong games, it does not have a shuffle feature. The games are also timed, meaning there is some urgency to how many tiles you can match.\nWhen the game ends, you’ll get a score for the tiles you matched and a bonus for how far you got in the game before your time ran out.",
+    "cover_image": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "link": "https://www.crazygames.com/embed/mahjongg-solitaire"
+}

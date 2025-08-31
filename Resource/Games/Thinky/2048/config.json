@@ -1,0 +1,6 @@
+{
+    "title": "2048",
+    "description": "Use your arrow keys to move all the tiles in the specified direction. Every time you move, another two is spawned into the game. When two tiles with the same number touch, they merge into one, doubling the numerical value. Keep sliding the tiles around until you reach your highest score. The final objective is to get one tile to reach the number 2048. Be careful to think about your movements, as the board will keep filling up each time you move! If the board fills all the way without you reaching 2048, it's game over.",
+    "cover_image": "https://imgs.crazygames.com/games/2048/cover_16x9-1707828856995.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "link": "https://www.crazygames.com/embed/2048"
+}
