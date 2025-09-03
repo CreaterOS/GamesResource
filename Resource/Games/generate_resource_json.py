@@ -11,20 +11,28 @@ def load_game_cfg(game_dir: Path) -> Dict[str, str]:
     cfg_path = game_dir / "config.json"
     defaults = {
         "title": game_dir.name,
-        "description": "(未找到描述)",
+        "rating": "",
+        "released": "",
+        "description": "",
         "cover_image": "",
         "link": ""
     }
     if not cfg_path.is_file():
+        # 目录名也做首字母大写
+        defaults["title"] = defaults["title"][:1].upper() + defaults["title"][1:]
         return defaults
+
     try:
         with cfg_path.open(encoding="utf-8") as f:
             cfg = json.load(f)
     except Exception:
         cfg = {}
-    # 只取需要的四个字段，其余忽略
-    return {k: cfg.get(k, defaults[k]) for k in defaults}
 
+    # 合并配置，并把 title 首字母大写
+    merged = {k: cfg.get(k, defaults[k]) for k in defaults}
+    merged["title"] = merged["title"][:1].upper() + merged["title"][1:]
+    return merged
+    
 def build_resource() -> List[Dict[str, Any]]:
     """构建最终 JSON 结构"""
     resource: List[Dict[str, Any]] = []
