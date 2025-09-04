@@ -1,0 +1,33 @@
+function enforceLayout() {
+    var gfMainContainer = document.getElementById('gfMainContainer');
+    if (gfMainContainer && gfMainContainer.parentElement) {
+        var parentElement = gfMainContainer.parentElement;
+        var children = Array.from(parentElement.children);
+        for (const child of children) {
+            if (child.id !== 'gfMainContainer' && child.tagName.toLowerCase() !== 'script') {
+                 console.log('Removing element: ' + child.id);
+                 parentElement.removeChild(child);
+            }
+        }
+    }
+}
+enforceLayout();
+const targetNode = document.body;
+const config = { childList: true, subtree: true };
+const callback = function(mutationsList, observer) {
+    enforceLayout();
+    for(const mutation of mutationsList) {
+        if (mutation.type === 'childList') {
+            const targetDiv = document.querySelector('div.css-18vh0ai');
+            if (targetDiv) {
+                const continueButton = Array.from(targetDiv.querySelectorAll('button')).find(button => button.textContent === 'Continue offline');
+                if (continueButton) {
+                    console.log('Connection issue dialog found. Clicking \"Continue offline\".');
+                    continueButton.click();
+                }
+            }
+        }
+    }
+};
+const observer = new MutationObserver(callback);
+observer.observe(targetNode, config);
