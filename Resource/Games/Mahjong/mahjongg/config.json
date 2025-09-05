@@ -1,6 +1,0 @@
-{
-    "title": "Mahjongg",
-    "description": "Your objective is to clear the virtual board of all tiles by matching up pairs. When you find two tiles that have the same pattern, you click on one and click on the matching one, causing them to disappear from the board.\nThere are four tiles for each character, with the exception of flows and seasons, which are one-of-a-kind tiles. Tiles with an exact match must be matched with the same patterned tile. Flowers can be matched with any flower. Seasons can be matched with any season.\nEach tile has a specific character or symbol, and you must select two free tiles with the same character to remove them from the board. It gets tricky when tiles are \"locked.\" A tile is considered \"locked\" when it has a tile on both sides of it. A tile is considered \"free\" when it has no tiles on top of it and at least one of its sides is not blocked by another tile.",
-    "cover_image": "https://imgs.crazygames.com/games/mahjongg/cover-1679929865139.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-    "link": "https://www.crazygames.com/embed/mahjongg"
-}
