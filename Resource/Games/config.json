@@ -1,0 +1,31 @@
+{
+    "limit" : 2,
+    "black_list" : [
+        {
+            "name": "IO",
+            "items": [
+                {
+                    "title": "Cubes 2048.io",
+                    "rating": "7.8",
+                    "released": "December 2022",
+                    "description": "Cubes 2048.io is an addictive online game that fusesSnakeand2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another willmerge.",
+                    "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "link": "https://games.crazygames.com/en_US/cubes-2048-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                }
+            ]
+        },
+        {
+            "name": "Minecraft",
+            "items": [
+                {
+                    "title": "Agar.io",
+                    "rating": "8.4",
+                    "released": "June 2015",
+                    "description": "Agar.io is the original .io grow game. Play as a simple agar cell fighting to become the largest cell in a multiplayer game arena. Avoid the bigger cells and consume the smaller ones to grow larger.",
+                    "cover_image": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "link": "https://games.crazygames.com/en_US/agario/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                }
+            ]
+        }
+    ]
+}
