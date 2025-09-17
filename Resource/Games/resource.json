@@ -1,176 +1,254 @@
 [
     {
-        "name": "IO",
+        "name": "Basketball",
         "items": [
             {
-                "title": "Cubes 2048.io",
-                "rating": "7.8",
-                "released": "December 2022",
-                "description": "Cubes 2048.io is an addictive online game that fusesSnakeand2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another willmerge.",
-                "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/cubes-2048-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Snake Clash.io",
+                "title": "Basket-Ball",
                 "rating": "8.3",
-                "released": "February 2025",
-                "description": "Snake Clash.io is an io snake game where you compete against players, outmaneuver rivals, and dominate the leaderboard. Grow longer, strategize, and prove your skill in fast-paced battles.",
-                "cover_image": "https://imgs.crazygames.com/snake-clash-io_16x9/20250203091302/snake-clash-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-clash-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "February 2023",
+                "description": "Basket-Ball is a 2D arcade basketball game where you must throw the ball in one shot and be able to catch the star and put the ball into the basket. Avoid obstacles that get in the way and use the portal to teleport the ball. Proof your skill and challenge yourself by beating all the levels available. This game is designed for your fun!",
+                "cover_image": "https://imgs.crazygames.com/basket-ball/20230303113513/basket-ball-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-ball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Snake.io",
-                "rating": "8.5",
-                "released": "September 2022",
-                "description": "Snake.io is an online io game where you control a snake, striving to survive in a battlefield of other snakes. Consume colorful food to grow larger and defeat rivals to become a formidable force",
-                "cover_image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Snake Lite",
-                "rating": "8.3",
-                "released": "September 2023",
-                "description": "Snake Lite is a casual arcade snake game with a competitive twist. Unlike other slither and snake games, you not only collect goodies and power-ups but also compete against other players to become the largest worm-like snake in the arena.",
-                "cover_image": "https://imgs.crazygames.com/snake-lite-worm-snake-game_16x9/20231030060228/snake-lite-worm-snake-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-lite-worm-snake-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            }
-        ]
-    },
-    {
-        "name": "Minecraft",
-        "items": [
-            {
-                "title": "Agar.io",
-                "rating": "8.4",
-                "released": "June 2015",
-                "description": "Agar.io is the original .io grow game. Play as a simple agar cell fighting to become the largest cell in a multiplayer game arena. Avoid the bigger cells and consume the smaller ones to grow larger.",
-                "cover_image": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/agario/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Agents.io",
+                "title": "Basket Battle",
                 "rating": "8.6",
-                "released": "June 2023",
-                "description": "Agents.io is a thrilling multiplayer game where you engage in action-packed battles with rival gangs. As a player, you take control of your own gang and navigate through dynamic battlegrounds, aiming to eliminate rival agents and secure victory for your team. Quick reflexes, strategic shooting, and effective communication with your teammates are essential to succeed in this intense showdown.",
-                "cover_image": "https://imgs.crazygames.com/agents-io/20230609044850/agents-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/agents-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "January 2025",
+                "description": "Basket Battle is a dynamic sports basketball game where you aim to outscore your opponent by skillfully throwing the ball into the basket. Challenge your reflexes as you intercept your rival's shots and maintain control over the game: master timing and precision to dominate the court and secure victory in intense matches.",
+                "cover_image": "https://imgs.crazygames.com/basket-battle-zmg_16x9/20250102082146/basket-battle-zmg_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-battle-zmg/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Archer Clash",
-                "rating": "9.1",
-                "released": "June 2025",
-                "description": "Archer Clash is a fast-paced io game where you guide a lone hero racing across a rolling, hill-like battle arena. You’ll recruit allies, adapt your tactics, and face shifting challenges as you fight for control. Every decision shapes your path to victory, blending quick reflexes with smart strategy in a thrilling clash of skill and growth.",
-                "cover_image": "https://imgs.crazygames.com/archer-clash-ftj_16x9/20250613030347/archer-clash-ftj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/archer-clash-ftj/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Basket Champs",
+                "rating": "8.7",
+                "released": "December 2016",
+                "description": "Basket Champs is a fun basketball game! Pick your favorite team and compete in the tournament by scoring more points than your opponents.",
+                "cover_image": "https://imgs.crazygames.com/basketchamps.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-champs/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Archers Battle",
+                "title": "Basket Monsterz",
                 "rating": "8.5",
+                "released": "October 2022",
+                "description": "Basket Monsterz is an awesome basketball shooting game with fun cartoon monster characters! You can play as a wide range of monsters including Satan and Bigfoot. Get in the game and see if you can win.",
+                "cover_image": "https://imgs.crazygames.com/basket-monsterz/20221028193744/basket-monsterz-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-monsterz/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Random",
+                "rating": "8.8",
+                "released": "June 2020",
+                "description": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics. Bounce and battle for the ball across wild courts, with each dunk launching you to the next level!",
+                "cover_image": "https://imgs.crazygames.com/basket-random_16x9/20240617090207/basket-random_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-random/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Slam Dunk 2",
+                "rating": "8.5",
+                "released": "February 2020",
+                "description": "Just likeTap Tap Shots, in Basket Slam Dunk 2, you need to successfully dunk the basketball into the ring. The physics element makes the game more challenging!",
+                "cover_image": "https://imgs.crazygames.com/games/basket-slam-dunk-2/thumb-1581588989893.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-slam-dunk-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Swooshes Plus",
+                "rating": "7.7",
+                "released": "May 2020",
+                "description": "Basket Swooshes Plus is a sports basketball game where you must be the first to score 11 points to win. Get ready to step onto the virtual court and shoot some hoops in the competitive basketball match. Test your shooting skills and win the competition!",
+                "cover_image": "https://imgs.crazygames.com/basket-swooshes-plus_16x9/20231107033245/basket-swooshes-plus_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-swooshes-plus/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Clash",
+                "rating": "8.5",
+                "released": "July 2023",
+                "description": "Basketball Clash is the ultimate basketball game that brings together players from around the globe, providing endless entertainment. Showcase your talent and rise among the top 100 basketball shooters worldwide. Prepare for exhilarating competitions where your agility, logic, and strategic thinking will determine your triumph. Prove your skills and dominate the court!",
+                "cover_image": "https://imgs.crazygames.com/basketball-clash/20230705135545/basketball-clash-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-clash/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball FRVR",
+                "rating": "8.7",
+                "released": "February 2017",
+                "description": "Basketball FRVR is a great new basketball game that you can play on any device. This Basketball Hoop Shooter is simple to learn but a lot of fun. There is no time limit in the game, but the moving basket is a challenge even for experienced players! This means that you can play Basketball FRVR for as long as you want. There are bonus points if you don't hit the rim. The game is made by Chris Benjaminsen. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/basketballfrvr.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-frvr/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball League",
+                "rating": "8.6",
+                "released": "November 2023",
+                "description": "Basketball League is an arcade basketball sports game where you must aim and shoot to score. If you want relaxing gameplay, you can try the Free Throw mode. If you want to challenge yourself, you can play the Timed Practice mode. If you want to show your skill and prove yourself to others, play the Online mode so everybody will know how talented you are!",
+                "cover_image": "https://imgs.crazygames.com/basketball-league_16x9/20250630074606/basketball-league_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-league/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Legends 2020",
+                "rating": "8.3",
+                "released": "September 2020",
+                "description": "Basketball Legends 2020 is the popular sequel toBasketball Stars 2019. This two-player basketball game lets you play as iconic basketball players like Luka Doncic, James Harden, and LeBron James in bobblehead form!",
+                "cover_image": "https://imgs.crazygames.com/basketball-legends-2020_16x9/20231122050621/basketball-legends-2020_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-legends-2020/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Orbit",
+                "rating": "9.0",
                 "released": "April 2025",
-                "description": "Archers Battle is an .io-style third-person shooter game, packed with stickmen, horses, bows, and arrows! Battle against players from around the world, collect diamonds, and rise to the top of the leaderboard! Jump into the Archers Battle arena, unleash your inner marksman, and prove your skill in this chaotic stickman showdown!",
-                "cover_image": "https://imgs.crazygames.com/archers-battle_16x9/20250416101236/archers-battle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/archers-battle/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "description": "Basketball Orbit is an exhilarating sports basketball simulation game in our sports category, where you aim to launch basketballs to unbelievable heights, even beyond Earth’s atmosphere! Take on thrilling one-shot basketball challenges, conquer tricky levels, and perfect your shooting technique. Compete to become the ultimate basketball legend in this fun and unique basketball adventure!",
+                "cover_image": "https://imgs.crazygames.com/basketball-orbit_16x9/20250505030520/basketball-orbit_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-orbit/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Arx Arcana (Last Mage Standing)",
-                "rating": "9.2",
-                "released": "March 2019",
-                "description": "Arx Arcana: Dungeon Royale is a cool battle royale game with a fantasy twist. The 2D graphics and top-down gameplay are superb. In this multiplayer game, you must fight against hundreds of players from around the world.",
-                "cover_image": "https://imgs.crazygames.com/arx-arcana-dungeon-royale/20201106152604/arx-arcana-dungeon-royale-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/arx-arcana-dungeon-royale/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "BattleDudes.io",
-                "rating": "8.7",
-                "released": "May 2021",
-                "description": "BattleDudes.io is an action-packed 2D multiplayer IO battle game where chaos reigns supreme. Engage in fierce battles against other players, unleashing a powerful arsenal of guns, tanks, and explosive weaponry to dominate the battlefield. With multiple maps and diverse game modes, every match offers a new challenge and a chance to show off your strategic prowess. Log in, level up, and unlock powerful upgrades that will make you an unstoppable force!",
-                "cover_image": "https://imgs.crazygames.com/battledudes-io_16x9/20241216121046/battledudes-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/battledudes-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Big Battle Mini",
-                "rating": "8.7",
-                "released": "July 2025",
-                "description": "Big Battle Mini is an action-packed online multiplayer game where you face off against friends and rivals in fast, thrilling mini battles. Test your reflexes, outsmart opponents, and claim victory in quick-fire matches that keep the competition fierce and the fun nonstop.",
-                "cover_image": "https://imgs.crazygames.com/big-battle-mini_16x9/20250715033353/big-battle-mini_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/big-battle-mini/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "BlockTanks.io",
-                "rating": "8.3",
-                "released": "October 2020",
-                "description": "BlockTanks is an online tank battle .io game. Choose your preferred game mode and shoot to destroy enemy tanks and increase your score. You can play solo or in teams. Find upgrades to gain an advantage and dominate the leaderboard!",
-                "cover_image": "https://imgs.crazygames.com/blocktanks-io_16x9/20240108063944/blocktanks-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/blocktanks-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            }
-        ]
-    },
-    {
-        "name": "Thinky",
-        "items": [
-            {
-                "title": "Bloxd.io",
-                "rating": "8.3",
-                "released": "March 2021",
-                "description": "Bloxd.io is an IO adventure game with Minecraft-style visuals and multiple game modes, including parkour challenges, creative sandbox building, and combat-based gameplay.",
-                "cover_image": "https://imgs.crazygames.com/bloxdhop-io_16x9/20250829023851/bloxdhop-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/bloxdhop-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Braains.io",
+                "title": "Basketball Serial Shooter",
                 "rating": "8.6",
-                "released": "April 2018",
-                "description": "Which side will you choose in Braains.io? Braains.io is an awesome multiplayer game of survival – you start as a human but you can transform into a zombie immediately if you wish and try to turn the other players into a zombie too.",
-                "cover_image": "https://imgs.crazygames.com/braains-io/20230217181314/braains-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/braains-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "October 2022",
+                "description": "Basketball Serial Shooter is an arcade basketball game where you must throw the ball into the basket before the time runs out. Try to make as many points as you can on each play. Good luck!",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-serial-shooter/cover-1663858495600.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-serial-shooter/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "BrutalMania.io (Brutal Mania)",
+                "title": "Basketball Skills",
+                "rating": "8.7",
+                "released": "April 2019",
+                "description": "Basketball Skills is the basketball arcade game in which you must try to score baskets in all the different game modes available. You can play either arcade, time attack, and distance mode. Arcade mode gives you 10 balls to use; you must continue to score baskets although it becomes harder each time you score.",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-skills/cover_16x9-1734346245128.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-skills/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Stars",
+                "rating": "8.3",
+                "released": "May 2019",
+                "description": "Basketball Stars is a 2-player basketball game by Madpuffers where you hit the court as legends like LeBron James, Stephen Curry, and James Harden. Play solo, team up with a friend or challenge them in fast-paced hoops action!",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-stars-2019/cover-1583231506155.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-stars-2019/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Superstars",
+                "rating": "8.9",
+                "released": "January 2025",
+                "description": "Basketball Superstars is a dynamic basketball experience where you create and train your ultimate player. Customize your gear, enhance your skills, and face intense rivals in fast-paced matches. Whether you are outsmarting opponents or perfecting your strategy, each game delivers action and excitement as you strive to dominate the court and showcase your prowess.",
+                "cover_image": "https://imgs.crazygames.com/basketball-superstars_16x9/20250117063641/basketball-superstars_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-superstars/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "BasketBros",
+                "rating": "8.9",
+                "released": "January 2020",
+                "description": "BasketBros is a fast-paced basketball game that offers both online and offline gameplay. Choose a player, customize your style, and compete in single-player and multiplayer games.",
+                "cover_image": "https://imgs.crazygames.com/basketbros_16x9/20250320082607/basketbros_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketbros/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Bouncy Dunk",
+                "rating": "8.3",
+                "released": "August 2018",
+                "description": "Bouncy Dunk is the arcade basketball game in which you must try to score as many baskets as possible. The ball will come from different directions, use the clicker on your mouse to make the ball bounce and score into the basket. Your timing as key as you must work out the protectory of the ball as it approaches the rim.",
+                "cover_image": "https://imgs.crazygames.com/bouncydunk.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bouncy-dunk/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Epic Basketball",
+                "rating": "8.7",
+                "released": "August 2020",
+                "description": "Epic Basketball is an entertaining arcade-style basketball game with crazy characters.",
+                "cover_image": "https://imgs.crazygames.com/epic-basketball/20200803042523/epic-basketball-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/epic-basketball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Flappy Dunk",
+                "rating": "8.1",
+                "released": "December 2023",
+                "description": "Flappy Dunk is a casual basketball game where you tap to propel the ball through hoops, earning points and unlocking new balls along the way. The game seamlessly blends simple one-touch controls with a challenging gameplay that's easy to grasp but hard to master. Perfect for basketball enthusiasts of all ages, Flappy Dunk keeps the excitement alive with its unique theme and a continuous stream of fresh challenges as you progress.",
+                "cover_image": "https://imgs.crazygames.com/flappy-dunk_16x9/20231204133706/flappy-dunk_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/flappy-dunk/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Flipper Dunk 3D",
                 "rating": "8.5",
-                "released": "October 2018",
-                "description": "BrutalMania.io (Brutal Mania) is an online gladiator IO action game where you are armed with savage weapons with one simple mission to take down every rival gladiator in sight. The battles are brutal, the carnage is real, and only the strongest will survive. Smash, slice, and crush your way to becoming the last warrior standing in this gruesome fight for supremacy. With each victory, you grow stronger, unlocking powerful upgrades and devastating new weapons to dominate the arena.",
-                "cover_image": "https://imgs.crazygames.com/games/brutalmania-io/cover-1584553430060.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/brutalmania-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "December 2022",
+                "description": "Flipper Dunk 3D is a challenging single-tap pinball-basketball game. You'll need the patience of a monk and the precision of a master to dunk. See if you have what it takes to be a master dunker. The game is simple to learn but difficult to master, but it will be highly satisfying when you finally dunk that ball! Check outTap Tap Shotsfor a similar game.",
+                "cover_image": "https://imgs.crazygames.com/flipper-dunk-3d/20230102160902/flipper-dunk-3d-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/flipper-dunk-3d/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Build Royale",
+                "title": "Hoop World 3D",
+                "rating": "8.8",
+                "released": "April 2024",
+                "description": "Hoop World 3D is a flip-and-dunk game that brings basketball to a whole new dimension! Get your timing right or you'll fall short of the net and fall flat on your face.",
+                "cover_image": "https://imgs.crazygames.com/hoop-world-3d_16x9/20250616033341/hoop-world-3d_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/hoop-world-3d/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Jump Up 3D",
                 "rating": "8.7",
-                "released": "October 2018",
-                "description": "Build Royale is a battle royale game where you build defenses and battle other players in a 2D top-down world. Explore the map and find various weapons and resources to help you take down your enemies.",
-                "cover_image": "https://imgs.crazygames.com/buildroyale-io/20230424161238/buildroyale-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/buildroyale-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "September 2023",
+                "description": "Jump Up 3D is a sports basketball game where you shoot to get that slam dunk, but the one hitch is you're doing it by jumping on a trampoline. Not your ordinary basketball game, this one promises and delivers the excitement! Take aim, bounce on the trampoline, and score baskets before your opponent. With intuitive controls and addictive gameplay, it tests your precision and unleashes your inner dunk master. Be the court champion in this fast-paced! How far can you go in this unlimited playground of basketball action?",
+                "cover_image": "https://imgs.crazygames.com/jump-up-3d-basketball-game_16x9/20240930101128/jump-up-3d-basketball-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/jump-up-3d-basketball-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Bump.io",
-                "rating": "8.6",
-                "released": "October 2019",
-                "description": "There are 16 cars are involved in the competition. You must avoid collisions with the boundaries to win. Bumping other cars give energy, and destroying other cars to give volume growth.",
-                "cover_image": "https://imgs.crazygames.com/games/bump-io/thumb-1570533394420.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/bump-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Car Clash 2",
+                "title": "Jump Up 3D: Mini Basketball",
                 "rating": "8.7",
                 "released": "May 2024",
-                "description": "Car Clash 2 is an intense io game where cars battle in a challenging desert arena. Choose a powerful vehicle with high health, armor, and speed to stay alive. Collect map features to boost your attack range, speed, and power. Earn Cash and GEMs by surviving and destroying enemies, and use them to acquire even the most expensive cars. Let the battle begin!",
-                "cover_image": "https://imgs.crazygames.com/car-clash-2_16x9/20240524043337/car-clash-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/car-clash-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "description": "Jump Up 3D: Mini Basketball is a trampoline basketball game where you control the action. With simple controls, anyone can enjoy aiming for that perfect shot. The vibrant graphics and lively animations make each game session a blast. Challenge yourself to beat your high score or compete with friends for bragging rights. It's time to bounce, shoot, and score big in Jump Up 3D: Mini Basketball!",
+                "cover_image": "https://imgs.crazygames.com/jump-up-3d-mini-basketball_16x9/20240429062741/jump-up-3d-mini-basketball_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/jump-up-3d-mini-basketball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Castles.cc (Cubic Castles)",
+                "title": "Noob Basketball Clicker",
+                "rating": "8.8",
+                "released": "May 2024",
+                "description": "Noob Basketball Clicker is a fun and addicting clicker game that combines with unique basketball elements. Your goal is to manage the basketball court and earn money by shooting the ball into the basket. Just click your mouse to send the ball flying toward the hoop. Each hit will bring you profit, which you can use to improve your gaming experience. Develop your skills, acquire new balls, and expand your support team to increase your income. This game offers addictive gameplay that will keep you busy for hours. Immerse yourself in a competitive atmosphere and test your business management skills. Become a real basketball tycoon and conquer this virtual sport!",
+                "cover_image": "https://imgs.crazygames.com/noob-basketball-clicker_16x9/20240529065332/noob-basketball-clicker_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/noob-basketball-clicker/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Puzzle Survivor",
+                "rating": "8.0",
+                "released": "April 2025",
+                "description": "Puzzle Survivor is a competitive puzzle game that puts your logic and strategy to the test. Solve word and number challenges across multiple game modes, compete in real-time or turn-based battles, and climb the leaderboards. Take on daily challenges, unlock achievements, and sharpen your mind in fast-paced, brain-training duels!",
+                "cover_image": "https://imgs.crazygames.com/puzzle-survivor_16x9/20250616040010/puzzle-survivor_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/puzzle-survivor/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Ragdoll Throw Challenge",
+                "rating": "8.3",
+                "released": "May 2024",
+                "description": "Ragdoll Throw Challenge is a physics-based casual game where you control a wobbly character, help them grab weapons, and fling them at your enemies for ultimate chaos and fun! The gameplay is simple, but movements can be complex and challenging to master.",
+                "cover_image": "https://imgs.crazygames.com/ragdoll-throw-challenge_16x9/20240520080923/ragdoll-throw-challenge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/ragdoll-throw-challenge/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Rogue Dunk",
                 "rating": "8.5",
-                "released": "September 2020",
-                "description": "Castles.CC (Cubic Castles) is an open world MMO game where you can build, trade, mine, craft, and roleplay! Create your dream world, fight battles, and explore with other players in the active community.",
-                "cover_image": "https://imgs.crazygames.com/castles-cc/20210310112233/castles-cc-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/castles-cc/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "September 2024",
+                "description": "Rogue Dunk is a thrilling 2D basketball game that combines fast-paced action with rogue-like strategy. Each game offers new skills to unlock and challenges to face, making every match feel fresh and exciting. Test your skills, adapt your strategy, and push your score higher as you take on this unique blend of sports and adventure.",
+                "cover_image": "https://imgs.crazygames.com/rogue-dunk-viy_16x9/20240919102006/rogue-dunk-viy_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/rogue-dunk-viy/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Chompers.io",
-                "rating": "8.7",
+                "title": "Sports Minibattles",
+                "rating": "8.1",
+                "released": "November 2018",
+                "description": "Sports Mini Battles is a brilliant collection of sports-based games. You can either play against an AI computer opponent or your friend using split controls. There are four different sports games to play. During each game, you must try and beat your opponent in an intense sports match.",
+                "cover_image": "https://imgs.crazygames.com/sport-minibattles/20200731163003/sport-minibattles-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sport-minibattles/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Street Ball Jam",
+                "rating": "8.6",
                 "released": "September 2019",
-                "description": "Chompers.io is an evolution-based battle game in the .io games genre. In the game, you control a monster that can evolve as you eat food and eliminate other players. Try to become the strongest player around in the arena!",
-                "cover_image": "https://imgs.crazygames.com/games/chompers-io/cover-1584553166691.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/chompers-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "description": "Street Ball Jam is an entertaining one-touch basketball game to score as many balls as you can.",
+                "cover_image": "https://imgs.crazygames.com/games/street-ball-jam/thumb-1568117124451.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/street-ball-jam/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Tap-Tap Shots",
+                "rating": "8.4",
+                "released": "June 2019",
+                "description": "Tap-Tap Shots is an addictive sports game in which you continuously tap to make your basketball jump. It is an endless basketball practice where you aim to get your ball in the net in one shot. The goal is to keep playing until you can't anymore, so you may want to cancel all plans for the evening. Perfectly time your taps to score before the clock runs out, and keep going as long as you can!",
+                "cover_image": "https://imgs.crazygames.com/games/tap-tap-shots/cover-1655202548222.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/tap-tap-shots/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             }
         ]
     }
