@@ -1,22 +1,435 @@
 [
     {
-        "name": "IO",
+        "name": "Basketball",
         "items": [
             {
-                "title": "Cubes 2048.io",
-                "rating": "7.8",
-                "released": "December 2022",
-                "description": "Cubes 2048.io is an addictive online game that fusesSnakeand2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another willmerge.",
-                "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/cubes-2048-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Basket-Ball",
+                "rating": "8.3",
+                "released": "February 2023",
+                "description": "Basket-Ball is a 2D arcade basketball game where you must throw the ball in one shot and be able to catch the star and put the ball into the basket. Avoid obstacles that get in the way and use the portal to teleport the ball. Proof your skill and challenge yourself by beating all the levels available. This game is designed for your fun!",
+                "cover_image": "https://imgs.crazygames.com/basket-ball/20230303113513/basket-ball-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-ball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Snake Clash.io",
+                "title": "Basket Battle",
+                "rating": "8.6",
+                "released": "January 2025",
+                "description": "Basket Battle is a dynamic sports basketball game where you aim to outscore your opponent by skillfully throwing the ball into the basket. Challenge your reflexes as you intercept your rival's shots and maintain control over the game: master timing and precision to dominate the court and secure victory in intense matches.",
+                "cover_image": "https://imgs.crazygames.com/basket-battle-zmg_16x9/20250102082146/basket-battle-zmg_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-battle-zmg/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Champs",
+                "rating": "8.7",
+                "released": "December 2016",
+                "description": "Basket Champs is a fun basketball game! Pick your favorite team and compete in the tournament by scoring more points than your opponents.",
+                "cover_image": "https://imgs.crazygames.com/basketchamps.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-champs/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Monsterz",
+                "rating": "8.5",
+                "released": "October 2022",
+                "description": "Basket Monsterz is an awesome basketball shooting game with fun cartoon monster characters! You can play as a wide range of monsters including Satan and Bigfoot. Get in the game and see if you can win.",
+                "cover_image": "https://imgs.crazygames.com/basket-monsterz/20221028193744/basket-monsterz-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-monsterz/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Random",
+                "rating": "8.8",
+                "released": "June 2020",
+                "description": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics. Bounce and battle for the ball across wild courts, with each dunk launching you to the next level!",
+                "cover_image": "https://imgs.crazygames.com/basket-random_16x9/20240617090207/basket-random_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-random/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Slam Dunk 2",
+                "rating": "8.5",
+                "released": "February 2020",
+                "description": "Just likeTap Tap Shots, in Basket Slam Dunk 2, you need to successfully dunk the basketball into the ring. The physics element makes the game more challenging!",
+                "cover_image": "https://imgs.crazygames.com/games/basket-slam-dunk-2/thumb-1581588989893.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-slam-dunk-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basket Swooshes Plus",
+                "rating": "7.7",
+                "released": "May 2020",
+                "description": "Basket Swooshes Plus is a sports basketball game where you must be the first to score 11 points to win. Get ready to step onto the virtual court and shoot some hoops in the competitive basketball match. Test your shooting skills and win the competition!",
+                "cover_image": "https://imgs.crazygames.com/basket-swooshes-plus_16x9/20231107033245/basket-swooshes-plus_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basket-swooshes-plus/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Clash",
+                "rating": "8.5",
+                "released": "July 2023",
+                "description": "Basketball Clash is the ultimate basketball game that brings together players from around the globe, providing endless entertainment. Showcase your talent and rise among the top 100 basketball shooters worldwide. Prepare for exhilarating competitions where your agility, logic, and strategic thinking will determine your triumph. Prove your skills and dominate the court!",
+                "cover_image": "https://imgs.crazygames.com/basketball-clash/20230705135545/basketball-clash-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-clash/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball FRVR",
+                "rating": "8.7",
+                "released": "February 2017",
+                "description": "Basketball FRVR is a great new basketball game that you can play on any device. This Basketball Hoop Shooter is simple to learn but a lot of fun. There is no time limit in the game, but the moving basket is a challenge even for experienced players! This means that you can play Basketball FRVR for as long as you want. There are bonus points if you don't hit the rim. The game is made by Chris Benjaminsen. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/basketballfrvr.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-frvr/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball League",
+                "rating": "8.6",
+                "released": "November 2023",
+                "description": "Basketball League is an arcade basketball sports game where you must aim and shoot to score. If you want relaxing gameplay, you can try the Free Throw mode. If you want to challenge yourself, you can play the Timed Practice mode. If you want to show your skill and prove yourself to others, play the Online mode so everybody will know how talented you are!",
+                "cover_image": "https://imgs.crazygames.com/basketball-league_16x9/20250630074606/basketball-league_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-league/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Legends 2020",
                 "rating": "8.3",
-                "released": "February 2025",
-                "description": "Snake Clash.io is an io snake game where you compete against players, outmaneuver rivals, and dominate the leaderboard. Grow longer, strategize, and prove your skill in fast-paced battles.",
-                "cover_image": "https://imgs.crazygames.com/snake-clash-io_16x9/20250203091302/snake-clash-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-clash-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "September 2020",
+                "description": "Basketball Legends 2020 is the popular sequel toBasketball Stars 2019. This two-player basketball game lets you play as iconic basketball players like Luka Doncic, James Harden, and LeBron James in bobblehead form!",
+                "cover_image": "https://imgs.crazygames.com/basketball-legends-2020_16x9/20231122050621/basketball-legends-2020_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-legends-2020/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Orbit",
+                "rating": "9.0",
+                "released": "April 2025",
+                "description": "Basketball Orbit is an exhilarating sports basketball simulation game in our sports category, where you aim to launch basketballs to unbelievable heights, even beyond Earth’s atmosphere! Take on thrilling one-shot basketball challenges, conquer tricky levels, and perfect your shooting technique. Compete to become the ultimate basketball legend in this fun and unique basketball adventure!",
+                "cover_image": "https://imgs.crazygames.com/basketball-orbit_16x9/20250505030520/basketball-orbit_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-orbit/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Serial Shooter",
+                "rating": "8.6",
+                "released": "October 2022",
+                "description": "Basketball Serial Shooter is an arcade basketball game where you must throw the ball into the basket before the time runs out. Try to make as many points as you can on each play. Good luck!",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-serial-shooter/cover-1663858495600.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-serial-shooter/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Skills",
+                "rating": "8.7",
+                "released": "April 2019",
+                "description": "Basketball Skills is the basketball arcade game in which you must try to score baskets in all the different game modes available. You can play either arcade, time attack, and distance mode. Arcade mode gives you 10 balls to use; you must continue to score baskets although it becomes harder each time you score.",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-skills/cover_16x9-1734346245128.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-skills/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Stars",
+                "rating": "8.3",
+                "released": "May 2019",
+                "description": "Basketball Stars is a 2-player basketball game by Madpuffers where you hit the court as legends like LeBron James, Stephen Curry, and James Harden. Play solo, team up with a friend or challenge them in fast-paced hoops action!",
+                "cover_image": "https://imgs.crazygames.com/games/basketball-stars-2019/cover-1583231506155.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-stars-2019/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Basketball Superstars",
+                "rating": "8.9",
+                "released": "January 2025",
+                "description": "Basketball Superstars is a dynamic basketball experience where you create and train your ultimate player. Customize your gear, enhance your skills, and face intense rivals in fast-paced matches. Whether you are outsmarting opponents or perfecting your strategy, each game delivers action and excitement as you strive to dominate the court and showcase your prowess.",
+                "cover_image": "https://imgs.crazygames.com/basketball-superstars_16x9/20250117063641/basketball-superstars_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketball-superstars/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "BasketBros",
+                "rating": "8.9",
+                "released": "January 2020",
+                "description": "BasketBros is a fast-paced basketball game that offers both online and offline gameplay. Choose a player, customize your style, and compete in single-player and multiplayer games.",
+                "cover_image": "https://imgs.crazygames.com/basketbros_16x9/20250320082607/basketbros_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/basketbros/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Bouncy Dunk",
+                "rating": "8.3",
+                "released": "August 2018",
+                "description": "Bouncy Dunk is the arcade basketball game in which you must try to score as many baskets as possible. The ball will come from different directions, use the clicker on your mouse to make the ball bounce and score into the basket. Your timing as key as you must work out the protectory of the ball as it approaches the rim.",
+                "cover_image": "https://imgs.crazygames.com/bouncydunk.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bouncy-dunk/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Epic Basketball",
+                "rating": "8.7",
+                "released": "August 2020",
+                "description": "Epic Basketball is an entertaining arcade-style basketball game with crazy characters.",
+                "cover_image": "https://imgs.crazygames.com/epic-basketball/20200803042523/epic-basketball-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/epic-basketball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Flappy Dunk",
+                "rating": "8.1",
+                "released": "December 2023",
+                "description": "Flappy Dunk is a casual basketball game where you tap to propel the ball through hoops, earning points and unlocking new balls along the way. The game seamlessly blends simple one-touch controls with a challenging gameplay that's easy to grasp but hard to master. Perfect for basketball enthusiasts of all ages, Flappy Dunk keeps the excitement alive with its unique theme and a continuous stream of fresh challenges as you progress.",
+                "cover_image": "https://imgs.crazygames.com/flappy-dunk_16x9/20231204133706/flappy-dunk_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/flappy-dunk/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Flipper Dunk 3D",
+                "rating": "8.5",
+                "released": "December 2022",
+                "description": "Flipper Dunk 3D is a challenging single-tap pinball-basketball game. You'll need the patience of a monk and the precision of a master to dunk. See if you have what it takes to be a master dunker. The game is simple to learn but difficult to master, but it will be highly satisfying when you finally dunk that ball! Check outTap Tap Shotsfor a similar game.",
+                "cover_image": "https://imgs.crazygames.com/flipper-dunk-3d/20230102160902/flipper-dunk-3d-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/flipper-dunk-3d/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Hoop World 3D",
+                "rating": "8.8",
+                "released": "April 2024",
+                "description": "Hoop World 3D is a flip-and-dunk game that brings basketball to a whole new dimension! Get your timing right or you'll fall short of the net and fall flat on your face.",
+                "cover_image": "https://imgs.crazygames.com/hoop-world-3d_16x9/20250616033341/hoop-world-3d_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/hoop-world-3d/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Jump Up 3D",
+                "rating": "8.7",
+                "released": "September 2023",
+                "description": "Jump Up 3D is a sports basketball game where you shoot to get that slam dunk, but the one hitch is you're doing it by jumping on a trampoline. Not your ordinary basketball game, this one promises and delivers the excitement! Take aim, bounce on the trampoline, and score baskets before your opponent. With intuitive controls and addictive gameplay, it tests your precision and unleashes your inner dunk master. Be the court champion in this fast-paced! How far can you go in this unlimited playground of basketball action?",
+                "cover_image": "https://imgs.crazygames.com/jump-up-3d-basketball-game_16x9/20240930101128/jump-up-3d-basketball-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/jump-up-3d-basketball-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Jump Up 3D: Mini Basketball",
+                "rating": "8.7",
+                "released": "May 2024",
+                "description": "Jump Up 3D: Mini Basketball is a trampoline basketball game where you control the action. With simple controls, anyone can enjoy aiming for that perfect shot. The vibrant graphics and lively animations make each game session a blast. Challenge yourself to beat your high score or compete with friends for bragging rights. It's time to bounce, shoot, and score big in Jump Up 3D: Mini Basketball!",
+                "cover_image": "https://imgs.crazygames.com/jump-up-3d-mini-basketball_16x9/20240429062741/jump-up-3d-mini-basketball_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/jump-up-3d-mini-basketball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Noob Basketball Clicker",
+                "rating": "8.8",
+                "released": "May 2024",
+                "description": "Noob Basketball Clicker is a fun and addicting clicker game that combines with unique basketball elements. Your goal is to manage the basketball court and earn money by shooting the ball into the basket. Just click your mouse to send the ball flying toward the hoop. Each hit will bring you profit, which you can use to improve your gaming experience. Develop your skills, acquire new balls, and expand your support team to increase your income. This game offers addictive gameplay that will keep you busy for hours. Immerse yourself in a competitive atmosphere and test your business management skills. Become a real basketball tycoon and conquer this virtual sport!",
+                "cover_image": "https://imgs.crazygames.com/noob-basketball-clicker_16x9/20240529065332/noob-basketball-clicker_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/noob-basketball-clicker/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Puzzle Survivor",
+                "rating": "8.0",
+                "released": "April 2025",
+                "description": "Puzzle Survivor is a competitive puzzle game that puts your logic and strategy to the test. Solve word and number challenges across multiple game modes, compete in real-time or turn-based battles, and climb the leaderboards. Take on daily challenges, unlock achievements, and sharpen your mind in fast-paced, brain-training duels!",
+                "cover_image": "https://imgs.crazygames.com/puzzle-survivor_16x9/20250616040010/puzzle-survivor_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/puzzle-survivor/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Ragdoll Throw Challenge",
+                "rating": "8.3",
+                "released": "May 2024",
+                "description": "Ragdoll Throw Challenge is a physics-based casual game where you control a wobbly character, help them grab weapons, and fling them at your enemies for ultimate chaos and fun! The gameplay is simple, but movements can be complex and challenging to master.",
+                "cover_image": "https://imgs.crazygames.com/ragdoll-throw-challenge_16x9/20240520080923/ragdoll-throw-challenge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/ragdoll-throw-challenge/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Rogue Dunk",
+                "rating": "8.5",
+                "released": "September 2024",
+                "description": "Rogue Dunk is a thrilling 2D basketball game that combines fast-paced action with rogue-like strategy. Each game offers new skills to unlock and challenges to face, making every match feel fresh and exciting. Test your skills, adapt your strategy, and push your score higher as you take on this unique blend of sports and adventure.",
+                "cover_image": "https://imgs.crazygames.com/rogue-dunk-viy_16x9/20240919102006/rogue-dunk-viy_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/rogue-dunk-viy/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Sports Minibattles",
+                "rating": "8.1",
+                "released": "November 2018",
+                "description": "Sports Mini Battles is a brilliant collection of sports-based games. You can either play against an AI computer opponent or your friend using split controls. There are four different sports games to play. During each game, you must try and beat your opponent in an intense sports match.",
+                "cover_image": "https://imgs.crazygames.com/sport-minibattles/20200731163003/sport-minibattles-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sport-minibattles/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Street Ball Jam",
+                "rating": "8.6",
+                "released": "September 2019",
+                "description": "Street Ball Jam is an entertaining one-touch basketball game to score as many balls as you can.",
+                "cover_image": "https://imgs.crazygames.com/games/street-ball-jam/thumb-1568117124451.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/street-ball-jam/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Tap-Tap Shots",
+                "rating": "8.4",
+                "released": "June 2019",
+                "description": "Tap-Tap Shots is an addictive sports game in which you continuously tap to make your basketball jump. It is an endless basketball practice where you aim to get your ball in the net in one shot. The goal is to keep playing until you can't anymore, so you may want to cancel all plans for the evening. Perfectly time your taps to score before the clock runs out, and keep going as long as you can!",
+                "cover_image": "https://imgs.crazygames.com/games/tap-tap-shots/cover-1655202548222.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/tap-tap-shots/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            }
+        ]
+    },
+    {
+        "name": "Controller",
+        "items": [
+            {
+                "title": "456 Guys",
+                "rating": "8.4",
+                "released": "August 2025",
+                "description": "456 Guys is a massive multiplayer survival game where up to 456 players compete through unpredictable challenges until only one remains. You’ll race through dangerous obstacle courses, outsmart tricky puzzles, and clash in intense arenas like the Glass Bridges, Honeycomb Maze, and Sumo Ring. With rotating levels and weekly tournaments, every match delivers fresh excitement and global competition.",
+                "cover_image": "https://imgs.crazygames.com/456-guys_16x9/20250820070334/456-guys_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/456-guys/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Airborne Motocross",
+                "rating": "8.4",
+                "released": "May 2024",
+                "description": "Airborne Motocross is a driving game where your dirt bike transforms into a glider. Experience smooth physics as you race through secret paths and reach hidden treasure caves in the sky. Discover cool items like gravity changers, boosters, and more across hundreds of tracks, ensuring endless excitement and challenges.",
+                "cover_image": "https://imgs.crazygames.com/airborne-motocross_16x9/20250627055322/airborne-motocross_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/airborne-motocross/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Baby Chicco Adventures",
+                "rating": "8.8",
+                "released": "February 2022",
+                "description": "Baby Chicco Adventures is a platform game in which you will help our little penguin to escape the dangers of the video game world.",
+                "cover_image": "https://imgs.crazygames.com/baby-chicco-adventures_16x9/20240722070114/baby-chicco-adventures_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/baby-chicco-adventures/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Bobb's World",
+                "rating": "8.4",
+                "released": "December 2022",
+                "description": "Bobb's World is an arcade game where you play as Bobb, who is very hungry and wants to eat all the food in the universe! Help him to go from planet to planet to eat all the food. Avoid hazards and jump on enemies to defeat them. Good luck!",
+                "cover_image": "https://imgs.crazygames.com/bobb-s-world_16x9/20250627095449/bobb-s-world_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bobb-s-world/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "BuildNow GG",
+                "rating": "8.9",
+                "released": "August 2021",
+                "description": "BuildNow GG is an online build-and-shoot game featuring various game modes, weapons, and maps. Build and battle your way to the top of the leaderboard and hone your skills in offline training mode.",
+                "cover_image": "https://imgs.crazygames.com/buildnow-gg_16x9/20250217093036/buildnow-gg_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/buildnow-gg/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Car Sky Survival",
+                "rating": "8.9",
+                "released": "June 2025",
+                "description": "Car Sky Survival is a thrilling multiplayer survival race where sharp reflexes and clever tactics decide who rules the arena. Pilot your custom-tuned cars through a dynamic two-level battleground—fight for dominance on the top platform, but if you drop, battle back from below for a dramatic comeback. Drift, dodge traps, and outlast rivals to claim ultimate victory.",
+                "cover_image": "https://imgs.crazygames.com/car-sky-survival_16x9/20250623083121/car-sky-survival_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/car-sky-survival/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Cat Life Simulator 3D",
+                "rating": "8.6",
+                "released": "June 2024",
+                "description": "Cat Life Simulator is an adventure game where you experience life as a cat! Explore diverse locations, hunt animals, and complete quests for both animals and humans. Upgrade your skills, collect rare items for your home, and cook food. Help your cat grow, start a family, and raise strong kittens. Customize your cat’s appearance, buy home items, and earn rewards for your achievements!",
+                "cover_image": "https://imgs.crazygames.com/cat-life-simulator_16x9/20240918092903/cat-life-simulator_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/cat-life-simulator/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Diep.io",
+                "rating": "8.4",
+                "released": "April 2016",
+                "description": "Diep.io is a survival .io game where you control a circle armed with a cannon. The aim is simple: move around the map and destroy the other players whilst improving and upgrading your own circle.",
+                "cover_image": "https://imgs.crazygames.com/diepio/20230629173952/diepio-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/diepio/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Drop Ahead: Sandbox Madness",
+                "rating": "8.1",
+                "released": "August 2024",
+                "description": "Drop Ahead: Sandbox Madness is an adventure game that offers endless fun and creativity. Jump into the excitement by creating and sharing your own levels, or try out those made by players worldwide. Compete for top spots on the leaderboards. With constant updates, fresh challenges, and customizable skins, the fun never stops. Ready to dive into the madness and show off your skills?",
+                "cover_image": "https://imgs.crazygames.com/drop-ahead-sandbox-madness_16x9/20240801114822/drop-ahead-sandbox-madness_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/drop-ahead-sandbox-madness/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Fantasy Madness",
+                "rating": "9.3",
+                "released": "October 2022",
+                "description": "Fantasy Madness is a roguelike action-survival game set in a wildpunk World of Fantasy. Your goal is to stand against evil forces who want to destroy the natural order. Use a wide arsenal of arcane powers granted by beloved Mother Nature to smash down orcs from the Clan of Aluminum Helmets and other cunning foes.",
+                "cover_image": "https://imgs.crazygames.com/fantasy-madness/20221031100113/fantasy-madness-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/fantasy-madness/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Highway Racer",
+                "rating": "9.2",
+                "released": "February 2018",
+                "description": "Highway Racer is a 3D racing game where you speed down a highway dodging cars. Build up your speed and avoid hitting traffic while taking risks like near misses and driving on the wrong side for bonus points.",
+                "cover_image": "https://imgs.crazygames.com/games/highway-racer/cover-1655194175251.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/highway-racer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Kour.io",
+                "rating": "8.9",
+                "released": "August 2024",
+                "description": "Kour.io is a multiplayer IO FPS game that plunges you into intense battles across various maps with many guns and modes to play!",
+                "cover_image": "https://imgs.crazygames.com/kour-io_16x9/20241107024955/kour-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/kour-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Laser Tanks",
+                "rating": "8.8",
+                "released": "July 2025",
+                "description": "Laser Tanks is a fast-paced top-down shooter where you command powerful laser tanks to battle alien monsters across varied landscapes. Blast through waves of wild creatures using an arsenal of weapons, pilot advanced tanks, and dive into Dungeon Survivor Mode for endless action-packed challenges in this relentless alien showdown.",
+                "cover_image": "https://imgs.crazygames.com/laser-tanks-zwi_16x9/20250708085345/laser-tanks-zwi_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/laser-tanks-zwi/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Multiplayer Quick Tag",
+                "rating": "8.2",
+                "released": "April 2024",
+                "description": "Multiplayer Quick Tag is a casual game tag where the last one out loses a life! With fast-paced platformer action, this casual game promises hours of fun and excitement for players of all ages. Are you ready to sprint, jump, and tag your way to victory in Multiplayer Quick Tag? Whether you're playing against the computer or competing with friends, the adrenaline-pumping excitement of this fast-paced platformer will keep you coming back for more. So, gather your friends, choose your control scheme, and let the tag games begin!",
+                "cover_image": "https://imgs.crazygames.com/multiplayer-quick-tag_16x9/20240405054321/multiplayer-quick-tag_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/multiplayer-quick-tag/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Online Robot Royale",
+                "rating": "9.0",
+                "released": "July 2025",
+                "description": "Online Robot Royale is a high-speed shooting game where you enter 15-player elimination rounds with only one life to spare. Customize your robot's look before the match, then dive into intense, quick-fire battles where precision and agility rule. Track your stats, climb the leaderboards, and prove you’ve got what it takes to be the last robot standing.",
+                "cover_image": "https://imgs.crazygames.com/online-robot-royale_16x9/20250718090933/online-robot-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/online-robot-royale/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "POOBO Survival",
+                "rating": "8.9",
+                "released": "July 2024",
+                "description": "POOBO Survival is a thrilling survival game where over 30 unique heroes face challenging stages. Collect weapons and green diamonds to enhance your chances of success. Survive 20 intense waves to pass each level. It may seem easy, but it's a tough battle that will test your skills and strategy.",
+                "cover_image": "https://imgs.crazygames.com/poobo-survival_16x9/20240712025840/poobo-survival_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/poobo-survival/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Poxel.io",
+                "rating": "8.7",
+                "released": "April 2025",
+                "description": "Poxel.io is a, io fast-paced first-person shooter that throws you into intense pixelated battles across diverse maps. Choose from a wide arsenal of weapons, master different game modes, and outplay your rivals to claim the top spot. Every match is a test of skill and strategy: do you have what it takes to dominate the battlefield?",
+                "cover_image": "https://imgs.crazygames.com/poxel-io_16x9/20250422021430/poxel-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/poxel-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Ragdoll Soccer 2 Players",
+                "rating": "8.5",
+                "released": "October 2024",
+                "description": "Ragdoll Soccer: 2 Players is a sports soccer game that delivers the ultimate blend of soccer and chaos, where wobbly ragdoll physics takes over the field for hilarious and unpredictable gameplay! Step into the shoes (or, more accurately, the floppy limbs) of a stickman player and take on the challenge solo or face off against a friend in intense local multiplayer. With a variety of modes like Championship, Penalty Shootout, and single-player, there's never a dull moment.",
+                "cover_image": "https://imgs.crazygames.com/ragdoll-soccer-2-players_16x9/20241209062336/ragdoll-soccer-2-players_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/ragdoll-soccer-2-players/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Rock Climbing?",
+                "rating": "8.5",
+                "released": "February 2024",
+                "description": "Rock Climbing is a thrilling casual game where you guide a unique two-headed creature. Stay composed as you aim for your landing spot, holding and releasing the button for a strategic jump. Rotate mid-air for precision, but be cautious not to collide with your second head to avoid unwanted bouncing. If you miss, savor the calming mountain sounds before embarking on your ascent again.",
+                "cover_image": "https://imgs.crazygames.com/rock-climbing_16x9/20240201042059/rock-climbing_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/rock-climbing/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Sandbox City",
+                "rating": "9.1",
+                "released": "December 2021",
+                "description": "Sandbox City - Cars, Zombies, Ragdolls! is a zombie game where you can explore freely and drive around the city, but, be careful of the zombie's infection! Find the zombies and kill them before the infection spreads around and the city.",
+                "cover_image": "https://imgs.crazygames.com/sandbox-city---cars-zombies-ragdolls_16x9/20250909075759/sandbox-city---cars-zombies-ragdolls_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Slime Jumper",
+                "rating": "8.5",
+                "released": "January 2025",
+                "description": "Slime Jumper is a casual yet challenging 2D precision platformer that puts your skills to the test. Featuring a unique Jump-Only control system, this game delivers a fresh twist on platforming by limiting the player's input to just two buttons for maximum simplicity and precision.",
+                "cover_image": "https://imgs.crazygames.com/slime-jumper-cjb_16x9/20250203072436/slime-jumper-cjb_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/slime-jumper-cjb/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Smash Karts",
+                "rating": "8.9",
+                "released": "May 2020",
+                "description": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes.",
+                "cover_image": "https://imgs.crazygames.com/smash-karts_16x9/20250820055325/smash-karts_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/smash-karts/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
                 "title": "Snake.io",
@@ -24,7 +437,7 @@
                 "released": "September 2022",
                 "description": "Snake.io is an online io game where you control a snake, striving to survive in a battlefield of other snakes. Consume colorful food to grow larger and defeat rivals to become a formidable force",
                 "cover_image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "link": "https://games.crazygames.com/en_US/snake-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
                 "title": "Snake Lite",
@@ -32,76 +445,798 @@
                 "released": "September 2023",
                 "description": "Snake Lite is a casual arcade snake game with a competitive twist. Unlike other slither and snake games, you not only collect goodies and power-ups but also compete against other players to become the largest worm-like snake in the arena.",
                 "cover_image": "https://imgs.crazygames.com/snake-lite-worm-snake-game_16x9/20231030060228/snake-lite-worm-snake-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/snake-lite-worm-snake-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "link": "https://games.crazygames.com/en_US/snake-lite-worm-snake-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Sunset Bike Racing",
+                "rating": "8.4",
+                "released": "May 2024",
+                "description": "Sunset Bike Racer is an adrenaline-pumping offroad adventure game that puts your skills to the test. Experience thrilling bike physics on challenging tracks. Earn stars to unlock powerful bikes and dominate the competition. Need a second chance? Reverse time and try again! Compete against ghosts, perform stunts, and discover hidden secrets on dozens of dynamic tracks. Are you ready to race into the sunset?",
+                "cover_image": "https://imgs.crazygames.com/sunset-bike-racing_16x9/20240711023720/sunset-bike-racing_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sunset-bike-racing/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Taxi Rush",
+                "rating": "8.5",
+                "released": "July 2024",
+                "description": "Taxi Rush is a driving simulation game where you race through city streets to deliver clients swiftly and safely. Navigate dense traffic, avoid roadblocks, and manage unique passenger demands to earn rewards. Upgrade and customize your taxi, strategize your routes, and climb the leaderboard to become the ultimate taxi driver in this dynamic urban adventure.",
+                "cover_image": "https://imgs.crazygames.com/taxi-rush_16x9/20240726033945/taxi-rush_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/taxi-rush/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "TV Invasion",
+                "rating": "9.3",
+                "released": "March 2023",
+                "description": "TV Invasion is an arcade game where you take control of a character who is being attacked by dangerous TVs. You must use your TV remote control to defend yourself and defeat the TVs. As you progress through the levels, the TVs become more challenging to defeat, and you will need to use different strategies to win. How long can you survive the TV invasion?",
+                "cover_image": "https://imgs.crazygames.com/tv-invasion/20230320150758/tv-invasion-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/tv-invasion/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "UpRunner",
+                "rating": "8.1",
+                "released": "December 2024",
+                "description": "UpRunner is a fast-paced vertical speed-running game that challenges you to be the fastest on the platform. Compete in thrilling multiplayer lobbies or design and share your own custom maps. Earn coins by winning races or completing challenges, and use them to unlock an array of unique, randomly generated skins that keep your gameplay experience fresh and personalized. With a vibrant community and endless customization, UpRunner offers endless excitement for speedrun enthusiasts and creative gamers!",
+                "cover_image": "https://imgs.crazygames.com/uprunner_16x9/20241210033853/uprunner_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/uprunner/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             }
         ]
     },
     {
-        "name": "Minecraft",
+        "name": "Mahjong",
         "items": [
             {
-                "title": "Agar.io",
-                "rating": "8.4",
-                "released": "June 2015",
-                "description": "Agar.io is the original .io grow game. Play as a simple agar cell fighting to become the largest cell in a multiplayer game arena. Avoid the bigger cells and consume the smaller ones to grow larger.",
-                "cover_image": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/agario/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Advent Mahjong",
+                "rating": "7.5",
+                "released": "December 2021",
+                "description": "Advent Mahjong is a match 3 Christmas-themed game to connect identical tiles and remove them from the grid to move on to the next challenging levels before you run out of time. By passing a level, you get one day closer to Christmas, and the closer you get the more challenging the levels are.",
+                "cover_image": "https://imgs.crazygames.com/advent-mahjong/20211202101555/advent-mahjong-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/advent-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Agents.io",
+                "title": "Aloha Mahjong",
                 "rating": "8.6",
-                "released": "June 2023",
-                "description": "Agents.io is a thrilling multiplayer game where you engage in action-packed battles with rival gangs. As a player, you take control of your own gang and navigate through dynamic battlegrounds, aiming to eliminate rival agents and secure victory for your team. Quick reflexes, strategic shooting, and effective communication with your teammates are essential to succeed in this intense showdown.",
-                "cover_image": "https://imgs.crazygames.com/agents-io/20230609044850/agents-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/agents-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "September 2024",
+                "description": "Aloha Mahjong is a relaxing puzzle game set in the beautiful landscapes of Hawaii. With 365 levels inspired by the island’s culture, you’ll match tiles featuring traditional symbols and exotic elements. Enjoy the peaceful, tropical atmosphere as you challenge yourself in this unique twist on the classic Mahjong experience.",
+                "cover_image": "https://imgs.crazygames.com/aloha-mahjong_16x9/20240910083037/aloha-mahjong_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/aloha-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Archer Clash",
-                "rating": "9.1",
-                "released": "June 2025",
-                "description": "Archer Clash is a fast-paced io game where you guide a lone hero racing across a rolling, hill-like battle arena. You’ll recruit allies, adapt your tactics, and face shifting challenges as you fight for control. Every decision shapes your path to victory, blending quick reflexes with smart strategy in a thrilling clash of skill and growth.",
-                "cover_image": "https://imgs.crazygames.com/archer-clash-ftj_16x9/20250613030347/archer-clash-ftj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/archer-clash-ftj/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Butterfly Shimai",
+                "rating": "8.2",
+                "released": "March 2022",
+                "description": "Butterfly Shimai is a captivating mahjong connect game that takes you on a journey to match and release beautiful butterflies. Explore the enchanting world of butterflies as you connect identical pairs and set them free to soar. With mesmerizing visuals and engaging gameplay, Butterfly Shimai offers a delightful experience formahjongenthusiasts. Challenge yourself to find all the matching butterflies and witness their graceful flight in this immersive game.",
+                "cover_image": "https://imgs.crazygames.com/games/butterfly-shimai/cover_16x9-1746158097542.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/butterfly-shimai/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Archers Battle",
-                "rating": "8.5",
-                "released": "April 2025",
-                "description": "Archers Battle is an .io-style third-person shooter game, packed with stickmen, horses, bows, and arrows! Battle against players from around the world, collect diamonds, and rise to the top of the leaderboard! Jump into the Archers Battle arena, unleash your inner marksman, and prove your skill in this chaotic stickman showdown!",
-                "cover_image": "https://imgs.crazygames.com/archers-battle_16x9/20250416101236/archers-battle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/archers-battle/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Celtic Mahjong Solitaire",
+                "rating": "7.7",
+                "released": "August 2020",
+                "description": "Celtic Mahjong Solitaire is amahjong gamewith a Solitaire variation ruleset. Match tiles with each other to remove them from the board, but make sure that both tiles have a free space on either their left or right side (you won't be able to highlight them otherwise as it's an invalid move). Clear the board in as little time as possible and try to beat the high score!",
+                "cover_image": "https://imgs.crazygames.com/games/celtic-mahjong-solitaire/cover-1629802548165.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/celtic-mahjong-solitaire/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Arx Arcana (Last Mage Standing)",
-                "rating": "9.2",
-                "released": "March 2019",
-                "description": "Arx Arcana: Dungeon Royale is a cool battle royale game with a fantasy twist. The 2D graphics and top-down gameplay are superb. In this multiplayer game, you must fight against hundreds of players from around the world.",
-                "cover_image": "https://imgs.crazygames.com/arx-arcana-dungeon-royale/20201106152604/arx-arcana-dungeon-royale-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/arx-arcana-dungeon-royale/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Daily Mahjong",
+                "rating": "8.0",
+                "released": "February 2018",
+                "description": "Daily Mahjong is a fun game to spend time. Your task is to remove all the tiles from the board. You must remove the same tiles one by one, and only from the top layer. The faster you finish the game, the more score bonus will be received. Every game is unique as piece location will be randomized. Track your progress daily and get better on this game.",
+                "cover_image": "https://imgs.crazygames.com/games/daily-mahjong/cover-1606831570708.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/daily-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "BattleDudes.io",
-                "rating": "8.7",
-                "released": "May 2021",
-                "description": "BattleDudes.io is an action-packed 2D multiplayer IO battle game where chaos reigns supreme. Engage in fierce battles against other players, unleashing a powerful arsenal of guns, tanks, and explosive weaponry to dominate the battlefield. With multiple maps and diverse game modes, every match offers a new challenge and a chance to show off your strategic prowess. Log in, level up, and unlock powerful upgrades that will make you an unstoppable force!",
-                "cover_image": "https://imgs.crazygames.com/battledudes-io_16x9/20241216121046/battledudes-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/battledudes-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "title": "Gold Mahjong FRVR",
+                "rating": "8.4",
+                "released": "May 2020",
+                "description": "Gold Mahjong FRVR is a Mahjong game with a mission to clear the gold tiles, and it comes with a daily challenge.",
+                "cover_image": "https://imgs.crazygames.com/games/gold-mahjong-frvr/thumb-1591020852007.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/gold-mahjong-frvr/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Big Battle Mini",
-                "rating": "8.7",
-                "released": "July 2025",
-                "description": "Big Battle Mini is an action-packed online multiplayer game where you face off against friends and rivals in fast, thrilling mini battles. Test your reflexes, outsmart opponents, and claim victory in quick-fire matches that keep the competition fierce and the fun nonstop.",
-                "cover_image": "https://imgs.crazygames.com/big-battle-mini_16x9/20250715033353/big-battle-mini_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/big-battle-mini/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "BlockTanks.io",
+                "title": "Happy Farm: The Crop",
                 "rating": "8.3",
-                "released": "October 2020",
-                "description": "BlockTanks is an online tank battle .io game. Choose your preferred game mode and shoot to destroy enemy tanks and increase your score. You can play solo or in teams. Find upgrades to gain an advantage and dominate the leaderboard!",
-                "cover_image": "https://imgs.crazygames.com/blocktanks-io_16x9/20240108063944/blocktanks-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/blocktanks-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "August 2021",
+                "description": "Happy Farm: The Crop is a farm-themed mahjong game with a customizable tiles appearance.",
+                "cover_image": "https://imgs.crazygames.com/games/happy-farm-the-crop/cover-1629542918687.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/happy-farm-the-crop/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong 3D Classic",
+                "rating": "7.1",
+                "released": "June 2021",
+                "description": "Mahjong 3D is aclassic mahjong gamewith 3D tiles. You can also make your own mahjong layout as you like in the editor mode and also choose your favorite tile set available in this game. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-3d-classic/cover-1654788910168.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-3d-classic/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Big",
+                "rating": "8.0",
+                "released": "February 2024",
+                "description": "Mahjong Big is a relaxing game that challenges players to pair identicalmahjongtiles. Strive for a flawless 3-star rating on each level and conquer the Daily Challenge. Collect diamonds during gameplay to unlock exciting new stages, adding depth and enjoyment to the gaming experience. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-big/cover_16x9-1707974556821.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-big/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Online",
+                "rating": "7.9",
+                "released": "August 2018",
+                "description": "Mahjong Online is the classic version of the ancient board game that requires you to clear the board by matching the same patterned tiles. The rules dictate that there must be two or more of the same tiles to clear tiles from the play area and successfully win the game.",
+                "cover_image": "https://imgs.crazygames.com/mahjongclassicwebgl.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-classic-webgl/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Connect (Legacy)",
+                "rating": "7.8",
+                "released": "March 2022",
+                "description": "Mahjong Connect is amahjong gameto match all the tiles to clear the board. Can you beat all the levels?",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-connect-1/cover-1653404969294.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-connect-1/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Connect 2 (Legacy)",
+                "rating": "7.9",
+                "released": "April 2022",
+                "description": "Mahjong Connect 2 is the second episode of the classical Mahjong game, Mahjong Connect.",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-connect-2-2/cover-1653299604735.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-connect-2-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Digital",
+                "rating": "7.2",
+                "released": "August 2021",
+                "description": "Mahjong Digital is an excitingmahjong-connecting gamewith a digital theme.",
+                "cover_image": "https://imgs.crazygames.com/mahjong-digital/20210806101459/mahjong-digital-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-digital/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Empire",
+                "rating": "7.3",
+                "released": "August 2020",
+                "description": "Mahjong Empire is amahjong game, but it plays differently as you play alone and the rules are a little similar to a solitaire game. As such, the goal of the game is to clear the board of all the tiles. This can be done by pairing identical tiles to remove them from play. There are a few restrictions though. First, you have to make sure that both tiles have a free side (left or right). Also, the tiles must not be under another tile. A Hint button is available if you're unable to find any more pairs, as well as a Shuffle button. You can only use them a limited number of times so be sure to use them wisely!",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-empire/cover-1627759098658.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-empire/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong FRVR",
+                "rating": "7.9",
+                "released": "June 2016",
+                "description": "Mahjong Frvr is a great HTML5 mahjong game developed by Chris Benjaminsen. Check out hisblogto read more about this project, or try one ofour many other mahjong games.",
+                "cover_image": "https://imgs.crazygames.com/mahjongfrvrb.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-frvr/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Gardens",
+                "rating": "7.9",
+                "released": "August 2020",
+                "description": "Mahjong Gardens is a puzzle game that lets you playmahjongin its solitaire variation. You are clearing tiles from the board by pairing identical tiles with each other. Pairing has a few rules, including being unable to pair tiles if one of the two tiles does not have one free edge, as well as one of the tiles, should not be under any other tile. The game ends when all tiles have been paired, or if you run out of moves and shuffles.",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-gardens/cover-1627759110762.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-gardens/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Kitchen",
+                "rating": "8.6",
+                "released": "December 2022",
+                "description": "Mahjong Kitchen is a new concept ofmahjong gamewhere you can buy recipes and complete the order of the customers. This game will completely immerse you in the atmosphere of a pleasant cafe. Figure out the recipes and discover more new dishes!",
+                "cover_image": "https://imgs.crazygames.com/mahjong-kitchen/20221209151441/mahjong-kitchen-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-kitchen/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Magic Islands",
+                "rating": "8.6",
+                "released": "February 2024",
+                "description": "Mahjong Magic Islands is a puzzle game where ancient cities are in desperate need of your magical assistance to restore their waning natural beauty. Join forces with mythical creatures scattered across these mystical islands as you embark on a captivating adventure to save these lands from darkness and bring back their former glory. Are you ready to embark on a mystical journey filled with magic, adventure, and ancient mysteries in the Mahjong Magic Islands?",
+                "cover_image": "https://imgs.crazygames.com/mahjong-magic-islands_16x9/20240226133529/mahjong-magic-islands_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-magic-islands/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Monster Arena",
+                "rating": "9.1",
+                "released": "November 2022",
+                "description": "Mahjong Monster Arena is a uniquemahjong gamewhere you must create monsters by matching 3 mahjong tiles. Evolve your monsters and win challenging battles against enemies and bosses!",
+                "cover_image": "https://imgs.crazygames.com/mahjong-monster-arena/20221102152840/mahjong-monster-arena-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-monster-arena/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Pet Quest",
+                "rating": "7.8",
+                "released": "June 2025",
+                "description": "Mahjong Pet Quest is a charming puzzle adventure where classic Mahjong gets a cute twist with adorable animal-themed tiles. Match pairs of animal tiles to clear the board. You can only match tiles that are free and have no other tiles blocking them! Clear all the tiles to complete the level and move on to the next.",
+                "cover_image": "https://imgs.crazygames.com/mahjong-pet-quest_16x9/20250604073328/mahjong-pet-quest_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-pet-quest/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Pirate Plunder Journey",
+                "rating": "8.3",
+                "released": "November 2020",
+                "description": "Mahjong Pirate Plunder Journey is a Mahjong game to match pairs of pirate-themed tiles.",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-pirate-plunder-journey/cover-1606818706614.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-pirate-plunder-journey/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Shanghai",
+                "rating": "7.9",
+                "released": "March 2020",
+                "description": "Mahjong Shanghai is a free Mahjong game where you match the tiles until there are none remaining. There are two game modes in this classic game, one for kids and one for adults!",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-shanghai-dynasty/cover-1616679793669.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-shanghai-dynasty/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Sweet Connection",
+                "rating": "8.1",
+                "released": "August 2021",
+                "description": "Mahjong Sweet Connection is a connecting Mahjong game with a gravitational element.",
+                "cover_image": "https://imgs.crazygames.com/mahjong-sweet-connection/20221205191913/mahjong-sweet-connection-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-sweet-connection/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Titans",
+                "rating": "7.4",
+                "released": "August 2020",
+                "description": "Mahjong Titans is an iconic Mahjong game where you continually match two tiles to remove them from the board until there are none left. When you clear all the tiles, the level is complete!",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-titans/cover-1601459208873.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-titans/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Tower",
+                "rating": "7.6",
+                "released": "August 2020",
+                "description": "Mahjong Tower 2 is a puzzle game in which you play different variations of the solitaire version ofmahjong. You are able to choose from different layouts, and the challenge and strategy for each are a little different, even if they all have the exact same rules.",
+                "cover_image": "https://imgs.crazygames.com/games/mahjong-tower-2/cover-1627733983365.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-tower-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjong Unlimited",
+                "rating": "8.7",
+                "released": "August 2024",
+                "description": "Mahjong Unlimited is a classic oriental puzzle game that brings the timeless charm of Mahjong to your fingertips. Whether you're a seasoned player or new to the game, Mahjong Unlimited offers a perfect blend of relaxation and challenge with its infinitely generated levels and customizable features!",
+                "cover_image": "https://imgs.crazygames.com/mahjong-unlimited_16x9/20240827081746/mahjong-unlimited_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjong-unlimited/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mahjongg Solitaire",
+                "rating": "7.8",
+                "released": "August 2022",
+                "description": "Mahjongg Solitaire is an onlinemahjong puzzle boardgame that features traditional rules and modern visuals. There are no shuffles, and the game is timed, but the game's pace is relaxed.",
+                "cover_image": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mahjongg-solitaire/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Master Qwan's Mahjong",
+                "rating": "8.1",
+                "released": "August 2020",
+                "description": "Master Qwan's Mahjong is a puzzle game in which you play amahjongvariation of Solitaire. You are matching pairs of tiles that have the same face, but both tiles need to have an open space to their right or left side. Some tiles will be stacked, so any tile on their side that is lower than their stack will not be considered as part of that rule. You should keep doing this until the board is cleared of all the tiles. If you run out of moves, you can select to shuffle the board, but it will cost you a bit of your score.",
+                "cover_image": "https://imgs.crazygames.com/games/master-qwan-s-mahjong/cover-1627414243681.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/master-qwan-s-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Monster Mahjong",
+                "rating": "9.2",
+                "released": "November 2022",
+                "description": "Monster Mahjong is a combination of a mahjong puzzle game with a monster-fighting battle. Combine tiles to create monsters and merge monsters to become a legend!",
+                "cover_image": "https://imgs.crazygames.com/monster-mahjong-mrw/20221121131254/monster-mahjong-mrw-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/monster-mahjong-mrw/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Om Nom Connect Classic",
+                "rating": "8.0",
+                "released": "November 2021",
+                "description": "Om Nom Connect Classic is a puzzle game to connect all the identical Om Nom and friend characters.",
+                "cover_image": "https://imgs.crazygames.com/om-nom-connect-classic/20211103195700/om-nom-connect-classic-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/om-nom-connect-classic/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Onet Connect Classic",
+                "rating": "7.9",
+                "released": "June 2019",
+                "description": "Onet Connect is a puzzle connect matching game inspired by mahjong gameplay. Your objective is simple—connect pairs of identical images to clear the board completely, but don’t take too long—there is a clock ticking your chances to win away. Plan your moves carefully, and if you find yourself stuck, use the hints button to keep the game going. Challenge your speed and strategy in this timeless puzzle adventure!",
+                "cover_image": "https://imgs.crazygames.com/games/onet-connect-classic/cover_16x9-1709113771726.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/onet-connect-classic/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Onet World",
+                "rating": "8.6",
+                "released": "September 2019",
+                "description": "Onet World is a cute Mahjong-style game where you must link identical animal tiles and clear the board.",
+                "cover_image": "https://imgs.crazygames.com/onet-world_16x9/20240508030644/onet-world_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/onet-world/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Piles of Mahjong",
+                "rating": "7.6",
+                "released": "August 2024",
+                "description": "Piles of Mahjong is an engaging and relaxing puzzle game that combines the classic elements of Mahjong with a match-three twist. As you progress through the levels, you’ll need to clear stacks of tiles by matching three identical ones, but be careful—strategic thinking is essential to avoid getting stuck!",
+                "cover_image": "https://imgs.crazygames.com/piles-of-mahjong-jhb_16x9/20250203080756/piles-of-mahjong-jhb_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/piles-of-mahjong-jhb/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Resize Mahjong",
+                "rating": "8.2",
+                "released": "April 2022",
+                "description": "Resize Mahjong is amahjong gamewith a cute animal theme. Find and match tiles with the same pictures of animals. Unlike regular mahjong, the game has tiles of different shapes and sizes. It is possible to combine tiles of the different sizes among themselves, the main thing that on them identical animals were represented.",
+                "cover_image": "https://imgs.crazygames.com/resize-mahjong/20220404094556/resize-mahjong-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/resize-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Scandinavian Mahjong",
+                "rating": "8.6",
+                "released": "April 2024",
+                "description": "Scandinavian Mahjong is a delightful twist on the classic game, set in a charming Scandinavian-inspired home reminiscent of IKEA. With 365 levels, each representing various objects or concepts, from horoscope signs to letters of the alphabet, immerse yourself in this cozy winter edition for hours of relaxing fun.",
+                "cover_image": "https://imgs.crazygames.com/scandinavian-mahjong_16x9/20240418080309/scandinavian-mahjong_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/scandinavian-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Tasty Match: Mahjong Pairs",
+                "rating": "8.5",
+                "released": "September 2023",
+                "description": "Tasty Match: Mahjong Pairs is a colorful and addictive puzzle game where your goal is to connect pairs of identical tiles. Clear the entire mahjong tiles before the time runs out. Connect more distant tiles to get more stars. Win the game and collect the chest. Over time, new beautiful tiles will unlocked, and the level configurations will become more complicated.",
+                "cover_image": "https://imgs.crazygames.com/tasty-match-mahjong-pairs_16x9/20240307152014/tasty-match-mahjong-pairs_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/tasty-match-mahjong-pairs/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Valentine Mahjong",
+                "rating": "7.4",
+                "released": "September 2020",
+                "description": "Valentine Mahjong is a Valentine-themedmahjong gameto clear all the tiles within the time limit.",
+                "cover_image": "https://imgs.crazygames.com/valentine-mahjong/20210924055616/valentine-mahjong-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/valentine-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "War Mahjong",
+                "rating": "8.4",
+                "released": "July 2020",
+                "description": "War Mahjong (Tiles of the Unexpected) is a mahjong-style tile-matching game with a war theme. Although it's not like typicalmahjong games, your objective is to clear the tiles by clicking on groups with the same image.",
+                "cover_image": "https://imgs.crazygames.com/games/war-mahjong/cover-1627395994986.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/war-mahjong/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            }
+        ]
+    },
+    {
+        "name": "Pool",
+        "items": [
+            {
+                "title": "8 Ball Billiards Classic",
+                "rating": "8.5",
+                "released": "May 2018",
+                "description": "8-Ball Billiards is a free online pool game in our sports category, ideal for one or two players. You can play solo against AI or challenge other players in two-player mode. The game is easy for anyone to play, so pick up a cue and line up your first shot.",
+                "cover_image": "https://imgs.crazygames.com/8-ball-billiards-classic_16x9/20231108025958/8-ball-billiards-classic_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/8-ball-billiards-classic/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "8 Ball Pool Billiards Multiplayer",
+                "rating": "8.7",
+                "released": "August 2024",
+                "description": "8 Ball Pool Billiards Multiplayer is a competitive sports pool game that lets you test your skills in exhilarating 2-player matches against friends or go head-to-head with players from around the world. Perfect your game by competing against expert bots to sharpen your strategies and techniques. Whether you’re aiming to outwit a friend or conquer global rivals, every shot counts in your quest to become the ultimate billiards champion.",
+                "cover_image": "https://imgs.crazygames.com/8-ball-pool-billiards-multiplayer_16x9/20240826034902/8-ball-pool-billiards-multiplayer_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/8-ball-pool-billiards-multiplayer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Billiards",
+                "rating": "8.3",
+                "released": "November 2020",
+                "description": "Billiards is a sports game where you can play 2 types of billiards game which is 8 ball or straight pool. You can play by yourself, with 2 players, or with the computer.",
+                "cover_image": "https://imgs.crazygames.com/games/billiards/cover-1636047040066.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/billiards/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Billiards Pool 8",
+                "rating": "7.8",
+                "released": "October 2019",
+                "description": "Pool 8 is a famous billiard variety. The goal of the game is to score all the balls of one group (either “striped” or “solid”), and at the end to score the ball with the number 8. Whoever does this, they become the winner of the game.",
+                "cover_image": "https://imgs.crazygames.com/games/billiards-pool-8/thumb-1570103631999.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/billiards-pool-8/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Blast Billiards",
+                "rating": "8.0",
+                "released": "",
+                "description": "Blast Billiards is a sports game where you clear bombs in 100 seconds by putting them in the holes with a billiard stick.",
+                "cover_image": "https://imgs.crazygames.com/games/blast-billiards/cover-1664316234051.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/blast-billiards/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Blast Billiards 4",
+                "rating": "8.2",
+                "released": "September 2021",
+                "description": "Blast Billiards 4: The Bombs Are Back in Town is the fourth episode of the famous classic Blast Billiards series. Clear all the bomb balls before the time expires in 15 exciting levels!",
+                "cover_image": "https://imgs.crazygames.com/games/blast-billiards-4/cover-1664314496337.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/blast-billiards-4/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mafia Billiard Tricks",
+                "rating": "8.2",
+                "released": "February 2019",
+                "description": "Mafia Billiard Tricks is a billiard arcade game in which you can play the challenging game of billiards. You are not only playing for fun though however; you opponents are part of the infamous mafia. You must earn their respect by beating each crew member at the game of billiards.",
+                "cover_image": "https://imgs.crazygames.com/mafiabilliardtricks.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mafia-billiard-tricks/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Pool 8",
+                "rating": "8.9",
+                "released": "June 2020",
+                "description": "Pool 8 is a brain-teasing puzzle game based on a Pool board. Pot the balls in the correct order to move through a series of increasingly difficult challenges!",
+                "cover_image": "https://imgs.crazygames.com/pool-8/20200518112109/pool-8-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/pool-8/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Pool Club",
+                "rating": "8.0",
+                "released": "December 2019",
+                "description": "Pocket all stripe and solid balls before the clock runs out. Each pocketed ball adds 50 points and 5 seconds. The cue ball deducts 20 points. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/games/pool-club/cover-1624014574246.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/pool-club/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Pool Hustlers",
+                "rating": "8.4",
+                "released": "July 2024",
+                "description": "Pool Hustlers is a pool game where you must try your best to sink as many balls as possible against the ticking clock. Get ready for a fast-paced, precision-focused pool game set in a lively 80s billiards hall. This classic game will bring an adrenaline rush to your usual pool experience, taking you back to an era when pool tables were the battlegrounds for skilled hustlers. Get ready and show your best pool skills!",
+                "cover_image": "https://imgs.crazygames.com/pool-hustlers_16x9/20240711022311/pool-hustlers_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/pool-hustlers/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Royal Pool",
+                "rating": "8.7",
+                "released": "April 2024",
+                "description": "Embark on an exhilarating journey into the world of billiards with Royal Pool, where endless fun and excitement await players of all skill levels. With its extensive level selection, diverse table designs, realistic ball physics, Royal Pool offers an immersive and addictive gameplay experience that will keep you coming back for more. Are you ready to conquer the world of billiards and become the ultimate master?",
+                "cover_image": "https://imgs.crazygames.com/royal-pool_16x9/20240619125825/royal-pool_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/royal-pool/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            }
+        ]
+    },
+    {
+        "name": "Soccer",
+        "items": [
+            {
+                "title": "A Small World Cup",
+                "rating": "8.4",
+                "released": "June 2024",
+                "description": "A Small World Cup is a fun mini-soccer sports game where you control a rag doll and slam it against the arena to make the ball score a goal. You can choose between competitions like the World Cup, Europe Clubs, Cup America, etc. Pick your favorite team, and make your way through the tournament. Get ready to slam your character and score your way to the finals!",
+                "cover_image": "https://imgs.crazygames.com/a-small-world-cup-snk_16x9/20240607095737/a-small-world-cup-snk_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/a-small-world-cup-snk/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Bad Soccer Manager",
+                "rating": "8.0",
+                "released": "July 2021",
+                "description": "Bad Soccer Manager is a 2D sports game in which you are in charge as a soccer manager with various responsibilities to help raise your team's position to the top!",
+                "cover_image": "https://imgs.crazygames.com/games/bad-soccer-manager/cover-1627476147346.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bad-soccer-manager/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Bicycle Kick Champ",
+                "rating": "8.4",
+                "released": "September 2020",
+                "description": "Bicycle Kick Champ is an arcade game where you have one purpose - bicycle kick the ball into the goal! Time your shots perfectly to make sure they aren't blocked and aim to get the highest score as you keep hitting those passes into the net.",
+                "cover_image": "https://imgs.crazygames.com/games/bicycle-kick-champ/cover-1630293242636.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bicycle-kick-champ/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "CarBall.io",
+                "rating": "8.7",
+                "released": "April 2024",
+                "description": "CarBall.io is an adrenaline-packed fusion of soccer and high-speed sports driving game reminiscent of Rocket League. Rev up your engines and dive into intense matches to dominate the leagues. Unlock, purchase, and upgrade your cars to reign supreme in this thrilling automotive showdown. Gear up and become the ultimate champion of CarBall.io!",
+                "cover_image": "https://imgs.crazygames.com/carball-io_16x9/20240418110827/carball-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/carball-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "CG FC 25",
+                "rating": "8.5",
+                "released": "August 2024",
+                "description": "CG FC 25 is a dynamic soccer simulation game that lets you lead your favorite teams to victory. With intuitive joystick controls, sprint and kick features, and realistic 3D stadiums, you'll immerse yourself in intense matches. Choose from Quick Match or Tournament modes, customize your player, and experience the thrill of football in a vibrant, HD arena.",
+                "cover_image": "https://imgs.crazygames.com/games/cg-fc-24/cover_16x9-1734927491009.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/cg-fc-24/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Drop Kick: World Cup",
+                "rating": "7.1",
+                "released": "March 2018",
+                "description": "Drop Kick: World Cup 2018 is an awesome soccer game that will help you prepare for the upcoming football world cup in Russia! Instead of playing a full 90 minutes of football, you can instead take part in a cool penalty shootout tournament with other teams from around the world!",
+                "cover_image": "https://imgs.crazygames.com/dropkickworldcup2018.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/drop-kick-world-cup-2018/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Fiveheads Soccer",
+                "rating": "7.3",
+                "released": "November 2023",
+                "description": "Fiveheads Soccer is an exhilarating sports soccer game that invites players to select their favorite nation from the 'FiveHeads' roster and showcase their skills on the pitch. Boasting 32 world-class teams and 64 unique players, this game offers an immersive World Cup experience. Players can engage in challenging matches in 1 vs. 1 or 2 vs. 2 modes, turning the arena into their playground. Whether playing solo or teaming up with friends, players can dive into the thrill of soccer, showcasing their skills on the virtual pitch. With no fouls and no limits, it's time to kick off the ultimate soccer showdown!",
+                "cover_image": "https://imgs.crazygames.com/fiveheads-soccer_16x9/20231123070723/fiveheads-soccer_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/fiveheads-soccer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Foot Battle Ball",
+                "rating": "7.9",
+                "released": "March 2025",
+                "description": "Foot Battle Ball is a strategic soccer challenge where you face up to seven defenders at once. With limited kicks per round, every move counts. Outsmart your opponents with precision and quick reflexes to secure victory. Featuring a fresh twist on classic football, this game offers intuitive one-finger gameplay and fast-paced action. Can you outplay them all?",
+                "cover_image": "https://imgs.crazygames.com/foot-battle-ball_16x9/20250401042820/foot-battle-ball_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/foot-battle-ball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Foot Chinko",
+                "rating": "8.8",
+                "released": "April 2015",
+                "description": "Welcome to Foot Chinko. Harold Hothead will narrate your epic progression in all of the 94 matches of this soccer game. Which trophies from the trophy case can you conquer?",
+                "cover_image": "https://imgs.crazygames.com/footchinkob.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/foot-chinko/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Foot Chinko: Russia 2018",
+                "rating": "8.7",
+                "released": "July 2018",
+                "description": "Foot Chinko: Russia 2018 is the virtual version of the family favorite soccer game – Foot Chinko! This is the 2018 world cup version and you get to play with your favorite nations. If you have never played foot chinko before, firstly where have you been! Secondly you are in for a treat!",
+                "cover_image": "https://imgs.crazygames.com/footchinkorussia2018b.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/foot-chinko-russia-2018/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Free Kick Classic (3D Free Kick)",
+                "rating": "8.6",
+                "released": "June 2018",
+                "description": "Free Kick Classic (3D Free Kick) is an immersive sports soccer game that puts your precision and skill to the ultimate test. Step up to the pitch as you take on the challenge of firing free kicks from a variety of positions, each one more difficult than the last. With stunning 3D graphics and lifelike physics, every shot feels realistic, giving you the thrill of being in a high-stakes match. Your goal is to perfectly execute your free kicks with just three attempts, but as you advance, the obstacles and defensive walls become increasingly difficult to overcome. The pressure mounts with each shot, and only the sharpest players will rise to the occasion.",
+                "cover_image": "https://imgs.crazygames.com/games/free-kick-classic/cover_16x9-1732743773302.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/free-kick-classic/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Free Kick Underground",
+                "rating": "8.6",
+                "released": "September 2024",
+                "description": "Free Kick Underground is a simple arcade sports game where you must aim and power your kick to score a goal in 1 kick. Try to collect coins on each level to unlock customizable outfits, but don't forget that your main goal is to kick the ball into the goalpost. Try to complete all 60 levels available. The game might look simple, but it will be challenging as you go. Good luck!",
+                "cover_image": "https://imgs.crazygames.com/free-kick-underground-v3_16x9/20250414140144/free-kick-underground-v3_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/free-kick-underground-v3/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "International Super Animal Soccer",
+                "rating": "8.6",
+                "released": "November 2022",
+                "description": "International Super Animal Soccer is a sports game for you, a soccer lover! The animal kingdom is excited about the world cup, so they decided to make their own tournament! Dribble, pass, shoot, and explode your adversaries in this cute world cup inspired soccer game! Challenge your friends in a fun and quick exhibition match! The game is playable as a single-player or local competitive multiplayer. Be the next International Super Animal World Cup winner!",
+                "cover_image": "https://imgs.crazygames.com/international-super-animal-soccer_16x9/20250106091242/international-super-animal-soccer_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/international-super-animal-soccer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Kick Soccer Hero",
+                "rating": "9.3",
+                "released": "July 2025",
+                "description": "Kick Soccer Hero is a fast-paced sports-inspired game that will have you taking shots, dodging defenders, and scoring epic goals with style. You’ll master wild kicks, clever passes, and intense penalty moments in action-packed matches. Every flick counts, so show off your skills and become the soccer hero your team needs.",
+                "cover_image": "https://imgs.crazygames.com/kick-football-herosoccer-game_16x9/20250705025423/kick-football-herosoccer-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/kick-football-herosoccer-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "King of Street Soccer",
+                "rating": "7.9",
+                "released": "June 2025",
+                "description": "King of Street Soccer is a fast-paced one-tap platformer where your timing is everything. Run, jump, and dodge through challenging levels packed with obstacles and tricky enemies, all while chasing the perfect goal shot. Travel from Brazil to Japan in story mode, unlock trophies, and prove you’ve got what it takes to join the elite.",
+                "cover_image": "https://imgs.crazygames.com/king-of-street-football-nuo_16x9/20250606024010/king-of-street-football-nuo_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/king-of-street-football-nuo/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mini-Caps: Soccer",
+                "rating": "8.4",
+                "released": "May 2023",
+                "description": "Mini-Caps: Soccer is a sports game perfect for playing with a friend. Prepare for endless laughter and unforgettable moments with ragdoll physics and funny characters. Challenge your friends in this minimalistic, fun game with unique locations, and balls featuring various modifiers. Enjoy 20 single player levels, a 2-player mode, convenient controls, and charming minimalistic graphics. Get ready for a comedic adventure on the football field!",
+                "cover_image": "https://imgs.crazygames.com/mini-caps-soccer/20230508130410/mini-caps-soccer-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mini-caps-soccer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Mini Car Ball",
+                "rating": "8.2",
+                "released": "December 2024",
+                "description": "Mini Car Ball is a high-energy 2D top-down sports car soccer game where agility and strategy collide in thrilling 1v1 matches. Command a nimble vehicle, using precise driving and clever maneuvers to outplay your rival and score spectacular goals. You can play by yourself or with your friend locally. Mini Car Ball delivers intense soccer action with a unique twist, perfect for solo challenges and exciting 2-players fun!",
+                "cover_image": "https://imgs.crazygames.com/mini-car-ball_16x9/20241212033431/mini-car-ball_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/mini-car-ball/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Pegball FRVR",
+                "rating": "8.6",
+                "released": "February 2022",
+                "description": "Pegball FRVR is a 1 player soccer arcade game to control the peg figures and win the match!",
+                "cover_image": "https://imgs.crazygames.com/games/pegball-frvr/cover-1646413714712.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/pegball-frvr/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Kick Wiz",
+                "rating": "8.8",
+                "released": "April 2022",
+                "description": "Penalty Kick Wiz is a penalty shooter arcade game to kick the soccer ball and shoot to the scoring goal. Become a master of penalty shooters!",
+                "cover_image": "https://imgs.crazygames.com/penalty-kick-wiz/20220329151600/penalty-kick-wiz-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-kick-wiz/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Rivals",
+                "rating": "7.7",
+                "released": "November 2023",
+                "description": "Penalty Rivals is a sports penalty soccer game where you face off against rivals in a high-stakes penalty shootout league. Your shooting and goalkeeping skills will be put to the ultimate test in this game. Can you climb your way to the top of the leaderboard and claim victory?",
+                "cover_image": "https://imgs.crazygames.com/penalty-rivals_16x9/20231219061321/penalty-rivals_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-rivals/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Shooters",
+                "rating": "8.7",
+                "released": "August 2022",
+                "description": "Penalty Shooters is a mouse-only soccer penalty game where you have to alternate between the role of a striker (to take penalties) and goalkeeper (to stop penalties).",
+                "cover_image": "https://imgs.crazygames.com/penalty-shooters/20220829164247/penalty-shooters-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-shooters/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Shooters 2",
+                "rating": "8.7",
+                "released": "August 2022",
+                "description": "Penalty Shooters 2 is a soccer game where you shoot penalties in a fantasy league of your choice. You must alternate between the shooter and the goalkeeper in intense penalty shootouts. Win the match to continue in the league and take your shot at becoming the champion.",
+                "cover_image": "https://imgs.crazygames.com/penalty-shooters-2_16x9/20240726040713/penalty-shooters-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-shooters-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Shooters 3",
+                "rating": "8.6",
+                "released": "October 2023",
+                "description": "Penalty Shooters 3 is a sports soccer game that gives you all the excitement of those final shots into just one game! You get to be both the shooter and the goalkeeper, so you can both nail the perfect shot and make the game-changing save. The game offers two dynamic modes: Tier Mode, where you’ll climb through six increasingly challenging tiers, and the prestigious World Cup, where you’ll compete in iconic arenas to prove if you're ready for the big leagues. Personalize your team with unique jerseys and unlock over 250 teams. With adaptive AI that becomes more skilled as you advance, power-ups to enhance your performance, and achievements to unlock, every match feels like a nail-biting finale.",
+                "cover_image": "https://imgs.crazygames.com/penalty-shooters-3_16x9/20241125075706/penalty-shooters-3_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-shooters-3/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Penalty Shootout: Multi League",
+                "rating": "8.4",
+                "released": "August 2022",
+                "description": "Participate in different fantasy leagues and prove your penalty skills! After picking a league, you can freely choose a favorite team. In the game, you take turns as a penalty kicker and as a goalkeeper. When playing as a kicker, there are 3 moving indicators to adjust the ball's direction, height, and speed. While player as the keeper, you just need to click the target indicator on time. Can you write soccer history in Penalty Shootout: Multi League?",
+                "cover_image": "https://imgs.crazygames.com/penalty-shootout-multi-league/20220824173226/penalty-shootout-multi-league-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/penalty-shootout-multi-league/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "PSG Soccer Freestyle",
+                "rating": "8.6",
+                "released": "May 2023",
+                "description": "PSG Soccer Freestyle is a sports soccer game to unleash your freestyle tricks. Take on the challenge of showcasing your best moves alongside more than 10 official PSG Stars. Play for the highest scores as you enjoy the thrill of this official PSG game. Join Messi, Mbappé, Neymar, and other PSG Stars on the field and immerse yourself in an essential gaming experience for soccer and sports fans. Get ready to dominate with Paris Saint-Germain!",
+                "cover_image": "https://imgs.crazygames.com/psg-soccer-freestyle-hgj/20230512084800/psg-soccer-freestyle-hgj-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/psg-soccer-freestyle-hgj/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Ragdoll Soccer 2 Players",
+                "rating": "8.5",
+                "released": "October 2024",
+                "description": "Ragdoll Soccer: 2 Players is a sports soccer game that delivers the ultimate blend of soccer and chaos, where wobbly ragdoll physics takes over the field for hilarious and unpredictable gameplay! Step into the shoes (or, more accurately, the floppy limbs) of a stickman player and take on the challenge solo or face off against a friend in intense local multiplayer. With a variety of modes like Championship, Penalty Shootout, and single-player, there's never a dull moment.",
+                "cover_image": "https://imgs.crazygames.com/ragdoll-soccer-2-players_16x9/20241209062336/ragdoll-soccer-2-players_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/ragdoll-soccer-2-players/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Rooney On The Rampage",
+                "rating": "9.0",
+                "released": "",
+                "description": "Rooney on the Rampage is an arcade game that lets you play as Wayne Rooney. He was thrown a red card, and he isn't too happy about that, so he goes on a rampage, with anyone in the way just a target for his headbutt. The key to this game is to time your headbutts perfectly to keep your momentum going.",
+                "cover_image": "https://imgs.crazygames.com/games/rooney-on-the-rampage/cover-1617099493769.JPG?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/rooney-on-the-rampage/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Santa vs Skritch",
+                "rating": "7.4",
+                "released": "December 2023",
+                "description": "Santa Vs Skritch is a sports game where holiday cheers battle the notorious party pooper Skritch. Engage in an epic match, competing for presents, outscoring your opponent, and beating the clock. Challenge friends or the AI to decide the triumph between merriment and mischief. Who will emerge victorious in this yuletide showdown? Only you can determine the outcome!",
+                "cover_image": "https://imgs.crazygames.com/santa-vs-skritch_16x9/20231221072805/santa-vs-skritch_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/santa-vs-skritch/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Scoring Champion",
+                "rating": "9.2",
+                "released": "September 2024",
+                "description": "Scoring Champion is a dynamic sports game where you take on multiple disciplines like soccer, basketball, American football, and more. Your objective is to score with precision and power, hitting targets at each level. Earn coins for every successful shot and use them to upgrade your skills, equipment, and boost your earnings as you aim to become the ultimate champion!",
+                "cover_image": "https://imgs.crazygames.com/scoring-champion_16x9/20240830072910/scoring-champion_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/scoring-champion/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Arena X",
+                "rating": "8.5",
+                "released": "June 2025",
+                "description": "Soccer Arena X is an explosive arcade football showdown where you tackle leagues, face rivals, and unleash chaotic power-ups. Play solo in Career Mode to conquer 15 leagues or challenge a friend in intense 2-player duels. Freeze opponents, strike with lightning, and upgrade crazy bonuses to rule the pitch and become a true arena legend.",
+                "cover_image": "https://imgs.crazygames.com/soccer-arena-x_16x9/20250620100048/soccer-arena-x_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-arena-x/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Bros",
+                "rating": "8.5",
+                "released": "January 2024",
+                "description": "Soccer Bros is a fast-paced soccer game that delivers the ultimate adrenaline rush with its one-on-one soccer battles! Choose from a diverse lineup of quirky and dynamic characters, each bringing their unique flair to the field.",
+                "cover_image": "https://imgs.crazygames.com/soccer-bros_16x9/20240109055124/soccer-bros_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-bros/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Dash",
+                "rating": "8.5",
+                "released": "February 2023",
+                "description": "Soccer Dash is a casual soccer game where you play as the ball. Aim and control the soccer ball around obstacles and other players trying to obstruct you until the end. The game will go into a slow-motion state when you choose the direction of the kick, so take your time.",
+                "cover_image": "https://imgs.crazygames.com/soccer-dash_16x9/20241121072050/soccer-dash_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-dash/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Duel",
+                "rating": "8.2",
+                "released": "February 2023",
+                "description": "Soccer Duel is an exciting arcade game in the style of table soccer. You can play in a single-player mode or play with your friend on the same device or over the network.",
+                "cover_image": "https://imgs.crazygames.com/soccer-duel_16x9/20250127080957/soccer-duel_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-duel/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "European Football Quiz",
+                "rating": "8.8",
+                "released": "April 2024",
+                "description": "Football & Quiz: Soccer Quiz is a game for football enthusiasts who want to test their knowledge while having fun. You get to guess the logos of famous football clubs, remember the years they were founded, and identify the winners of Champions Cups. The quiz covers a wide range of topics, from iconic teams and stadiums to historical trivia. With over 30 leagues to explore, this game is perfect for anyone who loves football and wants to learn more about the world's most popular sport. Test your skills and become a football trivia champion!",
+                "cover_image": "https://imgs.crazygames.com/soccer-europe-quiz_16x9/20240424043901/soccer-europe-quiz_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-europe-quiz/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Legends 2021",
+                "rating": "8.3",
+                "released": "April 2021",
+                "description": "Soccer Legends 2021 is a sports soccertwo-playergame and the newest installment in the widely popular Soccer Legends series by MadPuffers, bringing the excitement of fast-paced soccer action to the next level. Packed with fresh updates, this game introduces a variety of new players and teams, each with their own unique skills and playing styles. Whether you’re a seasoned fan of the series or a newcomer, Soccer Legends 2021 offers a dynamic and entertaining experience that combines arcade-style gameplay with competitive strategy. Play solo against AI or challenge your friend to a 1-on-1 match!",
+                "cover_image": "https://imgs.crazygames.com/games/soccer-legends-2021/cover_16x9-1732724179287.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-legends-2021/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Masters: Euro 2020",
+                "rating": "8.6",
+                "released": "December 2019",
+                "description": "Soccer Masters Euro 2020 is a fun sports game where you can play as your favorite soccer team and compete against other teams in challenging soccer matches, solo or with friends. Show your best ball-kicking moves! The gameplay is simple, and the graphics and sound effects give the game a great atmosphere.",
+                "cover_image": "https://imgs.crazygames.com/games/soccer-masters-euro-2020/cover-1575559557992.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-masters-euro-2020/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Merge",
+                "rating": "8.0",
+                "released": "October 2024",
+                "description": "Soccer Merge is a fun and casual football game where you combine strategy and skill to build the ultimate team. The goal of the game is to earn money by winning competitions, attract the best players to your side, and create your ideal football team. Prove you're the best athlete and coach by passing challenges, scoring more goals than your opponents, and assembling the strongest squad. Compete in exciting online tournaments against players worldwide, testing your tactics and reflexes. As a coach, buy new players, upgrade them, and unlock special football attributes in the unique merge gameplay. With an in-depth development system, multiple tactical schemes, and regular championships with valuable prizes, Soccer Merge offers endless football action and strategic fun!",
+                "cover_image": "https://imgs.crazygames.com/soccer-merge_16x9/20241106070215/soccer-merge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-merge/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Random",
+                "rating": "8.9",
+                "released": "June 2020",
+                "description": "Soccer Random is a two-player pixel-art soccer game with limited controls but unlimited randomness. Players hop and kick on the pitch with just one click, trying to score a goal with limited movement. You can choose a one-player game against the computer or two-player with a friend as your opponent.",
+                "cover_image": "https://imgs.crazygames.com/games/soccer-random/cover_16x9-1732744645362.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/soccer-random/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Sports Minibattles",
+                "rating": "8.1",
+                "released": "November 2018",
+                "description": "Sports Mini Battles is a brilliant collection of sports-based games. You can either play against an AI computer opponent or your friend using split controls. There are four different sports games to play. During each game, you must try and beat your opponent in an intense sports match.",
+                "cover_image": "https://imgs.crazygames.com/sport-minibattles/20200731163003/sport-minibattles-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sport-minibattles/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Soccer Heads",
+                "rating": "7.9",
+                "released": "October 2022",
+                "description": "Soccer Heads is a funtwo-playersoccer game featuring famous UK football teams. Play solo against the computer or two-player with a friend. There are various extras and power-ups!",
+                "cover_image": "https://imgs.crazygames.com/sports-heads-soccer/20221031121315/sports-heads-soccer-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/sports-heads-soccer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Stormy Kicker",
+                "rating": "8.3",
+                "released": "May 2020",
+                "description": "Stormy Kicker is a one-buttonpenaltykicking game. Who's the best football striker in the world? You could be the one if you take your team to the World cup title.",
+                "cover_image": "https://imgs.crazygames.com/stormy-kicker/20200520143155/stormy-kicker-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/stormy-kicker/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Street Freekick 3D",
+                "rating": "8.9",
+                "released": "February 2020",
+                "description": "Show your best penalty kicking skill and control the ball directly into the goal net!",
+                "cover_image": "https://imgs.crazygames.com/games/street-freekick-3d/thumb-1581364292890.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/street-freekick-3d/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Tracesoccer",
+                "rating": "7.9",
+                "released": "January 2025",
+                "description": "Tracesoccer is a modern adaptation of the classic pen-and-paper strategy game, also known as paper soccer or paper hockey. It blends strategic planning with the thrill of competition in a turn-based format, offering exciting gameplay for both casual players and competitive strategists. Whether you’re playing against friends, AI, or online opponents, the challenge is to outmaneuver your rival to score the winning goal!",
+                "cover_image": "https://imgs.crazygames.com/tracesoccer-ubc_16x9/20250211063507/tracesoccer-ubc_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/tracesoccer-ubc/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Unmatched Ego",
+                "rating": "9.2",
+                "released": "July 2025",
+                "description": "Unmatched Ego is a fast-paced 3v3 third-person soccer showdown where skill and style rule the pitch. Compete online or train offline, mastering sharp dribbles, slick tackles, and curved shots. Customize your soccer legend with special looks and celebrations, and prove your mastery in high-energy matches that demand precision and flair.",
+                "cover_image": "https://imgs.crazygames.com/unmatched-ego---soccer-action_16x9/20250711023134/unmatched-ego---soccer-action_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/unmatched-ego---soccer-action/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             }
         ]
     },
@@ -109,68 +1244,124 @@
         "name": "Thinky",
         "items": [
             {
-                "title": "Bloxd.io",
+                "title": "2048",
                 "rating": "8.3",
-                "released": "March 2021",
-                "description": "Bloxd.io is an IO adventure game with Minecraft-style visuals and multiple game modes, including parkour challenges, creative sandbox building, and combat-based gameplay.",
-                "cover_image": "https://imgs.crazygames.com/bloxdhop-io_16x9/20250829023851/bloxdhop-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/bloxdhop-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "December 2019",
+                "description": "2048 is a single-player sliding tile puzzle game developed by Gabriele Cirulli. Merge tiles with the same power of 2 to get the total sum. The goal is to keep merging tiles this way until you reach 2048!",
+                "cover_image": "https://imgs.crazygames.com/games/2048/cover_16x9-1707828856995.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/2048/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Braains.io",
-                "rating": "8.6",
-                "released": "April 2018",
-                "description": "Which side will you choose in Braains.io? Braains.io is an awesome multiplayer game of survival – you start as a human but you can transform into a zombie immediately if you wish and try to turn the other players into a zombie too.",
-                "cover_image": "https://imgs.crazygames.com/braains-io/20230217181314/braains-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/braains-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "BrutalMania.io (Brutal Mania)",
+                "title": "Battle Chess",
                 "rating": "8.5",
-                "released": "October 2018",
-                "description": "BrutalMania.io (Brutal Mania) is an online gladiator IO action game where you are armed with savage weapons with one simple mission to take down every rival gladiator in sight. The battles are brutal, the carnage is real, and only the strongest will survive. Smash, slice, and crush your way to becoming the last warrior standing in this gruesome fight for supremacy. With each victory, you grow stronger, unlocking powerful upgrades and devastating new weapons to dominate the arena.",
-                "cover_image": "https://imgs.crazygames.com/games/brutalmania-io/cover-1584553430060.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/brutalmania-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "May 2023",
+                "description": "Battle Chess is an engaging puzzle game that requires strategic thinking to outwit your opponent. Solve amazing puzzles and merge your knights while preventing your enemy from doing the same. Experience exciting knight battles that will keep you on your toes. Plan your attacks carefully to defeat your adversary. The enemy's chess moves will mirror your own, so, be careful and think ahead before you move.",
+                "cover_image": "https://imgs.crazygames.com/battle-chess/20230502190944/battle-chess-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/battle-chess/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Build Royale",
-                "rating": "8.7",
-                "released": "October 2018",
-                "description": "Build Royale is a battle royale game where you build defenses and battle other players in a 2D top-down world. Explore the map and find various weapons and resources to help you take down your enemies.",
-                "cover_image": "https://imgs.crazygames.com/buildroyale-io/20230424161238/buildroyale-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/buildroyale-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Bump.io",
+                "title": "Black",
                 "rating": "8.6",
-                "released": "October 2019",
-                "description": "There are 16 cars are involved in the competition. You must avoid collisions with the boundaries to win. Bumping other cars give energy, and destroying other cars to give volume growth.",
-                "cover_image": "https://imgs.crazygames.com/games/bump-io/thumb-1570533394420.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/bump-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "released": "December 2018",
+                "description": "Black is another color-based puzzle game for you! Can you make the screen black in all 25 levels? Each level has its own logic. You can also get the FREE mobile version with 50 levels (including new levels that are more suitable for mobile play).",
+                "cover_image": "https://imgs.crazygames.com/black.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/black/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             },
             {
-                "title": "Car Clash 2",
-                "rating": "8.7",
-                "released": "May 2024",
-                "description": "Car Clash 2 is an intense io game where cars battle in a challenging desert arena. Choose a powerful vehicle with high health, armor, and speed to stay alive. Collect map features to boost your attack range, speed, and power. Earn Cash and GEMs by surviving and destroying enemies, and use them to acquire even the most expensive cars. Let the battle begin!",
-                "cover_image": "https://imgs.crazygames.com/car-clash-2_16x9/20240524043337/car-clash-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/car-clash-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Castles.cc (Cubic Castles)",
-                "rating": "8.5",
-                "released": "September 2020",
-                "description": "Castles.CC (Cubic Castles) is an open world MMO game where you can build, trade, mine, craft, and roleplay! Create your dream world, fight battles, and explore with other players in the active community.",
-                "cover_image": "https://imgs.crazygames.com/castles-cc/20210310112233/castles-cc-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/castles-cc/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
-            },
-            {
-                "title": "Chompers.io",
-                "rating": "8.7",
+                "title": "Blue",
+                "rating": "8.1",
                 "released": "September 2019",
-                "description": "Chompers.io is an evolution-based battle game in the .io games genre. In the game, you control a monster that can evolve as you eat food and eliminate other players. Try to become the strongest player around in the arena!",
-                "cover_image": "https://imgs.crazygames.com/games/chompers-io/cover-1584553166691.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/chompers-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+                "description": "After Yellow,Red, andBlack, now you got Blue, another puzzle game for you! Can you make the screen blue in all 25 levels? Each level has its own challenge.",
+                "cover_image": "https://imgs.crazygames.com/games/blue/thumb-1567694323445.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/blue/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Chessformer",
+                "rating": "8.6",
+                "released": "August 2021",
+                "description": "Chessformer is a challenging puzzle arcade game where your movements are confined to the chess piece you're given. Use your chess pieces' unique abilities to navigate through each stage and reach the king.",
+                "cover_image": "https://imgs.crazygames.com/games/chessformer/cover_16x9-1707829224639.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/chessformer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Crimson Room",
+                "rating": "8.1",
+                "released": "December 2010",
+                "description": "Crimson Room is an escape room game originally developed in Flash. It was one of the first of its kind. Toshimitsu Takagi developed the game in 2004 and helped to popularize the escape room genre. To play the game, simply point and click. See if you can escape the Crimson Room!",
+                "cover_image": "https://imgs.crazygames.com/games/crimson-room/cover-1608574041311.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/crimson-room/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Green",
+                "rating": "8.6",
+                "released": "April 2020",
+                "description": "Green is a challenging puzzle game made byBart Bonte. Like his previous games,blackandblue, you must turn the whole screen a single color by solving the puzzle. This time the color is green. Have fun!",
+                "cover_image": "https://imgs.crazygames.com/green-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/green/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Growmi",
+                "rating": "8.6",
+                "released": "April 2023",
+                "description": "Growmi is a platformer puzzle game where you solve puzzles to regain power. Your character has a limited set of moves that increase over time as you clear more areas of the game. Show the world how smart your Growmi is and complete the game!",
+                "cover_image": "https://imgs.crazygames.com/growmi/20230406063042/growmi-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/growmi/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Lava and Aqua",
+                "rating": "8.3",
+                "released": "June 2022",
+                "description": "Lava and Aqua is a puzzle game where you need to reach the exit without touching the lava on each level. The lava will flow every time you move, so think before you step. Good luck!",
+                "cover_image": "https://imgs.crazygames.com/lava-and-aqua/20220601143140/lava-and-aqua-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/lava-and-aqua/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Math Push",
+                "rating": "8.3",
+                "released": "January 2022",
+                "description": "Math Push is a puzzle game where you move blocks to solve math expressions. Clear the exit by solving the problem and moving on to the next level!",
+                "cover_image": "https://imgs.crazygames.com/math-push/20220103160234/math-push-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/math-push/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Orange",
+                "rating": "8.8",
+                "released": "July 2023",
+                "description": "Orange is a captivating puzzle game that challenges you to bring vibrant orange hues to every level. With 25 unique and thought-provoking puzzles, can you uncover the logic and master each stage to fill the screen with the mesmerizing color of orange? Test your problem-solving skills and immerse yourself in this colorful and addictive gameplay experience. Get ready to paint the world orange!",
+                "cover_image": "https://imgs.crazygames.com/orange/20230706173926/orange-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/orange/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Pink (Bart Bonte)",
+                "rating": "8.8",
+                "released": "May 2021",
+                "description": "Pink is another screen-filling puzzle game from Bart Bonte and the next episode aftergreenandblue. This time you need to make the screen pink in all 25 levels. Each level has its own logic.",
+                "cover_image": "https://imgs.crazygames.com/pink-bart-bonte/20210526135551/pink-bart-bonte-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/pink-bart-bonte/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Red",
+                "rating": "8.5",
+                "released": "April 2018",
+                "description": "Red is a fun and exciting puzzle game – the browser version of this popular title is finally here so get ready for some fun! The aim of this game is simple – you must attempt to turn the whole screen red – this might sound easy but as you progress the challenges become increasingly difficult and you must really strain your mind to think of a solution.",
+                "cover_image": "https://imgs.crazygames.com/red.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/red/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "Robbie the Robot",
+                "rating": "9.0",
+                "released": "April 2025",
+                "description": "Robbie the Robot is a puzzle adventure where you guide a robot across space platforms to gather stars and reach the finish. Strategically place directional arrows to steer him through challenging levels filled with shifting platforms, portals, and keycard-activated doors. Test your creativity with 100+ levels and even craft your own cosmic puzzles in the Level Editor.",
+                "cover_image": "https://imgs.crazygames.com/robbie-the-robot_16x9/20250428042321/robbie-the-robot_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/robbie-the-robot/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+            },
+            {
+                "title": "SSSPICY!",
+                "rating": "8.8",
+                "released": "July 2022",
+                "description": "SSSPICY! is an arcade game to help the hungry snake eat all the spicy pepper!",
+                "cover_image": "https://imgs.crazygames.com/games/ssspicy/cover-1658812369424.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/ssspicy/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
             }
         ]
     }
