@@ -8,7 +8,9 @@
                 "released": "December 2019",
                 "description": "2048 is a single-player sliding tile puzzle game developed by Gabriele Cirulli. Merge tiles with the same power of 2 to get the total sum. The goal is to keep merging tiles this way until you reach 2048!",
                 "cover_image": "https://imgs.crazygames.com/games/2048/cover_16x9-1707828856995.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/2048/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/2048",
+                "link": "https://games.crazygames.com/en_US/2048/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Battle Chess",
@@ -16,7 +18,9 @@
                 "released": "May 2023",
                 "description": "Battle Chess is an engaging puzzle game that requires strategic thinking to outwit your opponent. Solve amazing puzzles and merge your knights while preventing your enemy from doing the same. Experience exciting knight battles that will keep you on your toes. Plan your attacks carefully to defeat your adversary. The enemy's chess moves will mirror your own, so, be careful and think ahead before you move.",
                 "cover_image": "https://imgs.crazygames.com/battle-chess/20230502190944/battle-chess-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/battle-chess/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/battle-chess",
+                "link": "https://games.crazygames.com/en_US/battle-chess/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Black",
@@ -24,7 +28,9 @@
                 "released": "December 2018",
                 "description": "Black is another color-based puzzle game for you! Can you make the screen black in all 25 levels? Each level has its own logic. You can also get the FREE mobile version with 50 levels (including new levels that are more suitable for mobile play).",
                 "cover_image": "https://imgs.crazygames.com/black.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/black/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/black",
+                "link": "https://games.crazygames.com/en_US/black/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Blue",
@@ -32,7 +38,9 @@
                 "released": "September 2019",
                 "description": "After Yellow,Red, andBlack, now you got Blue, another puzzle game for you! Can you make the screen blue in all 25 levels? Each level has its own challenge.",
                 "cover_image": "https://imgs.crazygames.com/games/blue/thumb-1567694323445.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/blue/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/blue",
+                "link": "https://games.crazygames.com/en_US/blue/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Chessformer",
@@ -40,7 +48,9 @@
                 "released": "August 2021",
                 "description": "Chessformer is a challenging puzzle arcade game where your movements are confined to the chess piece you're given. Use your chess pieces' unique abilities to navigate through each stage and reach the king.",
                 "cover_image": "https://imgs.crazygames.com/games/chessformer/cover_16x9-1707829224639.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/chessformer/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/chessformer",
+                "link": "https://games.crazygames.com/en_US/chessformer/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Crimson Room",
@@ -48,7 +58,9 @@
                 "released": "December 2010",
                 "description": "Crimson Room is an escape room game originally developed in Flash. It was one of the first of its kind. Toshimitsu Takagi developed the game in 2004 and helped to popularize the escape room genre. To play the game, simply point and click. See if you can escape the Crimson Room!",
                 "cover_image": "https://imgs.crazygames.com/games/crimson-room/cover-1608574041311.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/crimson-room/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/crimson-room",
+                "link": "https://games.crazygames.com/en_US/crimson-room/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Green",
@@ -56,7 +68,9 @@
                 "released": "April 2020",
                 "description": "Green is a challenging puzzle game made byBart Bonte. Like his previous games,blackandblue, you must turn the whole screen a single color by solving the puzzle. This time the color is green. Have fun!",
                 "cover_image": "https://imgs.crazygames.com/green-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/green/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/green",
+                "link": "https://games.crazygames.com/en_US/green/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Growmi",
@@ -64,7 +78,9 @@
                 "released": "April 2023",
                 "description": "Growmi is a platformer puzzle game where you solve puzzles to regain power. Your character has a limited set of moves that increase over time as you clear more areas of the game. Show the world how smart your Growmi is and complete the game!",
                 "cover_image": "https://imgs.crazygames.com/growmi/20230406063042/growmi-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/growmi/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/growmi",
+                "link": "https://games.crazygames.com/en_US/growmi/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Lava and Aqua",
@@ -72,7 +88,9 @@
                 "released": "June 2022",
                 "description": "Lava and Aqua is a puzzle game where you need to reach the exit without touching the lava on each level. The lava will flow every time you move, so think before you step. Good luck!",
                 "cover_image": "https://imgs.crazygames.com/lava-and-aqua/20220601143140/lava-and-aqua-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/lava-and-aqua/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/lava-and-aqua",
+                "link": "https://games.crazygames.com/en_US/lava-and-aqua/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Math Push",
@@ -80,7 +98,9 @@
                 "released": "January 2022",
                 "description": "Math Push is a puzzle game where you move blocks to solve math expressions. Clear the exit by solving the problem and moving on to the next level!",
                 "cover_image": "https://imgs.crazygames.com/math-push/20220103160234/math-push-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/math-push/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/math-push",
+                "link": "https://games.crazygames.com/en_US/math-push/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Orange",
@@ -88,7 +108,9 @@
                 "released": "July 2023",
                 "description": "Orange is a captivating puzzle game that challenges you to bring vibrant orange hues to every level. With 25 unique and thought-provoking puzzles, can you uncover the logic and master each stage to fill the screen with the mesmerizing color of orange? Test your problem-solving skills and immerse yourself in this colorful and addictive gameplay experience. Get ready to paint the world orange!",
                 "cover_image": "https://imgs.crazygames.com/orange/20230706173926/orange-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/orange/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/orange",
+                "link": "https://games.crazygames.com/en_US/orange/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Pink (Bart Bonte)",
@@ -96,7 +118,9 @@
                 "released": "May 2021",
                 "description": "Pink is another screen-filling puzzle game from Bart Bonte and the next episode aftergreenandblue. This time you need to make the screen pink in all 25 levels. Each level has its own logic.",
                 "cover_image": "https://imgs.crazygames.com/pink-bart-bonte/20210526135551/pink-bart-bonte-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/pink-bart-bonte/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/pink-bart-bonte",
+                "link": "https://games.crazygames.com/en_US/pink-bart-bonte/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Red",
@@ -104,7 +128,9 @@
                 "released": "April 2018",
                 "description": "Red is a fun and exciting puzzle game – the browser version of this popular title is finally here so get ready for some fun! The aim of this game is simple – you must attempt to turn the whole screen red – this might sound easy but as you progress the challenges become increasingly difficult and you must really strain your mind to think of a solution.",
                 "cover_image": "https://imgs.crazygames.com/red.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/red/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/red",
+                "link": "https://games.crazygames.com/en_US/red/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             },
             {
                 "title": "Robbie the Robot",
@@ -112,7 +138,9 @@
                 "released": "April 2025",
                 "description": "Robbie the Robot is a puzzle adventure where you guide a robot across space platforms to gather stars and reach the finish. Strategically place directional arrows to steer him through challenging levels filled with shifting platforms, portals, and keycard-activated doors. Test your creativity with 100+ levels and even craft your own cosmic puzzles in the Level Editor.",
                 "cover_image": "https://imgs.crazygames.com/robbie-the-robot_16x9/20250428042321/robbie-the-robot_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/robbie-the-robot/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/robbie-the-robot",
+                "link": "https://games.crazygames.com/en_US/robbie-the-robot/index.html?isNewUser=true&v=1.340",
+                "rotation_required": true
             },
             {
                 "title": "SSSPICY!",
@@ -120,7 +148,9 @@
                 "released": "July 2022",
                 "description": "SSSPICY! is an arcade game to help the hungry snake eat all the spicy pepper!",
                 "cover_image": "https://imgs.crazygames.com/games/ssspicy/cover-1658812369424.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "link": "https://games.crazygames.com/en_US/ssspicy/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.340"
+                "url": "https://www.crazygames.com/game/ssspicy",
+                "link": "https://games.crazygames.com/en_US/ssspicy/index.html?isNewUser=true&v=1.340",
+                "rotation_required": false
             }
         ]
     }
