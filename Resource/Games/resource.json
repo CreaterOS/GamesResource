@@ -1,157 +1,178 @@
 [
     {
+        "name": "IO",
+        "items": [
+            {
+                "title": "Cubes 2048.io",
+                "rating": "7.8",
+                "released": "December 2022",
+                "description": "Cubes 2048.io is an addictive online game that fusesSnakeand2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another willmerge.",
+                "cover_image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/cubes-2048-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Snake Clash.io",
+                "rating": "8.3",
+                "released": "February 2025",
+                "description": "Snake Clash.io is an io snake game where you compete against players, outmaneuver rivals, and dominate the leaderboard. Grow longer, strategize, and prove your skill in fast-paced battles.",
+                "cover_image": "https://imgs.crazygames.com/snake-clash-io_16x9/20250203091302/snake-clash-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/snake-clash-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Snake.io",
+                "rating": "8.5",
+                "released": "September 2022",
+                "description": "Snake.io is an online io game where you control a snake, striving to survive in a battlefield of other snakes. Consume colorful food to grow larger and defeat rivals to become a formidable force",
+                "cover_image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/snake-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Snake Lite",
+                "rating": "8.3",
+                "released": "September 2023",
+                "description": "Snake Lite is a casual arcade snake game with a competitive twist. Unlike other slither and snake games, you not only collect goodies and power-ups but also compete against other players to become the largest worm-like snake in the arena.",
+                "cover_image": "https://imgs.crazygames.com/snake-lite-worm-snake-game_16x9/20231030060228/snake-lite-worm-snake-game_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/snake-lite-worm-snake-game/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            }
+        ]
+    },
+    {
+        "name": "Minecraft",
+        "items": [
+            {
+                "title": "Agar.io",
+                "rating": "8.4",
+                "released": "June 2015",
+                "description": "Agar.io is the original .io grow game. Play as a simple agar cell fighting to become the largest cell in a multiplayer game arena. Avoid the bigger cells and consume the smaller ones to grow larger.",
+                "cover_image": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/agario/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Agents.io",
+                "rating": "8.6",
+                "released": "June 2023",
+                "description": "Agents.io is a thrilling multiplayer game where you engage in action-packed battles with rival gangs. As a player, you take control of your own gang and navigate through dynamic battlegrounds, aiming to eliminate rival agents and secure victory for your team. Quick reflexes, strategic shooting, and effective communication with your teammates are essential to succeed in this intense showdown.",
+                "cover_image": "https://imgs.crazygames.com/agents-io/20230609044850/agents-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/agents-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Archer Clash",
+                "rating": "9.1",
+                "released": "June 2025",
+                "description": "Archer Clash is a fast-paced io game where you guide a lone hero racing across a rolling, hill-like battle arena. You’ll recruit allies, adapt your tactics, and face shifting challenges as you fight for control. Every decision shapes your path to victory, blending quick reflexes with smart strategy in a thrilling clash of skill and growth.",
+                "cover_image": "https://imgs.crazygames.com/archer-clash-ftj_16x9/20250613030347/archer-clash-ftj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/archer-clash-ftj/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Archers Battle",
+                "rating": "8.5",
+                "released": "April 2025",
+                "description": "Archers Battle is an .io-style third-person shooter game, packed with stickmen, horses, bows, and arrows! Battle against players from around the world, collect diamonds, and rise to the top of the leaderboard! Jump into the Archers Battle arena, unleash your inner marksman, and prove your skill in this chaotic stickman showdown!",
+                "cover_image": "https://imgs.crazygames.com/archers-battle_16x9/20250416101236/archers-battle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/archers-battle/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Arx Arcana (Last Mage Standing)",
+                "rating": "9.2",
+                "released": "March 2019",
+                "description": "Arx Arcana: Dungeon Royale is a cool battle royale game with a fantasy twist. The 2D graphics and top-down gameplay are superb. In this multiplayer game, you must fight against hundreds of players from around the world.",
+                "cover_image": "https://imgs.crazygames.com/arx-arcana-dungeon-royale/20201106152604/arx-arcana-dungeon-royale-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/arx-arcana-dungeon-royale/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "BattleDudes.io",
+                "rating": "8.7",
+                "released": "May 2021",
+                "description": "BattleDudes.io is an action-packed 2D multiplayer IO battle game where chaos reigns supreme. Engage in fierce battles against other players, unleashing a powerful arsenal of guns, tanks, and explosive weaponry to dominate the battlefield. With multiple maps and diverse game modes, every match offers a new challenge and a chance to show off your strategic prowess. Log in, level up, and unlock powerful upgrades that will make you an unstoppable force!",
+                "cover_image": "https://imgs.crazygames.com/battledudes-io_16x9/20241216121046/battledudes-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/battledudes-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Big Battle Mini",
+                "rating": "8.7",
+                "released": "July 2025",
+                "description": "Big Battle Mini is an action-packed online multiplayer game where you face off against friends and rivals in fast, thrilling mini battles. Test your reflexes, outsmart opponents, and claim victory in quick-fire matches that keep the competition fierce and the fun nonstop.",
+                "cover_image": "https://imgs.crazygames.com/big-battle-mini_16x9/20250715033353/big-battle-mini_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/big-battle-mini/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "BlockTanks.io",
+                "rating": "8.3",
+                "released": "October 2020",
+                "description": "BlockTanks is an online tank battle .io game. Choose your preferred game mode and shoot to destroy enemy tanks and increase your score. You can play solo or in teams. Find upgrades to gain an advantage and dominate the leaderboard!",
+                "cover_image": "https://imgs.crazygames.com/blocktanks-io_16x9/20240108063944/blocktanks-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/blocktanks-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            }
+        ]
+    },
+    {
         "name": "Thinky",
         "items": [
             {
-                "title": "2048",
+                "title": "Bloxd.io",
                 "rating": "8.3",
-                "released": "December 2019",
-                "description": "2048 is a single-player sliding tile puzzle game developed by Gabriele Cirulli. Merge tiles with the same power of 2 to get the total sum. The goal is to keep merging tiles this way until you reach 2048!",
-                "cover_image": "https://imgs.crazygames.com/games/2048/cover_16x9-1707828856995.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/2048",
-                "link": "https://games.crazygames.com/en_US/2048/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
+                "released": "March 2021",
+                "description": "Bloxd.io is an IO adventure game with Minecraft-style visuals and multiple game modes, including parkour challenges, creative sandbox building, and combat-based gameplay.",
+                "cover_image": "https://imgs.crazygames.com/bloxdhop-io_16x9/20250829023851/bloxdhop-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bloxdhop-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
             },
             {
-                "title": "Battle Chess",
-                "rating": "8.5",
-                "released": "May 2023",
-                "description": "Battle Chess is an engaging puzzle game that requires strategic thinking to outwit your opponent. Solve amazing puzzles and merge your knights while preventing your enemy from doing the same. Experience exciting knight battles that will keep you on your toes. Plan your attacks carefully to defeat your adversary. The enemy's chess moves will mirror your own, so, be careful and think ahead before you move.",
-                "cover_image": "https://imgs.crazygames.com/battle-chess/20230502190944/battle-chess-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/battle-chess",
-                "link": "https://games.crazygames.com/en_US/battle-chess/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Black",
+                "title": "Braains.io",
                 "rating": "8.6",
-                "released": "December 2018",
-                "description": "Black is another color-based puzzle game for you! Can you make the screen black in all 25 levels? Each level has its own logic. You can also get the FREE mobile version with 50 levels (including new levels that are more suitable for mobile play).",
-                "cover_image": "https://imgs.crazygames.com/black.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/black",
-                "link": "https://games.crazygames.com/en_US/black/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Blue",
-                "rating": "8.1",
-                "released": "September 2019",
-                "description": "After Yellow,Red, andBlack, now you got Blue, another puzzle game for you! Can you make the screen blue in all 25 levels? Each level has its own challenge.",
-                "cover_image": "https://imgs.crazygames.com/games/blue/thumb-1567694323445.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/blue",
-                "link": "https://games.crazygames.com/en_US/blue/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Chessformer",
-                "rating": "8.6",
-                "released": "August 2021",
-                "description": "Chessformer is a challenging puzzle arcade game where your movements are confined to the chess piece you're given. Use your chess pieces' unique abilities to navigate through each stage and reach the king.",
-                "cover_image": "https://imgs.crazygames.com/games/chessformer/cover_16x9-1707829224639.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/chessformer",
-                "link": "https://games.crazygames.com/en_US/chessformer/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Crimson Room",
-                "rating": "8.1",
-                "released": "December 2010",
-                "description": "Crimson Room is an escape room game originally developed in Flash. It was one of the first of its kind. Toshimitsu Takagi developed the game in 2004 and helped to popularize the escape room genre. To play the game, simply point and click. See if you can escape the Crimson Room!",
-                "cover_image": "https://imgs.crazygames.com/games/crimson-room/cover-1608574041311.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/crimson-room",
-                "link": "https://games.crazygames.com/en_US/crimson-room/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Green",
-                "rating": "8.6",
-                "released": "April 2020",
-                "description": "Green is a challenging puzzle game made byBart Bonte. Like his previous games,blackandblue, you must turn the whole screen a single color by solving the puzzle. This time the color is green. Have fun!",
-                "cover_image": "https://imgs.crazygames.com/green-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/green",
-                "link": "https://games.crazygames.com/en_US/green/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Growmi",
-                "rating": "8.6",
-                "released": "April 2023",
-                "description": "Growmi is a platformer puzzle game where you solve puzzles to regain power. Your character has a limited set of moves that increase over time as you clear more areas of the game. Show the world how smart your Growmi is and complete the game!",
-                "cover_image": "https://imgs.crazygames.com/growmi/20230406063042/growmi-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/growmi",
-                "link": "https://games.crazygames.com/en_US/growmi/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Lava and Aqua",
-                "rating": "8.3",
-                "released": "June 2022",
-                "description": "Lava and Aqua is a puzzle game where you need to reach the exit without touching the lava on each level. The lava will flow every time you move, so think before you step. Good luck!",
-                "cover_image": "https://imgs.crazygames.com/lava-and-aqua/20220601143140/lava-and-aqua-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/lava-and-aqua",
-                "link": "https://games.crazygames.com/en_US/lava-and-aqua/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Math Push",
-                "rating": "8.3",
-                "released": "January 2022",
-                "description": "Math Push is a puzzle game where you move blocks to solve math expressions. Clear the exit by solving the problem and moving on to the next level!",
-                "cover_image": "https://imgs.crazygames.com/math-push/20220103160234/math-push-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/math-push",
-                "link": "https://games.crazygames.com/en_US/math-push/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Orange",
-                "rating": "8.8",
-                "released": "July 2023",
-                "description": "Orange is a captivating puzzle game that challenges you to bring vibrant orange hues to every level. With 25 unique and thought-provoking puzzles, can you uncover the logic and master each stage to fill the screen with the mesmerizing color of orange? Test your problem-solving skills and immerse yourself in this colorful and addictive gameplay experience. Get ready to paint the world orange!",
-                "cover_image": "https://imgs.crazygames.com/orange/20230706173926/orange-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/orange",
-                "link": "https://games.crazygames.com/en_US/orange/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Pink (Bart Bonte)",
-                "rating": "8.8",
-                "released": "May 2021",
-                "description": "Pink is another screen-filling puzzle game from Bart Bonte and the next episode aftergreenandblue. This time you need to make the screen pink in all 25 levels. Each level has its own logic.",
-                "cover_image": "https://imgs.crazygames.com/pink-bart-bonte/20210526135551/pink-bart-bonte-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/pink-bart-bonte",
-                "link": "https://games.crazygames.com/en_US/pink-bart-bonte/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
-            },
-            {
-                "title": "Red",
-                "rating": "8.5",
                 "released": "April 2018",
-                "description": "Red is a fun and exciting puzzle game – the browser version of this popular title is finally here so get ready for some fun! The aim of this game is simple – you must attempt to turn the whole screen red – this might sound easy but as you progress the challenges become increasingly difficult and you must really strain your mind to think of a solution.",
-                "cover_image": "https://imgs.crazygames.com/red.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/red",
-                "link": "https://games.crazygames.com/en_US/red/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
+                "description": "Which side will you choose in Braains.io? Braains.io is an awesome multiplayer game of survival – you start as a human but you can transform into a zombie immediately if you wish and try to turn the other players into a zombie too.",
+                "cover_image": "https://imgs.crazygames.com/braains-io/20230217181314/braains-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/braains-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
             },
             {
-                "title": "Robbie the Robot",
-                "rating": "9.0",
-                "released": "April 2025",
-                "description": "Robbie the Robot is a puzzle adventure where you guide a robot across space platforms to gather stars and reach the finish. Strategically place directional arrows to steer him through challenging levels filled with shifting platforms, portals, and keycard-activated doors. Test your creativity with 100+ levels and even craft your own cosmic puzzles in the Level Editor.",
-                "cover_image": "https://imgs.crazygames.com/robbie-the-robot_16x9/20250428042321/robbie-the-robot_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/robbie-the-robot",
-                "link": "https://games.crazygames.com/en_US/robbie-the-robot/index.html?isNewUser=true&v=1.340",
-                "rotation_required": true
+                "title": "BrutalMania.io (Brutal Mania)",
+                "rating": "8.5",
+                "released": "October 2018",
+                "description": "BrutalMania.io (Brutal Mania) is an online gladiator IO action game where you are armed with savage weapons with one simple mission to take down every rival gladiator in sight. The battles are brutal, the carnage is real, and only the strongest will survive. Smash, slice, and crush your way to becoming the last warrior standing in this gruesome fight for supremacy. With each victory, you grow stronger, unlocking powerful upgrades and devastating new weapons to dominate the arena.",
+                "cover_image": "https://imgs.crazygames.com/games/brutalmania-io/cover-1584553430060.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/brutalmania-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
             },
             {
-                "title": "SSSPICY!",
-                "rating": "8.8",
-                "released": "July 2022",
-                "description": "SSSPICY! is an arcade game to help the hungry snake eat all the spicy pepper!",
-                "cover_image": "https://imgs.crazygames.com/games/ssspicy/cover-1658812369424.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
-                "url": "https://www.crazygames.com/game/ssspicy",
-                "link": "https://games.crazygames.com/en_US/ssspicy/index.html?isNewUser=true&v=1.340",
-                "rotation_required": false
+                "title": "Build Royale",
+                "rating": "8.7",
+                "released": "October 2018",
+                "description": "Build Royale is a battle royale game where you build defenses and battle other players in a 2D top-down world. Explore the map and find various weapons and resources to help you take down your enemies.",
+                "cover_image": "https://imgs.crazygames.com/buildroyale-io/20230424161238/buildroyale-io-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/buildroyale-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Bump.io",
+                "rating": "8.6",
+                "released": "October 2019",
+                "description": "There are 16 cars are involved in the competition. You must avoid collisions with the boundaries to win. Bumping other cars give energy, and destroying other cars to give volume growth.",
+                "cover_image": "https://imgs.crazygames.com/games/bump-io/thumb-1570533394420.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/bump-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Car Clash 2",
+                "rating": "8.7",
+                "released": "May 2024",
+                "description": "Car Clash 2 is an intense io game where cars battle in a challenging desert arena. Choose a powerful vehicle with high health, armor, and speed to stay alive. Collect map features to boost your attack range, speed, and power. Earn Cash and GEMs by surviving and destroying enemies, and use them to acquire even the most expensive cars. Let the battle begin!",
+                "cover_image": "https://imgs.crazygames.com/car-clash-2_16x9/20240524043337/car-clash-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/car-clash-2/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Castles.cc (Cubic Castles)",
+                "rating": "8.5",
+                "released": "September 2020",
+                "description": "Castles.CC (Cubic Castles) is an open world MMO game where you can build, trade, mine, craft, and roleplay! Create your dream world, fight battles, and explore with other players in the active community.",
+                "cover_image": "https://imgs.crazygames.com/castles-cc/20210310112233/castles-cc-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/castles-cc/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
+            },
+            {
+                "title": "Chompers.io",
+                "rating": "8.7",
+                "released": "September 2019",
+                "description": "Chompers.io is an evolution-based battle game in the .io games genre. In the game, you control a monster that can evolve as you eat food and eliminate other players. Try to become the strongest player around in the arena!",
+                "cover_image": "https://imgs.crazygames.com/games/chompers-io/cover-1584553166691.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                "link": "https://games.crazygames.com/en_US/chompers-io/index.html?isNewUser=true&skipPrerollFirstSession=true&v=1.339"
             }
         ]
     }
 ]
+
