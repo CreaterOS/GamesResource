@@ -34,6 +34,7 @@ def load_game_cfg(game_dir: Path) -> Dict[str, str]:
     merged = {k: cfg.get(k, defaults[k]) for k in defaults}
     merged["title"] = merged["title"][:1].upper() + merged["title"][1:]
     merged["link"] = merged["link"].replace("&skipPrerollFirstSession=true&", "&")
+    merged["link"] = merged["link"].replace("v=1.340", "v=1.339")
     
     return merged
     
