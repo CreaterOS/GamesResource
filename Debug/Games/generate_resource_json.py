@@ -2,6 +2,7 @@
 import json
 from pathlib import Path
 from typing import List, Dict, Any
+import re
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "resource.json"
@@ -15,6 +16,7 @@ def load_game_cfg(game_dir: Path) -> Dict[str, str]:
         "released": "",
         "description": "",
         "cover_image": "",
+        "thumbnail_cover_image": "",
         "url": "",
         "link": "",
         "rotation_required": False
@@ -35,6 +37,11 @@ def load_game_cfg(game_dir: Path) -> Dict[str, str]:
     merged["title"] = merged["title"][:1].upper() + merged["title"][1:]
     merged["link"] = merged["link"].replace("&skipPrerollFirstSession=true&", "&")
     merged["link"] = merged["link"].replace("v=1.340", "v=1.339")
+    merged["thumbnail_cover_image"] = merged["cover_image"]
+    merged["thumbnail_cover_image"] = re.sub(
+        r'\bwidth=1200&height=630\b', 'width=240&height=126',
+        merged["thumbnail_cover_image"]
+    )
     
     return merged
     
