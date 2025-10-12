@@ -25,6 +25,17 @@
                     "url": "https://www.crazygames.com/game/911-prey",
                     "link": "https://games.crazygames.com/en_US/911-prey/index.html?isNewUser=true&v=1.339",
                     "rotation_required": true
+                },
+                {
+                    "title": "AFK Dungeon: Idle Action RPG",
+                    "rating": "9.0",
+                    "released": "June 2025",
+                    "description": "AFK Dungeon: Idle Action RPG is an idle RPG that challenges you to craft the ultimate hero through smart combinations of items, skills, and traits. Dive into dungeons, grow stronger while you're away, and return to unleash powerful upgrades. Your strategy shapes the journey—mix, match, and conquer every challenge that stands in your path.",
+                    "cover_image": "https://imgs.crazygames.com/afk-dungeon-zaq_16x9/20250529053724/afk-dungeon-zaq_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/afk-dungeon-zaq_16x9/20250529053724/afk-dungeon-zaq_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/afk-dungeon-zaq",
+                    "link": "https://games.crazygames.com/en_US/afk-dungeon-zaq/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
                 }
             ]
         },
