@@ -27,6 +27,363 @@
                     "rotation_required": true
                 }
             ]
+        },
+        {
+            "name": "Horror",
+            "items": [
+                {
+                    "title": "911: Cannibal",
+                    "rating": "8.5",
+                    "released": "March 2023",
+                    "description": "911: Cannibal is a spine-chilling horror game where you have to escape the house of a maniacal cannibal. Playing as a kidnapped teenager, your mission is to find items that help you escape by solving various puzzles, all while covering your tracks to avoid detection. Can you outsmart the cannibal and escape his clutches, or will you be his next victim? Explore the ominous house, uncover notes, and unravel the twisted story of Minnesota's most frightening maniac.",
+                    "cover_image": "https://imgs.crazygames.com/911-cannibal_16x9/20241122040509/911-cannibal_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/911-cannibal_16x9/20241122040509/911-cannibal_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/911-cannibal",
+                    "link": "https://games.crazygames.com/en_US/911-cannibal/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "911: Prey",
+                    "rating": "8.7",
+                    "released": "August 2023",
+                    "description": "911: Prey is a scary horror game with puzzles. In this game, you are a kidnapped teenager that needs to escape from a cannibal maniac who brought you to his house. Search for any useful items to help you get out of his house. Be very careful and cover up your tracks so that the maniac does not suspect anything!",
+                    "cover_image": "https://imgs.crazygames.com/911-prey_16x9/20241122033719/911-prey_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/911-prey_16x9/20241122033719/911-prey_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/911-prey",
+                    "link": "https://games.crazygames.com/en_US/911-prey/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Antarctica 88",
+                    "rating": "8.6",
+                    "released": "April 2023",
+                    "description": "Antarctica 88 is ahorror gamewhere you’re part of a rescue squad investigating a research station in Antarctica after communications went dark. It's up to you to solve the mystery. The game is filled with monsters, and there are various weapons to collect and puzzles to solve. Explore and discover objects to uncover more of the story. Can you open all the endings and find out the whole story?",
+                    "cover_image": "https://imgs.crazygames.com/antarctica-88/20230414020335/antarctica-88-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/antarctica-88/20230414020335/antarctica-88-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/antarctica-88",
+                    "link": "https://games.crazygames.com/en_US/antarctica-88/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Bear Haven",
+                    "rating": "8.4",
+                    "released": "July 2022",
+                    "description": "Bear Haven is a horror game where you need to survive the night from the scary bear. You are a new part-time electrician in Bear Haven Motel who get a night shift job. There's a lack of guests at this time and also there are some strange problems with the electrical system at night, make sure you'll manage to fix them all before 6 AM or you'll be fired. But beware of the bear! Hide and turn off the light if you see one of them. Don't let the bear get you!",
+                    "cover_image": "https://imgs.crazygames.com/bear-haven/20220714074451/bear-haven-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/bear-haven/20220714074451/bear-haven-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/bear-haven",
+                    "link": "https://games.crazygames.com/en_US/bear-haven/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Cornfield",
+                    "rating": "8.7",
+                    "released": "December 2024",
+                    "description": "Cornfield is a pulse-pounding puzzle-survival game where you must outsmart a relentless corn monster. Navigate a shadowy maze filled with complex challenges, testing your strategy and nerves. Solve puzzles quickly and carefully to find the exit before the terrifying creature catches up and becomes their meal. Every step could be your last in this heart-pounding escape adventure.",
+                    "cover_image": "https://imgs.crazygames.com/cornfield_16x9/20241218040129/cornfield_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/cornfield_16x9/20241218040129/cornfield_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/cornfield",
+                    "link": "https://games.crazygames.com/en_US/cornfield/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Diner in the Storm",
+                    "rating": "8.5",
+                    "released": "January 2024",
+                    "description": "Diner in the Storm is a puzzle adventure game that plunges you into a heart-pounding escape adventure, where danger lurks not only outside but within the walls of a seemingly ordinary roadside diner. Caught in the grip of a sudden and ominous storm, you seek shelter in a roadside diner, only to find that safety is fleeting, and the diner harbors dark secrets. As the storm rages on, you must solve a series of intricate puzzles that push your logic, wit, and nerves to the limit. Each puzzle reveals new mysteries about the diner’s hidden past.",
+                    "cover_image": "https://imgs.crazygames.com/diner-in-the-storm_16x9/20240129051818/diner-in-the-storm_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/diner-in-the-storm_16x9/20240129051818/diner-in-the-storm_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/diner-in-the-storm",
+                    "link": "https://games.crazygames.com/en_US/diner-in-the-storm/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Dr. Psycho: Hospital Escape",
+                    "rating": "8.4",
+                    "released": "June 2023",
+                    "description": "Dr. Psycho: Hospital Escape is a thrilling horror escape game where you are trapped in a nightmare clinic and need to get out of there. Gather essential items to unlock doors and escape the clutches of the deranged Doctor Psycho and his psychotic patients. Time is ticking, you only have 3 days to break free. Navigate terrifying space and uncover multiple escape routes while avoiding detection. Hide in cleverly hidden places and explore the place carefully avoiding deadly traps. Can you outwit the doctor and secure your asylum escape?",
+                    "cover_image": "https://imgs.crazygames.com/dr-psycho-hospital-escape_16x9/20250627100032/dr-psycho-hospital-escape_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/dr-psycho-hospital-escape_16x9/20250627100032/dr-psycho-hospital-escape_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/dr-psycho-hospital-escape",
+                    "link": "https://games.crazygames.com/en_US/dr-psycho-hospital-escape/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "DUST - A Post Apocalyptic RPG",
+                    "rating": "8.1",
+                    "released": "October 2019",
+                    "description": "DUST is a text-based adventure game set in a radiated post-apocalyptic world.",
+                    "cover_image": "https://imgs.crazygames.com/dust-a-post-apocalyptic-rpg_16x9/20241014060223/dust-a-post-apocalyptic-rpg_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/dust-a-post-apocalyptic-rpg_16x9/20241014060223/dust-a-post-apocalyptic-rpg_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/dust-a-post-apocalyptic-rpg",
+                    "link": "https://games.crazygames.com/en_US/dust-a-post-apocalyptic-rpg/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Escape Room: Strange Case 2",
+                    "rating": "8.4",
+                    "released": "December 2024",
+                    "description": "Escape Room: Strange Case 2 is an adventure-packed escape game that immerses you in a suspenseful journey through the dark and eerie corridors of a mysterious asylum. Unravel sinister secrets, solve intricate puzzles, uncover hidden clues, and unlock doors as you navigate through the haunting environment.",
+                    "cover_image": "https://imgs.crazygames.com/escape-room-strange-case-2_16x9/20241218055655/escape-room-strange-case-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/escape-room-strange-case-2_16x9/20241218055655/escape-room-strange-case-2_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/escape-room-strange-case-2",
+                    "link": "https://games.crazygames.com/en_US/escape-room-strange-case-2/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Exhibit of Sorrows",
+                    "rating": "9.2",
+                    "released": "April 2022",
+                    "description": "Exhibit of Sorrows is a short horror game set in a curious circus-themed exhibit. Explore this strange interactive museum, follow instructions, and don’t upset the clown!",
+                    "cover_image": "https://imgs.crazygames.com/exhibit-of-sorrows_16x9/20241217031706/exhibit-of-sorrows_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/exhibit-of-sorrows_16x9/20241217031706/exhibit-of-sorrows_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/exhibit-of-sorrows",
+                    "link": "https://games.crazygames.com/en_US/exhibit-of-sorrows/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Halloween Chainsaw Massacre",
+                    "rating": "9.1",
+                    "released": "October 2022",
+                    "description": "Halloween Chainsaw Massacre is an action game where the city was filled with magical monster pumpkins. Use your chainsaw and destroy all enemies! Saw them apart. Make a long-range throw at the enemy and tear him apart. Use a circular attack and take down all the pumpkins around. Free the city and become a hero!",
+                    "cover_image": "https://imgs.crazygames.com/halloween-chainsaw-massacre/20221021011948/halloween-chainsaw-massacre-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/halloween-chainsaw-massacre/20221021011948/halloween-chainsaw-massacre-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/halloween-chainsaw-massacre",
+                    "link": "https://games.crazygames.com/en_US/halloween-chainsaw-massacre/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Haunted School",
+                    "rating": "8.5",
+                    "released": "April 2022",
+                    "description": "Haunted School is a horror survival game where you search a school for the tools required to exorcise a demonic child. Explore the map looking for clues and supplies. How long will you survive the Haunted School?",
+                    "cover_image": "https://imgs.crazygames.com/games/haunted-school---horror-game/cover-1657021606968.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/games/haunted-school---horror-game/cover-1657021606968.png?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/haunted-school---horror-game",
+                    "link": "https://games.crazygames.com/en_US/haunted-school---horror-game/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Haunted School 2",
+                    "rating": "8.6",
+                    "released": "January 2023",
+                    "description": "Haunted School 2 is ahorror gameset ten years after the events in the firstHaunted School. Return once more to the eerie abandoned school to perform another exorcism.",
+                    "cover_image": "https://imgs.crazygames.com/haunted-school-2---horror-game/20230111200747/haunted-school-2---horror-game-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/haunted-school-2---horror-game/20230111200747/haunted-school-2---horror-game-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/haunted-school-2---horror-game",
+                    "link": "https://games.crazygames.com/en_US/haunted-school-2---horror-game/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Horror Nights Story",
+                    "rating": "8.8",
+                    "released": "August 2019",
+                    "description": "Do you ever feel like there are creatures lurking just behind you? Waiting to grab you? In Horror Nights Story this comes true! You must dig down and try to escape from the evil creatures that are following you.",
+                    "cover_image": "https://imgs.crazygames.com/games/horror-nights-story/thumb-1565374446805.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/games/horror-nights-story/thumb-1565374446805.png?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/horror-nights-story",
+                    "link": "https://games.crazygames.com/en_US/horror-nights-story/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Horror Room: Scary Hotel Tycoon",
+                    "rating": "9.0",
+                    "released": "October 2024",
+                    "description": "Horror Room: Scary Hotel Tycoon is a simulation game where you manage a spine-chilling theme park. You’ll design terrifying rooms, hire creepy actors, and come up with creative ways to scare visitors. Keep your attractions running smoothly by cleaning, repairing, and maintaining equipment. Track guest feedback to make improvements and aim to become the top fright master in the business!",
+                    "cover_image": "https://imgs.crazygames.com/horror-room-scary-hotel-tycoon_16x9/20250807091130/horror-room-scary-hotel-tycoon_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/horror-room-scary-hotel-tycoon_16x9/20250807091130/horror-room-scary-hotel-tycoon_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/horror-room-scary-hotel-tycoon",
+                    "link": "https://games.crazygames.com/en_US/horror-room-scary-hotel-tycoon/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Horror Tale 2: Samantha",
+                    "rating": "9.0",
+                    "released": "March 2023",
+                    "description": "Horror Tale 2: Samantha is a spine-chilling first-person horror adventure game. Help Samantha escape from prison and uncover new secrets about the terrifying antagonist who kidnapped her. Solve puzzles, meet interesting characters, and unravel the mystery!",
+                    "cover_image": "https://imgs.crazygames.com/horror-tale-2-samantha_16x9/20241122025042/horror-tale-2-samantha_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/horror-tale-2-samantha_16x9/20241122025042/horror-tale-2-samantha_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/horror-tale-2-samantha",
+                    "link": "https://games.crazygames.com/en_US/horror-tale-2-samantha/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Horror Tale 3: The Witch",
+                    "rating": "9.1",
+                    "released": "April 2025",
+                    "description": "Horror Tale 3: The Witch is a spine-chilling first-person adventure that plunges you into the eerie town of Lakewitch, where children are vanishing without a trace. Solve mind-bending puzzles, explore haunting locations, and face the sinister witch Wanda in your quest to uncover the truth. Will you unravel the dark mystery and survive the nightmare?",
+                    "cover_image": "https://imgs.crazygames.com/horror-tale-3-the-witch_16x9/20250424074351/horror-tale-3-the-witch_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/horror-tale-3-the-witch_16x9/20250424074351/horror-tale-3-the-witch_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/horror-tale-3-the-witch",
+                    "link": "https://games.crazygames.com/en_US/horror-tale-3-the-witch/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Horror Tale",
+                    "rating": "9.0",
+                    "released": "March 2023",
+                    "description": "Horror Tale Kidnapper is a frightening first-person horror adventure game. Solve the disturbing mystery of the missing children at Lakewitch. Who is the kidnapper, and why are they doing it? Where are the children disappearing, and how can we save them? It's up to you to find out.",
+                    "cover_image": "https://imgs.crazygames.com/horror-tale-kidnapper_16x9/20241121093310/horror-tale-kidnapper_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/horror-tale-kidnapper_16x9/20241121093310/horror-tale-kidnapper_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/horror-tale-kidnapper",
+                    "link": "https://games.crazygames.com/en_US/horror-tale-kidnapper/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Iron Friend",
+                    "rating": "8.9",
+                    "released": "October 2024",
+                    "description": "Iron Friend is a spine-chilling first-person horror game where you must confront dark mysteries and survive terrifying encounters. As a staff member thrown into a horrifying situation, your goal is to uncover the truth behind the eerie events unfolding around you. Navigate through creepy environments, solve puzzles, and avoid lurking dangers as you piece together the sinister secrets hidden within. With every step, the tension rises as you face disturbing consequences for every wrong move. Will you survive the nightmare, or will you become another victim of the terror?",
+                    "cover_image": "https://imgs.crazygames.com/iron-friend_16x9/20241024040729/iron-friend_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/iron-friend_16x9/20241024040729/iron-friend_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/iron-friend",
+                    "link": "https://games.crazygames.com/en_US/iron-friend/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Krampus",
+                    "rating": "8.3",
+                    "released": "July 2022",
+                    "description": "Krampus is a horror game to put all the items on the plates, activate the spell, and trap Krampus! Can you defeat him?",
+                    "cover_image": "https://imgs.crazygames.com/krampus/20230424073300/krampus-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/krampus/20230424073300/krampus-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/krampus",
+                    "link": "https://games.crazygames.com/en_US/krampus/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Little Cabin in the Woods",
+                    "rating": "8.6",
+                    "released": "November 2018",
+                    "description": "Little Cabin in the Woods: A Forgotten Hill Tale is an escape type game in which you are trying to escape the monsters from your past. You managed to escape them once and you went to live with your grandpa in the woods inside of a little cabin. The monsters have found you once again but this time you are brave and ready to take them on.",
+                    "cover_image": "https://imgs.crazygames.com/littlecabininthewoodsaforgottenhilltale.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/littlecabininthewoodsaforgottenhilltale.png?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/little-cabin-in-the-woods-a-forgotten-hill-tale",
+                    "link": "https://games.crazygames.com/en_US/little-cabin-in-the-woods-a-forgotten-hill-tale/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "MIDNIGHT Remastered",
+                    "rating": "9.0",
+                    "released": "May 2019",
+                    "description": "This is the remastered edition of MIDNIGHT. Help the character to collect all the seven letters that are scattered in a dark and mysterious mansion.",
+                    "cover_image": "https://imgs.crazygames.com/midnight-remastered/20220825115530/midnight-remastered-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/midnight-remastered/20220825115530/midnight-remastered-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/midnight-remastered",
+                    "link": "https://games.crazygames.com/en_US/midnight-remastered/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Mr. Dude: Online Multiverse Challenge",
+                    "rating": "8.6",
+                    "released": "July 2025",
+                    "description": "Mr. Dude: Online Multiverse Challenge is a casual multiplayer game where pretty much anything can happen. Play with other people from around the world, or with your friends in one of the many challenging yet wacky game modes.",
+                    "cover_image": "https://imgs.crazygames.com/mr-dude-online-multiverse-challenge_16x9/20250818071150/mr-dude-online-multiverse-challenge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/mr-dude-online-multiverse-challenge_16x9/20250818071150/mr-dude-online-multiverse-challenge_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/mr-dude-online-multiverse-challenge",
+                    "link": "https://games.crazygames.com/en_US/mr-dude-online-multiverse-challenge/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Night Watchman",
+                    "rating": "9.0",
+                    "released": "July 2022",
+                    "description": "Night Watchman is ahorror gamewithjump scareswhere you keep watch in the dark. It’s likeHide N Seek, but with scary characters and dangerous dolls that look similar to characters from Four Nights At Freddy's . Cover your eyes and wait to attack - but don’t wait too long!",
+                    "cover_image": "https://imgs.crazygames.com/night-watchman/20220623075320/night-watchman-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/night-watchman/20220623075320/night-watchman-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/night-watchman",
+                    "link": "https://games.crazygames.com/en_US/night-watchman/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Room Escape: Strange Case",
+                    "rating": "8.5",
+                    "released": "November 2023",
+                    "description": "Room Escape: Strange Case is a mystery puzzle game where you, the true detective, delve into the enigma of the elusive \"Alchemist.\" Unravel the chilling tale of defiled graves, navigating through a unique graphic style and atmospheric puzzles. Encounter strange characters and escape clever traps in your quest to unveil the Alchemist's identity. Are you up for the challenge of this original and mysterious adventure? You can also watch the walkthrough forchapter 1,chapter 2, andchapter 3.",
+                    "cover_image": "https://imgs.crazygames.com/room-escape-strange-case_16x9/20231109043847/room-escape-strange-case_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/room-escape-strange-case_16x9/20231109043847/room-escape-strange-case_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/room-escape-strange-case",
+                    "link": "https://games.crazygames.com/en_US/room-escape-strange-case/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Scary Horror Escape Room",
+                    "rating": "8.2",
+                    "released": "October 2022",
+                    "description": "Scary Horror Escape Room is a creepyescape room gameset in a mysterious place. Solve tricky puzzles and escape the place alive!",
+                    "cover_image": "https://imgs.crazygames.com/scary-horror-escape-room-games/20221005094534/scary-horror-escape-room-games-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/scary-horror-escape-room-games/20221005094534/scary-horror-escape-room-games-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/scary-horror-escape-room-games",
+                    "link": "https://games.crazygames.com/en_US/scary-horror-escape-room-games/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Silent House",
+                    "rating": "7.8",
+                    "released": "May 2019",
+                    "description": "You woke up and found yourself locked in a strange room. You also find out that you are not alone! Silent House is a horror game with deep gameplay that is all about trying to conquer your fear and escape from the horrors.",
+                    "cover_image": "https://imgs.crazygames.com/games/silent-house/thumb-1557396260926.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/games/silent-house/thumb-1557396260926.png?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/silent-house",
+                    "link": "https://games.crazygames.com/en_US/silent-house/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "Siren Head: Playing in the Forest",
+                    "rating": "8.4",
+                    "released": "July 2023",
+                    "description": "Siren Head: Playing in the Forest immerses you in a gripping action game where an accident leaves you stranded in a dark forest. Your sole objective is to escape this eerie nightmare, but the terrifying Siren Head stands in your way. Survive the encounter and gather car parts to repair your vehicle and flee from this horrifying creature. Beware of the imposing and haunting 3D model of the Lilac-Headed monster, ready to send shivers down your spine. Experience an unexpected plot as you strive to survive and confront the Siren Head. Brace yourself for an intense final battle, where your skills will be put to the test in this chilling horror story. Can you conquer the nightmare and save your family?",
+                    "cover_image": "https://imgs.crazygames.com/siren-head-playing-in-the-forest/20230726140846/siren-head-playing-in-the-forest-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/siren-head-playing-in-the-forest/20230726140846/siren-head-playing-in-the-forest-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/siren-head-playing-in-the-forest",
+                    "link": "https://games.crazygames.com/en_US/siren-head-playing-in-the-forest/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Skinwalker",
+                    "rating": "8.7",
+                    "released": "June 2024",
+                    "description": "Skinwalker is an adventure puzzle escape game where you are trapped in the heart of a frozen wilderness. Your goal is to survive a winter forest while escaping from a relentless, terrifying creature. Your survival hinges on your ability to gather essential items and stay one step ahead of a relentless and terrifying creature",
+                    "cover_image": "https://imgs.crazygames.com/skinwalker_16x9/20240605075244/skinwalker_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/skinwalker_16x9/20240605075244/skinwalker_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/skinwalker",
+                    "link": "https://games.crazygames.com/en_US/skinwalker/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "Sprunki",
+                    "rating": "8.8",
+                    "released": "October 2024",
+                    "description": "Sprunki is a casual music game that lets you craft unique soundscapes. This modded version of Incredibox by NyankoBfLolCombine gives you DJ control to mix loops, vocals, beats, and melodies—pretty much create your own musical style. The game features vibrant characters and sounds for a completely immersive experience full of rhythmic possibilities. Whether you're a music enthusiast or just love experimenting, it’s a fun and engaging way to express your creativity.",
+                    "cover_image": "https://imgs.crazygames.com/games/sprunki-itn/cover_16x9-1732009692724.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/games/sprunki-itn/cover_16x9-1732009692724.png?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/sprunki-itn",
+                    "link": "https://games.crazygames.com/en_US/sprunki-itn/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                },
+                {
+                    "title": "SYNTAXIA",
+                    "rating": "9.4",
+                    "released": "February 2025",
+                    "description": "SYNTAXIA is an adventure story game where you awaken in a decaying complex, confused and alone. A nearby laptop flickers to life, granting you a mysterious power. Whatever you write becomes a reality. Use this unique ability to navigate the enigmatic Sensoria Komplex, solve puzzles, and uncover hidden secrets as you search for a way out. Can you rewrite your fate and escape?",
+                    "cover_image": "https://imgs.crazygames.com/syntaxia_16x9/20250220041220/syntaxia_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/syntaxia_16x9/20250220041220/syntaxia_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/syntaxia",
+                    "link": "https://games.crazygames.com/en_US/syntaxia/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "The Dawn of Slenderman",
+                    "rating": "8.3",
+                    "released": "August 2021",
+                    "description": "The Dawn of Slenderman a first-person horror survival game to find the required pages and to either avoid and kill Slenderman.",
+                    "cover_image": "https://imgs.crazygames.com/the-dawn-of-slenderman/20210823134248/the-dawn-of-slenderman-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/the-dawn-of-slenderman/20210823134248/the-dawn-of-slenderman-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/the-dawn-of-slenderman",
+                    "link": "https://games.crazygames.com/en_US/the-dawn-of-slenderman/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": false
+                }
+            ]
         }
     ]
 }
