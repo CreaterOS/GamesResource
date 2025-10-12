@@ -1,4 +1,32 @@
 {
     "limit" : 10000,
-    "black_list" : []
+    "black_list" : [
+        {
+            "name": "Adventure",
+            "items": [
+                {
+                    "title": "911: Cannibal",
+                    "rating": "8.5",
+                    "released": "March 2023",
+                    "description": "911: Cannibal is a spine-chilling horror game where you have to escape the house of a maniacal cannibal. Playing as a kidnapped teenager, your mission is to find items that help you escape by solving various puzzles, all while covering your tracks to avoid detection. Can you outsmart the cannibal and escape his clutches, or will you be his next victim? Explore the ominous house, uncover notes, and unravel the twisted story of Minnesota's most frightening maniac.",
+                    "cover_image": "https://imgs.crazygames.com/911-cannibal_16x9/20241122040509/911-cannibal_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/911-cannibal_16x9/20241122040509/911-cannibal_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/911-cannibal",
+                    "link": "https://games.crazygames.com/en_US/911-cannibal/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                },
+                {
+                    "title": "911: Prey",
+                    "rating": "8.7",
+                    "released": "August 2023",
+                    "description": "911: Prey is a scary horror game with puzzles. In this game, you are a kidnapped teenager that needs to escape from a cannibal maniac who brought you to his house. Search for any useful items to help you get out of his house. Be very careful and cover up your tracks so that the maniac does not suspect anything!",
+                    "cover_image": "https://imgs.crazygames.com/911-prey_16x9/20241122033719/911-prey_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+                    "thumbnail_cover_image": "https://imgs.crazygames.com/911-prey_16x9/20241122033719/911-prey_16x9-cover?metadata=none&quality=100&width=240&height=126&fit=crop",
+                    "url": "https://www.crazygames.com/game/911-prey",
+                    "link": "https://games.crazygames.com/en_US/911-prey/index.html?isNewUser=true&v=1.339",
+                    "rotation_required": true
+                }
+            ]
+        }
+    ]
 }
