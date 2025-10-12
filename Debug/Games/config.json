@@ -1,5 +1,5 @@
 {
-    "limit" : 10000,
+    "limit" : 30,
     "black_list" : [
         {
             "name": "Adventure",
